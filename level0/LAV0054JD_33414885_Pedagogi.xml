@@ -4,8 +4,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Pedagogi : ELTec edition</title>
-<title xml:lang="lv">Pedagogi</title>
+<title>Pedagogi : ELTec edition</title
 <author ref="viaf:33414885">Birkerts, Antons (1876-1971)</author>
 <respStmt>
 <resp>editor</resp>
@@ -24,18 +23,23 @@
 </relatedItem>
 </sourceDesc>
 </fileDesc>
-<encodingDesc n="eltec-0"/>
+<encodingDesc n="eltec-0">
+<p/>
+</encodingDesc>
 <profileDesc xmlns:e="http://distant-reading.net/eltec/ns">
 <langUsage> 
 <language ident="lv"/>
 </langUsage> 
 <textDesc> 
 <e:authorGender key="M"/>
-<e:canonicity key="medium"/>
 <e:size key="medium"/>
+<e:canonicity key="medium"/>
 <e:timeSlot key="T4"/>
 </textDesc>
 </profileDesc>
+ <revisionDesc>
+<change when="2019-01-26">Deleting redundant title element</change>
+</revisionDesc>
 </teiHeader>
 <text>
 <front><epigraph><quote>„Jūs esat tās zemes sāls."</quote></epigraph><p>Matt. ev. 5, 13.</p></front>
