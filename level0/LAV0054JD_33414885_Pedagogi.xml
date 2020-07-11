@@ -4,7 +4,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Pedagogi : ELTec edition</title
+<title>Pedagogi : ELTec edition</title>
 <author ref="viaf:33414885">Birkerts, Antons (1876-1971)</author>
 <respStmt>
 <resp>editor</resp>
@@ -17,23 +17,23 @@
 </extent>
 <publicationStmt><p>Published as part of ELTeC<date>Sept 2019</date></p></publicationStmt>
 <sourceDesc>
-<bibl type="copyText"><title>Pedagogi</title><author>Birkerts, Antons (1876-1971)</author><publisher>A. Raņķa grāmatu tirgotavas apgādībā</publisher><pubPlace>Rīga</pubPlace><date>1924</date></bibl>
-<relatedItem>
+<bibl type="printSource"><title>Pedagogi</title><author>Birkerts, Antons (1876-1971)</author><publisher>A. Raņķa grāmatu tirgotavas apgādībā</publisher><pubPlace>Rīga</pubPlace><date>1924</date></bibl>
+
 <bibl type= "firstEdition"><title>Pedagogi</title><author>Birkerts, Antons (1876-1971)</author><publisher>Apg. J. Rose</publisher><pubPlace>Rīga</pubPlace><date>1908</date></bibl>
-</relatedItem>
+
 </sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-0">
 <p/>
 </encodingDesc>
-<profileDesc xmlns:e="http://distant-reading.net/eltec/ns">
+<profileDesc xmlns:e="http://distantreading.net/eltec/ns">
 <langUsage> 
 <language ident="lv"/>
 </langUsage> 
 <textDesc> 
 <e:authorGender key="M"/>
 <e:size key="medium"/>
-<e:canonicity key="medium"/>
+<e:canonicity key="low"/>
 <e:timeSlot key="T4"/>
 </textDesc>
 </profileDesc>
@@ -42,7 +42,8 @@
 </revisionDesc>
 </teiHeader>
 <text>
-<front><epigraph><quote>„Jūs esat tās zemes sāls."</quote></epigraph><p>Matt. ev. 5, 13.</p></front>
+ <!-- quote element not available in eltec-0 -->
+<front><div type="liminal"><p>„Jūs esat tās zemes sāls."</p><p>Matt. ev. 5, 13.</p></div></front>
 <body>
 <div type="chapter"><head>1.</head>
 <p>Traki!</p><p>Tā vairs ilgāk nevarēja iet!</p>
