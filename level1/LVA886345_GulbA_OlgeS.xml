@@ -1,0 +1,3469 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lv" xml:id="LVA886345_GulbA_OlgeS">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+      <title>Olģerts Silarājs</title>
+      <author>Gulbis, Ansis, 1873–1936</author>
+      <respStmt>
+        <resp>editor</resp>
+        <name>Artis Ozols</name>
+      </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="words">59502</measure>
+        <measure unit="pages">237</measure>
+      </extent>
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <date when="2022-04-22"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/"> Licenced under CC-BY 4.0 </licence>
+        </availability>
+        <ref type="doi" target="https://dom.lndb.lv/data/obj/886345"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://dom.lndb.lv/data/obj/886345">Gulbis, Ansis, 1873–1936, Olģerts Silarājs
+          </ref>
+          <publisher>National Library of Latvia</publisher>
+        </bibl>
+        <bibl type="firstEdition">
+          <title>Olģerts Silarājs</title>
+          <author>Gulbis, Ansis, 1873–1936</author>
+          <publisher>Rīga: Anša Gulbja izdevniecība</publisher>
+          <pubPlace>Rīga</pubPlace>
+          <date>1920</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+      <profileDesc
+          xmlns:e="http://distantreading.net/eltec/ns">
+        <langUsage>
+      <language ident="lv" usage="100"/>
+        </langUsage>
+        <textDesc>
+          <e:authorGender key="M"/>
+          <e:canonicity key="low"/>
+          <e:size key="medium"/>
+          <e:timeSlot key="T4"/>
+        </textDesc>
+      </profileDesc>
+    <revisionDesc>
+      <change when="2022-04-22">Automātiski pārveidots ELTeC formātā</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+      <front>
+          <div type="titlePage">
+              <head>Lida Erik.</head>
+              <p>(Kāda cilvēka dienas grāmata.)
+                  No Līcišu Paulas.</p>
+          </div>
+      </front>
+      <body>
+          <div type="group">
+              <head>10. decembrī.</head>
+              <p>Vēsais rīta gaiss plūst sejā un patīkami spirdzina...
+              Vientuļās ielās neredz neviena cilvēka. Ir jau ar agrs: pulkstenis 
+              var būt trīs ... Man apkārt viss tik klusa miera pilns,
+              ka negribas mājās iet ... Mirdz debesīs zvaigznes, mirdz sniegs,
+              mirdz laternas ... Un es eju, eju, - bet galvā dun, kā tāli
+              baznicas zvani; ausīs sāk lēni, vilinoši skanēt valša „Die
+              lustige Vitve“ glāstošā meldija - „Lippen schweigen“ -
+              un piepeži acu priekšā izaug kāds tēls - jaunava-bērns,
+              skaidrām dzintara krāsas acim, zeltainiem matiem, mirdzošā baltā
+              uzvalkā, - un pār sārtām, smaidošām lūpam plūst nesaprotamas 
+              skaņas, un acīs dziļas ilgas, - tik svešas, ka nespēju
+              saprast... Tu, vecais zēn, esi muļķis, - tādas lietas tev
+              neder!“ tā es sevi mēģinu pārliecinat un pie tam pasmieties, 
+              bet smiekli tā kā nenāk, neplūst ... Savādi kaist visa
+              miesa, deg smadzenes ... Un tīkas pašam sevi mocit.</p>
+  
+              <p>Eju un dziedu vieglo valša meldiju, ar kuru saistās tikdaudz
+              atmiņu...</p>
+  
+              <p>Nonāku beidzot līdz mājām. Durvju sargs atslēdz durvis. 
+              Kāpju pa trepēm, - liekas: viņām nebūs beigu...
+              Vēl - un vēl - un vēl ... Beidzot ! Sagrabinu atslēgu 
+              un slēdzu durvis .... Aslēga savādi, nočīkst...
+              Man sametas bail...</p>
+  
+              <p>Manā istabiņā tumšs. Nometu drēbes un steidzigi iekrītu
+              gultā, jo man nupat liekas, ka uz mani skatās simtiem degošu
+              acu, un man bail, ka viņas neierauga to palaidni - valgumu,
+              kurš kā nelūgts viesis sāk plūst iz acim. Ko nu darīt?
+              Spilvens top valgs no asarām ... Kur mana „recepte“ pret
+              sirdssāpēm? ... Nav, nav neviena prātīga padoma smadzenēs ..
+              Viens no diviem: vai nu esmu ģeķis, vai pazudis cilvēks. Dilemma...
+              Bet ne, līdz cilvēka godam vēl neesmu ticis,
+              jo man nav sava stāvokļa, naudas, nama, skaistas sievas un</p>
+              <pb/>
+  
+              <p>zelta briļļu. Ir tikai audeklis, krāsas, pindzeles un - dvēsele,
+              par kuru neviens nedod ne sarkana graša ... Hm, slikts
+              joks - bez asprātibas ... Izklausas traki muļķigi...
+              Sāku atcerēties, kā tas viss notika ... Mans bijušais
+              gleznošanas skolotājs - mākslinieks B. - iedāvināja
+              man biļeti uz kādu izrīkojumu, kur ari viņš bij rīkotāju skaitā. 
+              Uztraucos mazliet, iedomājoties, ka pēc ilgiem laikiem būs
+              jāatrodas gaišā, plašā zālē, jāredz pazīstamas un nepazīstamas 
+              sejas, jāklausas klavieru, dziesmu un vijoļu skaņās...
+              Vijoļu! ... Cik labi!...</p>
+  
+              <p>Sāku jau agri gatavoties uz iešanu. Izpurināju, cik
+              iespējams, savas diezgan valkātās „svētku“ drēbes, noņēmu
+              ar pirkstu palīdzibu katru mazāko pūciņu, tā kā beidzot pats sev
+              klusu atzinos, ka apģērbs izskatījās diezgan labs. Ar neparastu
+              rūpību pārvilku ķemmi pār saviem nepaklausīgiem melniem
+              matiem, kuri - lai gan cirtās - tomēr krita uz deniņiem; šoreiz 
+              tie bij rātnāki. Brīnums, ka varēju tik nopietni nodarboties 
+              ap savu ārieni. Ja būtu bijis kaut mazs spoguļa gabaliņš, 
+              tad, bez šaubām, es būtu viņā sevi pamatīgi apskatījis.
+              Kādēļ es tā rūpējos par savu ārieni? Kādēļ mēģināju apslēpt 
+              savu nabadzību, kura bij uzspiedusi savu zīmi manai dzīvei? - 
+              Man bij kauns no viņas. Mēdz gan teikt, ka kaunēties
+              no nabadzības esot muļķigi, bet man tomēr bij jākaunas, tādēļ
+              ka viņas dēļ iemantoju dažu labu reizi daudz līdzcietīgu, 
+              nožēlojošu, pat ironisku skatu ... Lai nu kā, - šovakar
+              būšu brīvs no viņiem, - tā domāju.</p>
+  
+              <p>Izgāju iz mājām diezgan vēlu, lai jo vēlu nonāktu
+              izrīkojumā; tas esot „chic“ ... Gribēju tāds būt ...
+              Jā, bet savā vecajā ziemas mētelī un cepurē nemaz gan tik jauks
+              neizskatījos; drīzāk jau drusku nožēlojams. Bet - uznāca piepeši 
+              kāda jautra bezbēdiba: lai smejas, kam tīk; pie joda, kas
+              gan man tur par daļu? Esmu godīgākais cilvēks uz pasaules un
+              cepuri pacelt protu tikpat pieklājīgi, kā tur tas kungs lepnajā kažokā.</p>
+  
+              <p>Kad iegāju zālē, trūka piecas minūtes no astoņiem. Nosēdos 
+              savā krēslā un sāku aplūkot publiku, kura bij ieradusies
+              lielā skaitā. (Atrodu par vajadzīgu pastāstīt savam draugam
+              papīram, ka mans krēsls bij piektā rindā, par ko B. kungam biju
+              no visas sirds pateicīgs: mans lepnums - vaj ari godkārība - 
+              kā nu to ņem - nedabūja ciest). Man pa kreisi sēdēja</p>
+              <pb/>
+  
+              <p>resns kungs melnā frakā (cik varēju, t i. drīkstēju noskārst,
+              fraka bij, kā sacīt jāsaka - „nagelneu“; vairāk neko nezinu, jo
+              virsū skatīties nav atļauts), rokas saņēmis un īsos, taukos pirkstiņus 
+              stīvi izstiepis, protams, lai citi redzētu, cik skaistus briljantus
+              juveliers licis viņam gredzenos; skaisti noaudzētā, divās daļās izšķirtā 
+              bārzda, gludi saķemmētie (es labprāt gribētu teikt „nolaizītie“) 
+              mati un prātīgais, pašapmierinājuma pilnais smaids
+              likās sakot: „Esmu bagāts, godigs kungs, izdodu savu naudu tur,
+              kur viņa man visvairāk laba atnes, cienīju savu tēviju tikdaudz,
+              cik godīgam un cienīgam pilsonim pieklājas, gādāju par savu
+              mīļo sievu, kā visi labi cilvēki!“ Bet mazajās actiņās mirdzēja
+              kas cits, un šis cits likās kliegtin kliedzam: „Es ari vēl esmu
+              te!“ Uz mana kaimiņa laulāto draudzeni man pavisam netikās
+              skatīties. Man pa labi sēdēja kāda jaunkundze ar savu „mammiņu“; 
+              viņai, t.i., jaunkundzei bij nelabs ieradums raudzīties uz
+              maniem zābakiem, - man tapa neomulīgi.</p>
+  
+              <p>Drīz pienāca kāds kolēģis; bij mani ieraudzījis un gribējis 
+              parunāties; sniedza roku, sasveicinājamies.</p>
+  
+              <p>„Kā sviežas?“</p>
+  
+              <p>- „Gluži labi, nekas! Bet kā tad tu atkūlies reiz
+              šurp? Domājām visi, ka būsi jau vaj aiz trejdeviņiem kalniem, 
+              trejdesmitā karaļa vasltī pie skaistās princeses, pie raganām,
+              pie pūķiem! Ne redzēt, ne dzirdēt! Dzīvo tu gan, kā mūks!“
+              Parunājāmies par šo, par to. Vaicāja man, kāpēc es tik maz
+              apmeklējot izrīkojumus. Atteicu, ka nav naudas. - „Ai, brālīt,
+              tu domā, ka man iet labāki? Tev vēl tavs apģērbs mugurā,
+              bet man - - - i fraka nav mana, - aizņēmos no kāda
+              pazīstama. Bet dzīvot vajaga! Kur gan tad baudīt jautrību,
+              ja ne še?“ - Aplūkoju biedra apģērbu un atteicu vaļsirdīgi, ka
+              viņam fraka labi stāv - tīri ka viņa paša. - „Oh, - vajaga 
+              mācēt nest. Ak tā, es tev gribu labu padomu dot - - “</p>
+  
+              <p>- „Nu?“</p>
+  
+              <p>Te mans kolēģis, mans jautrais Augusts, pieliecās man pie
+              auss un teica: „Mācies dzīves jautro, skaisto daļu baudīt.“</p>
+  
+              <p>- „Ko tad teiktu tumšā puse - dzīves ēnas?“</p>
+  
+              <p>„Tās var iet gulēt. Šovakar mēs tevis vaļā nelaidīsim. 
+              Tavs B. pastāv uz to, ka tev vajagot nelaimigi iemīlēties, 
+              tad tu palikšot citāds. Viņš grib tevi iepazīstināt ar
+              savu „sirds āķīti“. Mēģini tagad B. piemuļkot un izrādi savas 
+              spīdošās zināšanas!“ un Augusts aizgāja smiedamies.</p>
+              <pb/>
+  
+              <p>Ak tu mūžs, cik jocigi: nevaru pārvarēt sava uzbudinājuma, 
+              kad iedomājos, kas viss man nebūs jāatstāsta manam
+              draugam papīram! Lai viss cik iespējams novilcinātos, tad atstāstu 
+              beidzamo sīkumiņu; varbūt ka pa to laiku nemiers pāries. 
+              Papīram gan garlaicīgi klausīties, - nu, bet viņš neprot
+              ne žāvāties, ne lūgties, un tādēļ rakstu tālāk ...</p>
+  
+              <p>Otrais zvans ... trešais ... Apskatījos: zāle pārpildīta. 
+              Dzirdēju sačukstamies : nams esot izpārdots ...</p>
+  
+              <p>Priekškars pacēlās ... Koris korekti nodziedāja glītu
+              dziesmiņu. Tad iznāca kāda dziedātāja; neatradu nekā pievilcīga 
+              un skatījos programā, - kas nu nāks; ieraudziju kāda iemīļota 
+              vijoļu solista vārdu, un viss manī ietrīcējās; sajutu savādu prieku ... 
+              Gaidīt gaidīju ... Beidzot viņš iznāca,
+              drusku saliecies, kā kupri mugurā sametis (atgādināja man no
+              Heines aprakstīto Paganini), palocījās un noskaņoja vijoli, tad
+              vilka pār stīgām ... Kāds viņam varens, spēka un dzīvības 
+              pilns vilciens, - straujš, kā vēsais ūdens kritums!
+              Tas elektrizēja ... Zālē viss apklusa un nu es sapratu, kādēļ 
+              bij nācis šis lielais cilvēku mudžeklis ...</p>
+  
+              <p>Mūzikai uz mani brīnišķīgs iespaids: kad dabūju netraucēts 
+              viņā noklausīties, tad jūtu, ka manī sakāpj savāds žēlums 
+              par kaut ko pazudušu, un šis pazudušais liekas būt bijis 
+              tik bērnišķīgi tīrs un glezns; līdz ar žēluma sajūtu
+              sāku sevī manīt tīras, sirsnigas jūtas pret visu pasauli; tikai
+              šīs jūtas neatvieglina, bet gan apgrūtina krūtis, - un man
+              gribas tādos brīžos raudāt kā izkultam bērnam par to, ka cilvēks 
+              jūt sevi tik tīru tikai zināmos brīžos, ka viņš pastāvīgi 
+              atrod sevī ko sliktu, sev pašam piedauzīgu - un cenšas
+              to ja ne novērst, tad vismaz apslēpt, - jo tādas lietas dara
+              cilvēku bailīgu ... Tādu pašu iespaidu uz mani atstāj arī
+              teātris; bet nekad neesmu izmēģinājis savus spēkus šajā laukā,
+              jo kad reiz būšu iesācis, tad nekad vairs nevarēšu atmest.
+              Kas attiecas uz mūziku, tad es vismīļāk spēlētu čello un -
+              dziedātu; pēdējo gan jau pa druskai daru ... Nu bet pļāpas
+              pie malas! Gribas tagad pašam sevi pamēdīt ... Nu ja,
+              vijole tapa spēlēta jauki, un debešķīgi, un nepārspējami, un
+              aizgrābjoši, un satracinoši, - un - jā, kā nu vēl lai saku?
+              Vēl smejos, meklēdams pēc vārda, bet jūtu, ka jau lēni
+              zogas šurpu žēlabas un sāpes un iecērt savus asos nagus</p>
+              <pb/>
+  
+              <p>dziļi krūtīs ... Nu, ātrāki, ātrāki, - vienu pašu vārdu, -
+              tas mani glābs ...</p>
+  
+              <p>„Zirgu, zirgu!“</p>
+  
+              <p>Veselu ķēniņa valsti par vienu zirgu!“</p>
+  
+              <p>Tā teic, - jā, kas tā teic? Ak jā, ķēniņš Richards.
+              Nu, te nu viņš ir, šis vārds, - „apreibinoši“, - „mirdzoši“. 
+              Atkārtoju: apreibinoši, apreibinoši, - un man jau
+              sāk galva reibt. Netieku rakstīdams ne no vietas, un es tak tā
+              gribu savam mēmam draugam (kurš neprot žāvāties, bet
+              klausās visu, lai tas būtu vaj treju skaitļu rēķins, vaj salds
+              noslēpums) uzticēt visu to, kas mani padarījis tik traku; gribu
+              prātīgi no sirds izrunāties ...</p>
+  
+              <p>Jā ... Pa pauzes laiku jaunkundze (pa labi) lūkojās bailīgi 
+              uz manām rokām. Manas rokas tak bij baltas un glītas
+              diezgan! Kas viņai tur ko redzēt?</p>
+  
+              <p>Mans kolēģis bij aizstūrējis uz zāles otru galu, kur sarunājās 
+              ar kādu glītu meiču.</p>
+  
+              <p>Pauze beidzās. Atskanēja zvans - pirmais - otrais -
+              trešais. Zāle palika tumša, priekškars pacēlās; redzēju
+              greznu bagātnieka istabu, - uz zofaja sēdeja mans skolotājs -
+              mākslinieks B., - tam apkārt pulks biedru. Tapa uzvesta
+              kāda viegla satura luga. Ieintresējos i par lugu pašu, i par
+              savu kolēģu spēli. Te - negaidīts spēriens, - šinī vietā
+              man jāapstājas un jāuzelpo, pirms uzrakstu to, ko redzēju. Muļkības 
+              jau nu vien ir. Ko es redzēju, bij kādas jaunas meitenes
+              seja (jāsāk jau tā lieta ņemt no jocīgās puses, citādi sākšu
+              murgot), vairāk nekas; bet šī seja bij tik savāda, ka saistīja pilnigi 
+              visu manu uzmanību; šminķis un pūders gan nebij ne
+              pie viena aktiera sejas taupīts, bet - tas vienalga: tā nebij
+              sejas krāsa, kas mani valdzināja, bet gan sejas forma, vaibsti
+              un - galvenais - sejas izteiksme ... Kas šī meiča tāda
+              bija? Kādēļ B. man nebij neko stāstījis? Es tak viņam vaicāju, 
+              kas spēlēs līdz, - un viņš izvairījās no tiešas atbildes ... 
+              Bet cik viņa labi spēlēja, šī Veronika (tā viņu lomā
+              sauca)! Straujās, traģiskās vietās viņa, likās, pate drebēja aiz
+              kaislības, acis dzirkstēja ugunīs; bet kad viņa smējās - tā klusu,
+              klusu, - stipri viņa nemēdza nekad smieties, - tad viņas sejā
+              parādījās savāds sāpīgi-zobgalīgs vilciens, kas lika gandrīz
+              domāt, ka viņa smējās tikai ārīgi, ne no sirds.</p>
+  
+              <p>Luga beidzās uztraucoši (vismaz priekš manis): Veronika</p>
+              <pb/>
+  
+              <p>piespiesti skaņi un zobgalīgi iesmējās, nogāza kādu puķu vāzi
+              uz grīdas, iesvieda B-am veselu sauju puķu acīs, pateica:
+              „Nu tad - es ceru - uz nekad-neredzāšanos!“ un aizgāja.</p>
+  
+              <p>Publika skaņi applaudēja, izsauca aktierus, bet es nekā cita
+              neredzēju, kā Veroniku, kura patlaban kā negribēdama palocijās
+              pret publiku. Viņas skats slīdēja pār raibo pūli un apstājās
+              taisni pret mani; zāle gan bij jau apgaismota, bet tomēr varu
+              vaj apzvērēt, ka viņa manis neredzēja ...</p>
+  
+              <p>Sākās deja, šī neizbēgamā izrīkojumu otrā daļa, kura
+              ienes visvairāk naudas. Domāju iet uz māju, bet piepeši
+              jutu, kā pats nelabais mani šovakar saņēmis savos nagos, liek
+              manām asinīm strauji rinķot, smadzenēm kaist un sirdij vēlēties
+              ko bezgalīgi plašu un apreibinošu ... Viens valsis tagad
+              būtu ļoti labs ...</p>
+  
+              <p>Te pienāca mans kolēģis.</p>
+  
+              <p>„Nu, Henrij, kā patīk?“ tas vaicāja.</p>
+  
+              <p>- „Lieliski, August, - jūs visi bijat braši zēni!“ tā
+              atbildēju, kaut gan uz mēles stāvēja vesels brāziens jautājumu.</p>
+  
+              <p>„Na, vaj šī nespēlēja labi?“ Augusts viltīgi vaicāja.</p>
+  
+              <p>- „Kas, - šī?“ es gluži nevainīgi vaicāju.</p>
+  
+              <p>„It kā tu nesaprastu! Nu - Veronika.“</p>
+  
+              <p>- „Oh ja, nekas nekait. Kas tā tāda ir?“</p>
+  
+              <p>„Ah, ieintresējies! Bet ja nu es tev nesaku?“</p>
+  
+              <p>- „Liela vajadzība nav,“ es vienaldzīgi atbildēju, paraustīdams plecus.</p>
+  
+              <p>„Ar tevi nekas nav iesākams!“ Augusts pukojās: „Nu,
+              tad klausies! Viņas vārds - Lida Erik. Bagātu vecāku meita,
+              skaista, izglītota, - nākamā zvaigzne dramatiskās mākslas
+              laukā.“</p>
+  
+              <p>- „Lida Erik? Savāds vārds, pie mums neparasts.“</p>
+  
+              <p>„Jā; zini, - viņas tēvs norvēģietis, māte - latviete.“</p>
+  
+              <p>- „Ah, tad tā!“ Neteicu vairāk ne vārda.</p>
+  
+              <p>Patlaban jau spēlēja valsi. Mans Augusts aizlaidās kā
+              spārnos uz zāles stūri, kur uzaicinaja to pašu jaunkundzi, ar
+              kuru pauzē runājās.</p>
+  
+              <p>Paliku viens pats. Sēdēju, un manas domas kavējās pie
+              kādas saplēstas vāzes un viņas plēsejas. Te piepeši redzu
+              nākam mākslinieku B. ar divām jaunkundzēm zem rokas, un
+              viena no tām, - viena no tām, -  visi labie gari, stāvat</p>
+              <pb/>
+  
+              <p>man klāt! - viena no tām bij Lida Erik. Jā, bez jokiem!
+              Gribēju izberzēt acis, bet īstā laikā atcerējos, ka tā nepieklājas.
+              Visi trīs nāca taisni uz mani; B. stāstija kaut ko, visi lūkojās 
+              šurp un smaidija. Man bij traki neomuligi, bet es savilku
+              uzacis uz augšu (to es tik labi protu!) un lūkojos uz viņiem
+              tā, it kā tos nemaz neredzētu, - it kā manā priekšā būtu
+              tukša telpa ...</p>
+  
+              <p>"Labvakar, Henrij,“ B. sauca: „tagad pienācis svarīgs, tā
+              sacīt, izšķirošs brīdis, kur - - - bet, pie joda, neskaties
+              tik vienaldzīgi! Ballē vajaga acīm mirdzēt!“</p>
+  
+              <p>- „Tas jau vēl var notikt.“</p>
+  
+              <p>„Jā, es gribu tad ticēt. Bet nu izvēlies: sārtu rozi vaj
+              baltu liliju?“</p>
+  
+              <p>- „Šim vakaram sārtu rozi,“ atbildēju neapdomādamies,
+              vienaldzīgi. Un te nu notikās tas, ko nebiju šovakar ne cerējis,
+              ne domājis: B. iepazīstinaja mani ar Lidu Erik un aizgāja, atstādams 
+              mūs abus likteņa varā.</p>
+  
+              <p>Sajutu Lidas Erik roku sev uz pleca. „Iesim, kamēr valsis
+              nav beidzies,“ viņa teica, un mēs iejaucāmies raibā pūlī. „B.
+              kgs man man par jums tik daudz sastāstīja, ka nevarēju nociesties,
+              jūs vismaz neredzējusi.“</p>
+  
+              <p>- „Jūs ar B. kgu jau sen pazīstami?“</p>
+  
+              <p>„Tā, - diezgan ilgi.“</p>
+  
+              <p>- „Un vaj jūs ticat tam, ko viņš stāsta?“</p>
+  
+              <p>„Nē,“ un viņa ieskatījās man pētoši acīs.</p>
+  
+              <p>Valša meldija, raibais pūlis, gaisma, puķu smarša, -
+              viss sajaucās par rožainu mudzekli, par fonu, kurš jo skaidri
+              atdalīja Lidas Erik zeltmataino galvu, dzintara-brūnās acis, slaidās 
+              kakla un roku līnijas. Kas mani tagad sevišķi ieinteresēja,
+              bij viņas sejas krāsa, nepastāviga kā jūra: drīz tā bij mirdzoši 
+              balta, drīz pārlējās kā ar rožainu blāzmu, drīz pavisam 
+              piesarka: brīžiem tā pieņēma caurspīdīgu bālumu, tā
+              ka varēja skaidri izšķirt zilganas dzīsliņas deniņos: tādās reizēs 
+              no visas sejas redzēju tikai melnās, skaisti liektās, stūrainās
+              uzacis un skaidrās acis, kuras tad, likās, tapa dziļas un tumšas,
+              kā apmākusēs debess ...</p>
+  
+              <p>„Nu, stāstat tak kaut ko, - neciešat klusu,“ Lida viegli
+              ierunājās. Sāku nezin ko stāstīt un aplūkoju viņas roku; ap
+              to vijās gluda zelta čūska;: mazā pirkstā bij viens vienīgs gluds
+              gredzentiņš ar pērli; viss vienkāršs, bet skaists; pate roka -
+              diezgan maza un smalka, bet ļoti savāda - stūraina. Nospriedu,</p>
+              <pb/>
+  
+              <p>ka Lidas raksturā ir dažas (kā nu to lai saka) „stūrainības“
+              (pielieku jautājuma zīmi un izsaucēju pie šī jaunatrastā vārda),
+              asumi; to pierāda uzacu līnija, rokas forma un žestes. Ka Lida
+              bij nervoza, to vēroju no viņas gaitas un vaibstu maiņas.</p>
+  
+              <p>Nezinu, kādēļ piepeši sāku atkārtot: „Sarkanu rozi vaj
+              baltu liliju.“</p>
+  
+              <p>Lida iesmējās. „Jūs brīnaties par mūzu pieņemtiem
+              vārdiem?“</p>
+  
+              <p>„Nebūt nē.“</p>
+  
+              <p>„Vaj ziniet, ko B. kungs sacija? Viņš tiepās, ka liktens
+              viņam esot lēmis šovakar ar mani visus valšus dejot. Es
+              teicu, ka tā laikam gluži vis nebūs. B. sāka ķildoties: tad
+              teicu, lai izmēģina, kuram būs taisniba: man, vaj viņam.“</p>
+  
+              <p>„Nu, un?“</p>
+  
+              <p>- „Nu, B. mums sadeva vārdus un mēs visi nācām
+              šurp; B. teica, ka jūs katrā ziņā izvēlēšoties liliju, jo roze,
+              pēc jūsu domām, esot grēciga puķe.“</p>
+  
+              <p>„Skaties, kāds!“</p>
+  
+              <p>- „Jā, es gan teicu, ka viņš dara nepareizi, iedodams
+              lilijas vārdu otrai jaunkundzei; tas jau nozīmē tikdaudz ka: ko es
+              gribu, tas notiks, un es to būšu izdarījis; tur liktenim nav nekādas 
+              daļas.“</p>
+  
+              <p>„Nu, un tālāk?“</p>
+  
+              <p>- „Viņš pateica pretim, ka tad jau mēs īsti redzēšot
+              likteņa iespaidu uz cilvēka laimi vaj nelaimi. Es gan tā klusu
+              vēlējos, kaut B. dabūtu garu degunu.“</p>
+  
+              <p>„Un dabūja ar,“ es sāku smieties.</p>
+  
+              <p>Valsis beidzās; atsēdamies un sākam runāt daudz, daudz:
+              par teātri, par šā vakara muzikālo nodaļu, par to kad katram savāda 
+              „štimmunga“ (jaunlatvieši gan izcepuši vārdu „jūtoņa“,
+              bet es tā negribu atzīt, jo šis vārds neizsmeļ visa jēdziena),
+              par laiku un par - izlikšanos. Jā, bet te nu nāk tas punkts,
+              pie kura es palieku kā uz mutes sists; tas ir - izlikšanās. Es,
+              lūk, tajā ziņā esmu kā „meisters,“ kas no debesīm nokritis. Tā
+              var tīri viegli izkulties cauri tādai nepatīkamai lietai. Bet
+              šoreiz - tas jau ir tas piķis - šoreiz paliku kā uz mutes sists,
+              jo - kas to gan būtu domājis - Lida Erik saka:</p>
+  
+              <p>„Jūs ari piederat pie tiem cilvēkiem, kuri izliekas citādi,
+              nekā viņi ir.“</p>
+  
+              <p>- „Kā tā?“ es tīri nevainigi iejautājos.</p>
+              <pb/>
+  
+              <p>„Nu, - kuri smejas, kad grib raudāt, - dzied, kad godīgi
+              vairs nevar parunāt, - taisa „grimasas“ - -</p>
+  
+              <p>- Pasarg' Dievs !" es iesaucos, jocīgi nobijies, un tad godiga 
+              cilvēka balsī piebildu: „un tad jūs, cienitā jaunkundz, mani
+              pie tādiem pieskaitāt! Kāpēc šāda bezsirdiba? Esat tak žēligi 
+              un domājat par mani labāki!“</p>
+  
+              <p>Lida piepeši paskatās, un es redzu, ka viņas acu dziļumos
+              mirdz karsts uzbudinājums.</p>
+  
+              <p>„Vaj jūs patiesi tā domājat, kā jūs runājat?“ viņa prasa.</p>
+  
+              <p>Esmu savādi aizkustināts, bet kāda neizprotama vara mani
+              spiež spēlēt sev pašam neizprotamu lomu, un tamdēļ atbildu:
+              „Jā,  kamdēļ gan lai - - -?“</p>
+  
+              <p>Lida piecēlusēs, - svešāda, vēsa, aizskarta. „Jūs
+              esat nežēlīgs, un nevis es!“ Viņa aiziet.</p>
+  
+              <p>Vaj es tiešām tāds biju? Nezinu. Reizā sāpes un ļauns
+              prieks par to, ko nupat padarīju ...</p>
+  
+              <p>Piecpadsmit minūtes vēlāk turu Lidu Erik savās rokās, un
+              abi slīdam pa zāli. Top spēlēta kāda deja, viegla kā vējiņš, 
+              kā Grīga „Pavasars“'. Lida dejo nepārspējami ...
+              Beidzam ... Viņa stāv manā priekšā ... Esmu satvēris
+              viņas abas rokas, - - kautkas neizprotams - kā gaviļu skaņas - 
+              plūst man krūtīs, un es atkārtoju, kā reibonī:
+              „Jūs - - - jūs - -! Te piepeši redzu - viņa skatās
+              vienaldzīgi - un saka: „Redzat nu, jūs uzkāpāt uz mana uzvalka!“ 
+              Atlaižu viņas rokas un vēsi pasaku: „Lūdzu atvainojat, 
+              cienitā jaunkundz, - neredzēju!“</p>
+  
+              <p>„Nekas, - lūdzu,“ Lida atbild: „bet ko jūs man gribējāt 
+              teikt ?“</p>
+  
+              <p>- „Kā, - ko?“ mana reize brīnīties.</p>
+  
+              <p>„Jūs iesākāt un nepabeidzāt.“</p>
+  
+              <p>- „Ak tā, - ko tak es gribēju teikt? Jā, - jums laikam
+              bij atlicies diezgan maz laika šā vakara lomas iestudēšanai.“</p>
+  
+              <p>Lidas acis aptumšojas un uzacis draudoši savelkas: „Tas
+              ir - es spēlēju diezgan slikti. Ja jūs to gribējāt, tad varējāt 
+              taisni izteikt, ne aplinkus.</p>
+  
+              <p>Aha, viņas pašmīlību var viegli aizskart.</p>
+  
+              <p>„Nē, - kamdēļ tā? Par jaunkundzēm slikti nemēdz runāt, - 
+              un tas šoreiz arī gandrīz nebūtu vajadzigs!“</p>
+  
+              <p>Lida uztraukusēs: „Nē, sakāt atklāti, - kādas kļūdas jūs
+              novērojāt?“</p>
+              <pb/>
+  
+              <p>„Nav vērts par tām uzbudināties, jaunkundz!“</p>
+  
+              <p>Lida nupat ir saniknota, - to redzu no acīm, jo pēc maniem 
+              pēdējiem vārdiem pār seju pārvelkas vienaldzības maska;
+              tik ap lūpam dažreiz raustās uztraukums; jā, bet acis visu nodod.</p>
+  
+              <p>„Nē,“ Lida saka un smej: „es tikai gribēju pazīt savas
+              vājības un laboties!"“</p>
+  
+              <p>Mana reiza pasmaidīt: „Šādas vājības guļ cilvēka raksturā. 
+              Neticu, ka jūs labosaties. Labojas tik mazi bērni, kuru
+              raksturs vēl nav nodibinājies!“"</p>
+  
+              <p>Domās pats sevi nosodu visslaidākiem bērza žagariem.</p>
+  
+              <p>Lida kož lūpās, tad piepeši saka: „Redzat, kā tur tas
+              kungs saldi žāvajas!“ un sāk smiet.</p>
+  
+              <p>Nolūkojos viņas sejā, noklausos piespiestos smieklos un,
+              kad tie apklusuši, saku: „Jā, jā - tādam jaunam jau tīk!“</p>
+  
+              <p>„Kas tīk?“ Lida ar apslēptu interesi vaicā.</p>
+  
+              <p>- „Nu, drusku vētru zvanit! Bet tas nekas, - tas jau
+              viss pieder pie lietas!“"</p>
+  
+              <p>„Es jūs nesaprotu,“ Lida saka, bet es lasu viņas acīs, ka
+              viņa mani par daudz labi sapratusi. Sarunājamies par kadriļu,
+              kurai patlaban jāsākas. Lidai šī deja ļoti patīkot. Man ari. -
+              Muzika jau spēlē otro priekšspēli.</p>
+  
+              <p>Nāk B. un uzlūdz Lidu. Lida savādi uz mani paskatās
+              un tad pieceļas. Es, kā B.-a vis-a-vis, uzlūdzu kādu jaunkundzi
+              un nostājos Lidai pretim.</p>
+  
+              <p>Deja sākas. Neredzami velnēni mani baksta adatām, un es
+              vedu pārgalvigu vārdu un acu sarunu ar savu dāmu. Lida
+              uzcītigi dejo un sarunājas ar B.</p>
+  
+              <p>Pēc dejas B. paņem mani zem rokas, noved sāņus un
+              vaicā „ģiptīgā'“ balsī: „Nu kā tev patīk Lidočka? Iemīlējies, 
+              ko? Un nelaimīgi, kā redzams. Nu, nu, nekas, nekas: viena 
+              nelaimiga mīlestība daiļāka par desmit laimigām.“ Pie joda,
+              - viņam taisnība. Bet iemīlējies tak vēl neesmu. Saku viņam 
+              ar patosu: „Man sirds vēl īstā vietā, - un iemīlēties
+              mēdzu tikai tad, kad droši zinu. ka būšu laimigs!“</p>
+  
+              <p>„Oho!“ B. smejas: „Cik tu svarīgs, - īsts ledus lācis!
+              Tu gan ar' pēc mīlētāja neizskaties! Un kāpēc tu manu Lidočku 
+              esi saniknojis? Ar viņu nekas vairs nav iesākams!
+              Tik nopietna, un sirdīga, un skarba, - - nedod Dieviņ!“ Un
+              viņš aiziet, paņēmis Lidu zem rokas, - stāsta kaut ko, smejas.
+              Lida nopietna, bāla.</p>
+              <pb/>
+  
+              <p>Nākošā valsī B. man dod atkal tiesību izvēlēties, un es
+              atkal izvēlu Lidu. B. pukojas, Lida top jautra un smej.</p>
+  
+              <p>Lida pārvērtusēs, un viņai līdzi pārvēršos ari es.
+              Mūsu saruna top sirsnīga, nesaspīlēta. Stāstu viņai par šā
+              vakara mūzikas iespaidu uz mani. Dabūju zināt, ka Lida kaislīgi
+              mīl mūziku un studē to pie kāda mākslinieka. Stāstu tālāk,
+              kā viņa spēlēja šovakar un kādu iespaidu viņa uz mani atstāja. 
+              Viņas acis top lielas un spodras; viņa smejas un vaicā,
+              ko es esot nodomājis nākotnē darīt. Saku, ka mans ceļš jau
+              pa daļai apzīmēts; ir gan dažas lietas, no kurām grūti atteikties, - 
+              bet tagad daudz jāstrādā, lai nodrošinātu savu dzīvi
+              un tiktu prom uz Florenci, Müncheni un Romu.</p>
+  
+              <p>„Un kas tās par lietām, no kurām grūti atteikties?</p>
+  
+              <p>- „Mūzika un skatuve; es nezinu kādreiz, pie kā īsti lai
+              palieku, un tad izliekos sev kā Buridana ēzelis starp divām auzu
+              silēm.“</p>
+  
+              <p>Lida smejas klusi, - tad pazūd. Un es sēdu viens savā
+              kaktiņā, lūkojos uz dejotājiem un sapņoju par diviem dzintara
+              gabaliņiem ...</p>
+  
+              <p>Biju sēdējis tā kādu stundu. Tad mani iztraucē Lida, uzaicinādama 
+              uz dāmu valsi. Sarāvos un ietrīcējos no prieka.
+              Bij valsis iz „Die lustige Vitve“. Lida lūkojās tālu projām
+              un dziedāja klusā, patīkamā balsī. Pašā valša vidū viņa
+              nobālusi apstājās un klusu teica: „Lūdzu, nākat un pavadat
+              mani līdz durvim ...“ Gājām. Dabūju drēbes, palīdzēju
+              apģērbties, un izgājām abi laukā. Uz ielas bij tumšs. Lida
+              sniedza roku un teica: „Sveiki!“ Pats nezinādams, ko daru, saņēmu 
+              viņas abas rokas un glaudu sev pie acim. Nevarēju ne
+              vārda dabūt pār lūpam, tikai krūtīs kautkas plūda un plūda, - - 
+              savādas skaņas, savādas žēlabas ... Beidzot Lida
+              atvilka rokas un klusu sacija: „Nu man jaiet,“ tad piepeši, kā
+              drusku smiedamies, vēsi piebilda: „Varbūt, ka mēs kādreiz
+              atkal redzamies!“ Acumirkļa darbs, - un es atkal biju valdnieks 
+              pār sevi. „Varbūt, jaunkundz, - varbūt ar' nē,“ atteicu
+              un vienaldzīgi paklanījies, iegāju atpakaļ zālē, kaut gan tik ļoti
+              gribējās redzēt, kā Lida iekāpa kamanās, turas visu laiku gaidij
+              uz viņu...</p>
+  
+              <p>Zālē iegājis, sajutu, ka man nav vairs tur nekā, ko
+              meklēt, tādēļ klusu apģērbos un kā zaglis izgāju pa durvīm ...</p>
+              <pb/>
+  
+              <p>Ārā jau tagad liela gaisma, tādēļ nopūšu sveci un likšos 
+              gulēt ...</p>
+  
+              <p>Lida dzied - - klusu - - klusu ... Murgi...
+              Sāku jau pie galda vaļējām acīm murgot. Nupat man liekas,
+              ka man aiz muguras kāds stāvētu un smietos . .. Lai smejas, - - 
+              man gan tā savādi, kā bail ... Bet Lida dzied ...</p>
+              <pb/>
+          </div>
+          <div type="group">
+              <head>13. decembrī.</head>
+  
+              <p>Šodien redzēju Lidu uz ielas. Viņa nāca pretim tumšzilā 
+              samta kostimā un tādā pašā apaļā cepuritē. Tumšzilā
+              krāsa un baltā kažoka ādiņa, ar kuru bij greznota īsā jaciņa,
+              jo gaiši atspoguļoja sejas vieglo sārtumu.</p>
+  
+              <p>Lidai līdzās gāja kāds jauns, stalts oficiers, kuru tūlit
+              pazinu par Lidas brāli: tie paši gaišie mati, brūnās acis,
+              maigie sejas vilcieni.</p>
+  
+              <p>Lida uz mani nepaskatījās - un ja arī būtu paskatījusēs,
+              tad nebūtu manis pazinusi: biju uzsitis lielo mēteļa apkakli, cepuri 
+              uzbāzis dziļi uz acim, tā kā tikai degunu varēja redzēt.</p>
+  
+              <p>Lida klausījās oficiera valodā, smējās un pielika zilo mufi
+              pie sejas, tad piepeši apstājās kāda veikala loga priekšā un
+              jautri sauca: „Fritjof, uzdāvini man šo drēbi uz Ziemas
+              svētkiem !"</p>
+  
+              <p>- „Auša, ko tad tu ar viņu iesāksi?“</p>
+  
+              <p>„Uzšūšu kostīmu masku ballei.“</p>
+  
+              <p>- „Hm, nebūtu slikti,“ oficiers nobubinaja: „bet kur nu
+              tev tādam mazam zaķēnam !“</p>
+  
+              <p>„Mīļo Frit, - tu esi ļoti labiņš, - bet nelamājies tik
+              mulķīgi !“ Un Lida uzlika roku brālim uz pleca.</p>
+  
+              <p>Vairāk nevarēju sadzirdēt, - bet bij pietiekoši daudz dzirdēts, 
+              lai krūtīs pamostos sāpīgie smiekli ... Gāju, bet galvā
+              drebēja kluss jautājums, uz kuru nesajēdzu atbildēt. Beidzot apstājos 
+              pie kāda loga, iz kura lūkojās pretim brūns „pēperkoka“
+              vīriņš ...</p>
+              <pb/>
+  
+              <p>Man kāds uzsita uz pleca: mans draugs Augusts.</p>
+  
+              <p>„Na, ko tad tu te dari?“</p>
+  
+              <p>- „Skatos.“</p>
+  
+              <p>„Tur, tajos saldumos? Neticu. - Henrij, nāc parīt uz
+              teātri.“</p>
+  
+              <p>- „Kas parīt būs?</p>
+  
+              <p>„Čaikovska Oņegins.“</p>
+  
+              <p>- „Tad gan. Vaj tu biļeti jau esi apgādājis? Nē? Nu
+              tad iesim!“</p>
+  
+              <p>Un mēs gājām, nopirkām biļetes un pļāpādami nonācām 
+              līdz mana drauga Augusta mājām, kur šķīrāmies.</p>
+  
+              <p>Tātad - parīt uz operu. Bet ko tas līdz? Mūzika
+              mani padarīs traku ... Un turklāt "Čaikovska „Oņegins" ...</p>
+              <pb/>
+          </div>
+          <div type="group">
+              <head>13. decembrī.</head>
+  
+              <p>Visu laiku biju sēdējis tumsā, bez uguns, - vēlu naktī.
+              Tagad gribu rakstīt, kaut gan man tik ļoti grūti izklāstit savas
+              domas uz aukstā papīra - - -</p>
+  
+              <p>Biju šodien pie sava drauga Augusta, jo viņš bij man
+              apsolījis sadabūt „elegantu“ fraku. Tas man pateica, ka šodien
+              uzvedīšot nevis „Oņeginu“, bet gan „Karmenu“. Tatjana esot
+              saslimusi, - bet patlaban viesojoties kāda ārzemniece, kura šovakar 
+              dziedāšot.</p>
+  
+              <p>Ar' labi. Aizgājām abi ar Augustu uz kādu vienkāršāku 
+              viesnīcu un ieturējām par pēdējiem grašiem spēcīgu
+              pusdienu. Pulkstens bij pieci, - - diezgan vēls.</p>
+  
+              <p>Garšīgo gaļu ēdot, man ienāca prātā, ka mājās vēl
+              tik drusku siera, tējas, cukura un maizes; pāra dienas - vislielākais 
+              trīs - varētu izsisties cauri, - bet tad?</p>
+  
+              <p>Teicu to Augustam.</p>
+  
+              <p>„Ko tu bēdājies? Mēs tak dzīvojam, kā puķes laukā,
+              kuras Debesu Tēvs baro. Ēd, - nelaid gaļai atdzist. Kad
+              būsi paēdis, tad varēsi domāt par rītdienu, cik uziet.“</p>
+              <pb/>
+  
+              <p>Tā saka Augusts. Un man jācieš klusu.</p>
+  
+              <p>Paēdām.</p>
+  
+              <p>Aizejam uz Augusta dzīvoklīti, aizdedzinām lampu un sākam
+              ģērbties, lai varētu iet uz teātri.</p>
+  
+              <p>Mans draugs Augusts ir tak viena laba dvēselīte: viņš
+              iztīra manas drēbes, nospodrina zābakus, uzvāra tēju, -
+              ar vārdu sakot, neļauj man nekā cita darīt, kā sēdēt un skatīties.</p>
+  
+              <p>Ģērbjamies un smejamies par to, ka esam puķes laukā un
+              topam no Debesu Tēva barotas. Te Augusts, kurš visu laiku
+              ģērbdamies griezies uz papēža pa istabu apkārt, - paliek
+              stāvot, apklust un top sērigs.</p>
+  
+              <p>„Nu, August, - šovakar nav vietas sērām,“ mēģinu 
+              jokot.</p>
+  
+              <p>- „Man nav nemaz labi, Henri,“ Augusts atbild pavisam
+              drūmi: „ja tu nebūtu atnācis, tad būtu vēl sliktāki.“</p>
+  
+              <p>„Ak, Auģīt, nebēdā, viss būs labi, - mēs tak esam
+              braši zēni, - vaj nē?“ es aplieku viņam roku ap pleciem, -
+              un mēs abi smejam spoguļa priekšā.</p>
+  
+              <p>„Eh, negribas no tevis slēpt, bet nevaru arī lāgā izstāstīt.“</p>
+  
+              <p>- „Varbūt ka es tavus sirds noslēpumus pazīstu. Tagad 
+              nestāsti labāk, jo - arī man ir tāda „štimmunga“, ka - -
+              ka „Meine Ruh ist hin - “</p>
+  
+              <p>Augusts ari sāk dungot Sibeļa āriju iz operas „Fausts“.
+              Es mēģinu dziedāt Grietiņu, un mana balss skan pavisam nejēdzīgi, 
+              jo gribu dziedāt, kā sieviete. Augusts plīst no smiekliem...</p>
+  
+              <p>Pie durvim top klauvēts.</p>
+  
+              <p>„Iekšā!“ Augusts sauc.</p>
+  
+              <p>Ienāk maza meitenīte gaišzilā uzvalkā, zilām lentītem
+              matos. Lielām acīm viņa noskatās uz mani, tad nodod Augustam
+              kaut ko papīrā satītu.</p>
+  
+              <p>„Tas - tas būs onkulim.“</p>
+  
+              <p>- „No kā tad?“ Augusts vaicā.</p>
+  
+              <p>„Nu - no vecmāmiņas !“</p>
+  
+              <p>- „Saki tavai vecmāmiņai paldies,“ Augusts jautri sauc.
+              Mazā dodas uz durvīmm, atver tās un grib iet patlaban laukā, kad
+              Augusts to sauc atpakaļ, sameklē dažus savus vecos zīmējumus
+              un tos atdod meitenei: „Še, Lidiņ, bildīte.“</p>
+              <pb/>
+  
+              <p>Mazās actiņas iemirdzas, - rociņas cieši satver dabūto
+              dāvanu, - kluss „paldies,“ - un mazā izslīd pa durvīm.</p>
+  
+              <p>„Jāpaskatās, ko tā Lidiņa būs atnesusi“, Augusts labsirdīgi
+              nosaka un tin papīru vaļā. Iz tā rēgojas liels gabals kanēļa
+              kūkas pretim.</p>
+  
+              <p>Vienbalsigs „oh“ atskan iz mūsu abu mutēm.</p>
+  
+              <p>„Kas tā devēja tāda ir?“ vaicāju, pilns ziņkārības.</p>
+  
+              <p>- „Mana dzīvokļa saimniece, - mīļa, labsirdīga vecenīte, - 
+              dzīvo ar savas mirušās meitas meitiņu; viņa bieži
+              vien atsūta šo to.“</p>
+  
+              <p>„Jā“, es komiski, bet no sirds nopūšos: „kaut jel man
+              ar' būtu tāda saimniece! Bet es jau varu vaj badā nomirt,-
+              neviena līdzcietīga dvēsele manis neglābs ar kanēļa kūku.“</p>
+  
+              <p>Augusts svilpodams uzklāj vecu tīru dvieli uz galda, saliek
+              uz tā tējas traukus, cukuru un drusku ievārījumu, tad svētsvinigi 
+              ņem kūku un to noliek pašā galda vidū.</p>
+  
+              <p>- „Puķītes, nebeidzat viņai stāstīt,
+              Cik ļoti es to mīlu - - - -
+              vaj drīkstu piedāvāt glāzi tējas, godāts kungs?“</p>
+  
+              <p>- „August, es apbrīnoju tavas smalkās zināšanas!“</p>
+  
+              <p>Ēdam, dzeram un dziedam. Pulkstens jau septiņi. Ir pēdējais 
+              laiks, ka ejam. Augusts paņem manu mēteli, saliecas deviņos 
+              līkumos (tādos stīvos) un palīdz man apģērbties; tad
+              viņš ar plaukstu uzsit man cepuri dziļi uz deguna. Es, protams,
+              aci pret aci. Tad Augusts paņem savu veco binokli, nodzēš
+              uguni, un - mēs izejam. Pie durvim Augusts apstājas,
+              ievelk dziļi elpu un saka: „Lai nu kā! Ir tomēr labi dzīvot!“</p>
+  
+              <p>Esam pie teātra. Nosniguši ieejam garderobes telpās, noliekam 
+              drēbes un tad steidzamies uz savu vietu - otrā balkonā.
+              Pašlaik otrais zvans. Augusts pārliecas pār barjeru un lūkojas 
+              parketā, tad ātri atraujas atpakaļ un top gluži bāls.</p>
+  
+              <p>„August, kas tev?“ vaicāju izbrīnējies.</p>
+  
+              <p>Augusts novēršas, un pār viņa lūpam nāk viņa iemīļotais 
+              izteiciens: „Dulna muša!“</p>
+  
+              <p>Man jāsmejas, bet Augusta skats man atņem jautrību.</p>
+  
+              <p>„Tad stāsti tak, kas ar tevi notiek?“</p>
+  
+              <p>- „A ko niekus!“ Augusts atrūc tikko saprotami. Pašlaik
+              trešais zvans. Zāle paliek tumša. Redzu, - pa durvīm</p>
+              <pb/>
+  
+              <p>nāk Lida Erik - mirdzoša kā nāra ... Kautkas karsts saplūst 
+              acīs, - satveru Augusta rokas, turu tās savējās un nespēju 
+              ne vārda izdabūt pār lūpam.</p>
+  
+              <p>Augusts paskatās uz mani, tad piepeši nogroza galvu un
+              saka:  „Es tā vēl nezināju, - tiešām nezināju!“"</p>
+  
+              <p>Atskan brašā priekšspēle. Publika kā elektrizēta ...</p>
+  
+              <p>„Tāpat, kā toreiz,“ Augusts čukst.</p>
+  
+              <p>Tātad viņam sāpigas atmiņas ...</p>
+  
+              <p>Kāds lēns paņēmiens skan muzikā: žēlabas, ārprātīgas 
+              sāpes, - - manī ceļas atkal pirmitējā sajūta un plūst
+              un plūst ... Neviļus aizlieku roku priekš acīm.</p>
+  
+              <p>„Henrij, - arī tu ciet,“ dzirdu Augusta balsi.</p>
+  
+              <p>- „Nē, - sauc to, kā gribi: par uzbudinājumu, par nervozitāti, 
+              par mulķību, pat par anormālu parādību, - - - visādi, - 
+              tikai ne par ciešanām!“</p>
+  
+              <p>Augusts noskatās uz mani, tad piegriež savu uzmanību skatuvei, 
+              jo patlaban priekškars ceļas ...</p>
+  
+              <p>Starpbrīdī novēroju Lidu, kas šovakar skaistāka, kā jebkad. 
+              Acīs mirdz savāds uztraukums; tās ieplēstas pārdabīgi
+              platas; lūpas cieti sakniebtas, it kā negribētu ne vārda runāt.</p>
+  
+              <p>Lidas brālis - jaunais oficiers - veras Lidas sejā un
+              brīnas, satrūkstas, tad runā kaut ko. Lida tūlīt sāk smieties, -
+              seja savādi raustās. Tad - redzu: mazā roka tver pēc binokļa
+              un lūkojas visapkārt. Novēršos, aizlieku roku priekš acīm
+              un lūkojos caur pirkstiem; nupat viņa skatās uz augšu uz manu
+              pusi; neredz, - nē, - - jā - - redz! Viņas skats kavējas, 
+              šeit; es noņemu rokas no acīm un taisni lūkojos uz viņu;
+              pēkšņi Lida nosviež binokli, runā ar savu brāli un smej.
+              Tad viņa pieceļas un pazūd.</p>
+  
+              <p>Augusts visu laiku lūkojies pār barjeru. Tagad viņš
+              nosēstas un lūkojas uz mani, sacīdams : „Es negribēdams ieskatījos 
+              tavos noslēpumos!“</p>
+  
+              <p>- „Es tavos ar pa druskai! Bet kas uz mani attiecas,
+              tad tu laikam maldies!“</p>
+  
+              <p>„Varbūt tu pats maldies sevī!“</p>
+  
+              <p>Klusums.</p>
+  
+              <p>„Zini ko,“ Augusts saka pēc brīža, ar roku pār pieri
+              pārvilkdams: „es tev šonakt uzrakstišu; tagad tik un tā gulēt
+              nevarēšu - -“</p>
+  
+              <p>- „Ko tad tu man uzrakstīsi?“</p>
+              <pb/>
+  
+              <p>„To, ko es domāju. Tikai negaidi nekā sevišķa.“</p>
+  
+              <p>- „Man nepatīk, August, kad tu tā runā! It kā visam,
+              ko mēs daram un domajam, vajadzetu būt kaut kam jaunam!“
+              Nepagūstu izteikt, jo zāle paliek atkal tumša.</p>
+  
+              <p>Sākas otrs cēliens. Skaistā čigāniešu deja un straujā
+              mūzika atstāj reibinošu iespaidu. Aizmirstos, - - sajūsminos, - 
+              varu gavilēt ... Bet ne ilgi.</p>
+  
+              <p>Tagad esmu tikpat kā starp divām ugunīm; mani uztrauc
+              Augusts un Lida: Augusts - ar savām sirdssāpēm, Lida - ar
+              savu nedabīgo jautrību un izplēstām acīm. Nevaru un nezinu
+              neko iesākt; jūtu, ka manās smadzenēs kāda dzelzs roka ārda
+              un rausta visas dzīsliņas un lej viņās vaj uguni ...</p>
+  
+              <p>Lida ... Ak tu, mulķa prāts! Viņa tak tev pilnīgi vienaldzīga! 
+              Kas tev par daļu, vaj viņa smejas vaj raud? Esi
+              prātīgs, mans bērns! Tu tak proti dot tik labus padomus;
+              vaj tad šoreiz viņu tīri aptrūcies? ...</p>
+  
+              <p>Jā, jā, es būšu mierīgs ... Karmena dzied - -,
+              melnie mati jūk tai pār pleciem, balss trīc augstākās notīs, it
+              kā gribētu raudāt, tad atkal zemajās skaņās dzirdama čiganiska
+              nokrāsa un smiekli, - kā sarkanas puķes līkst, ziemeļu vēju
+              vajātas un saldētas, bet, neatrazdamas patvēruma, krīt un saplok 
+              pie zemes mātes krūts. - Nē, tā nav nopietnība: Karmena 
+              rotaļājas, un viņas rotaļas vārds ir mīlestība.</p>
+  
+              <p>Lida ari rotaļājas, bet viņas rotaļai es nezinu nosaukuma ...</p>
+  
+              <p>Redzu: pie durvim pa starpbrīža laiku pienāk mirdzoša
+              nāra, parunā pāra vārdus ar durvju sargu, tad ienāk un
+              pieiet pie dažām pazīstamām jaunkundzēm. Sasveicināšanās,
+              jautri smiekli, sarunas, šķelmība. Augusts lūkojas turp un
+              viņš palocas.</p>
+  
+              <p>Varētu viņu sagaidit tā sauktajā „foyer'ā“ ... Uznāk
+              vēlēšanās paķircināties.</p>
+  
+              <p>„August, iesim smēķēt,“ saku gluži nevainīgi.</p>
+  
+              <p>Ejam un mierīgā garā aizkūpinām papirosus.</p>
+  
+              <p>Pēc maza laiciņa redzu: nāk Lida Erik savā zaļā ap-
+              ģērbā, - nāk steigšus, nedroši, - seja sārta un mīļi-
+              naiva, - bet manī saceļas īgnums pret sevi pašu - par to,
+              ka sataisu vienaldzīgu seju un, Lidai garām ejot, stīvi un dziļi</p>
+              <pb/>
+  
+              <p>paklanos. Lida lepni saslienas un vēsi saņem sveicienu, tad
+              pazūd.</p>
+  
+              <p>Ko es gribēju panākt? Neko nopietnu. Vaj es tiešām
+              vēl esmu bērns, kas pilnigi padodas savām vājībam, savām
+              iedomām? Man gribējās Lidai darīt nepatikšanas, un es nemaz
+              nemēģināju sevi pārliecināt, ka vajagot mīlēt savus ienaidniekus. 
+              Nē, tā nav iedoma, - tas jau ir grēks - pret piekto
+              bausli! Ha, ha, ha, vecais draugs, nepārspīlē: nekāda grēka
+              tur nav. Jā, bet - es laikam gribu viņai patikt, vaj nē? Nē,
+              no Dieva puses - - - , es drīzāk vēlētos viņas ienaidnieks 
+              tapt, nekā kļūt par viņas mīlestības priekšmetu ...
+              Pū, cik tas skarbi skan!</p>
+  
+              <p>Bet viņa mani ienīst un tomēr, kā rādas, rotaļājas.
+              Ja tā, tad - aci pret aci, zobu pret zobu. Un tad redzēsim,
+              skaistā Lida, kurš uzvarēs: vaj no visiem dievinātā skaistule,
+              vaj nabaga mākslinieks ar savu pašsavaldīšanos ...</p>
+  
+              <p>Ceturtam cēlienam sākoties, Augusts sēdēja bāls un augoša 
+              nemiera pilns; viņš mēgināja savaldīties, ko redzēju no
+              viņa savilktās pieres un rokām, kuras bij sakniebtas dūrēs ...</p>
+  
+              <p>„August, mums būs ne vien cīnīties, bet cīniņā ari uzvaru 
+              gūt,“ teicu jokojošā balsī.</p>
+  
+              <p>- „No uzvaras nav ko domāt, esmu cīņu pazaudējis un
+              nu atliek nožēlošana ; bet es esmu pats vainīgs pie savas
+              nelaimes : esmu bijis tik zems un riebīgs, ka bargais sods tiešām 
+              nāk pelnīts! Nu, bet ko nu,“ Augusts atmeta ar roku.</p>
+  
+              <p>Cēliena vidū Augusts pieliecās un čukstēja: „Reiz
+              šādā brīdī skūpstīju tādu mazu roku un biju bezgala sajūsmināts “</p>
+  
+              <p>- „Šajā pašā operā?“</p>
+  
+              <p>„Jā, priekš kāda gada.“</p>
+  
+              <p>Vaj tad Augusts ņēma tādas lietas tik ļoti pie sirds?
+              Mēs visi viņu saukājam par speciālistu romānu sarīkošanā;
+              viņš tak visu ņēma viegli, viegli, - caur rožaino vieglprātības 
+              plīvuri raudzījās uz visu dzīvi ... Vaj pēdējā
+              laikā viņš bij pārvērties?</p>
+  
+              <p>No teātra aizgājām klusēdami līdz Augusta mājām. Augusts 
+              atvadījās, saspieda ātri un cieti manu roku, tad steigšus
+              nozuda durvīs. Gāju viens pats tālāk.</p>
+  
+              <p>Aiz manis brauca kamanas. Es piespiedos pie tumšas</p>
+              <pb/>
+  
+              <p>sienas. Kamanās sēdēja Lida Erik un viņas brālis, - abi
+              sarunādamies.</p>
+  
+              <p>Tagad es sāku burt: tas, ko viņa teiks, piepildīsies pie
+              manis ... Cilvēkam ienāk kādreiz briesmīgas mulķības prātā,
+              un tā ari man šoreiz ... Sāku klausīties.</p>
+  
+              <p>Dzirdēju Lidas dzidro balsi: „Ak tad tu gribi būt šoreiz 
+              tas gudrākais? Nē, mīlīt, tas neizdosies!“</p>
+  
+              <p>Fritjofs iesmējās: „Nu, nu, - tu, kā liekas, gribi vien-
+              mēr virsroku dabūt!“</p>
+  
+              <p>„Tu - un tu redzēsi, - un tu redzēsi,“ Lida iesāka pārgalvīgi 
+              smiet: „tu redzēsi, kā es tevi piemulķošu!“</p>
+  
+              <p>„Lida, nesmej; tu tagad izliecies,“ skanēja brāļa balss, -
+              šoreiz nopietni: redzi, nupat acīs pamirdzēja kautkas šaubīgs!“</p>
+  
+              <p>„Neesi jel bērns, Frit, - man nenāk ne prātā,“ Lida
+              atcirta, - tad -  skaļš sauciens zirgiem, - - tie aizdrāzās 
+              kā viesulis man garām ...</p>
+  
+              <p>Tā tad - „tu gribi šoreiz būt gudrāks, bet tas tev neizdosies!“ 
+              Esmu tak diezgan prātīgs, - bet šos vārdus to-
+              mēr zīmēju uz sevi, kaut gan nav ne mazākā iemesla ...</p>
+  
+              <p>Un nu sēdu savā istabiņā un nezinu, kā apmierinat sevi.
+              Nupat kā pavēru logu, paņēmu sveci rokā un aplūkoju sevi
+              šādā jaunizgudrotā spogulī. Acīs drudžains mirdzums, vaigi
+              piesarkuši. Šovakar esmu skaists, - pats sev tāds liekos.
+              Bet man gribētos būt nejaukam, riebīgam; tad es varētu par
+              sevi smiet.</p>
+  
+              <p>Un es sēdu, taisu „grimasas“ un plūcu matus, līdz sāk
+              sāpēt. Man nāk prātā karalis Līrs, kā viņš savu meitu uz
+              rokām nesdams, sauc:</p>
+  
+              <p>„raudat, raudat, raudat, raudat!“</p>
+  
+              <p>Nu raudi tak, tagad tev sāp ...</p>
+  
+              <p>„Neesi jel bērns! Nenāk ne prātā,“ tā saka Lida.</p>
+  
+              <p>Un piepeši tieku atkal kungs par sevi; nodzēšu uguni un
+              liekos gulēt, neskatoties uz to, ka man apkārt kautkas čukst un
+              ņirgājas ...</p>
+              <pb/>
+          </div>
+          <div type="group">
+              <head>16. decembrī.</head>
+  
+              <p>Nedabūju no Augusta ne raksta galiņa. Aizgāju pie viņa, -
+              manis nelaida iekšā: ārsts esot noliedzis.</p>
+              <pb/>
+          </div>
+          <div type="group">
+              <head>19. decembrī.</head>
+  
+              <p>Šodien esmu pagalam novārdzis. Nabaga dvēsele -
+              nogurusi! Mans naudas maks vēl slimāks: tas, nabadziņš, jau
+              pāra dienas nav ēdis. Ja viņš taptu izdziedēts, t. i. paēdināts, 
+              tad ari es kļūtu vesels.</p>
+  
+              <p>Tagad jau vakars. Un es vēl neesmu ne brokastis, ne
+              pusdienu ēdis. Par vakardienu nav vērts i runat: tad pārtiku 
+              ar aukstu tēju ...</p>
+  
+              <p>Mēģinu dziedāt:</p>
+  
+              <p>„Man miera nav,
+              Sirds sēras jūt.“</p>
+  
+              <p>Gribu aizmirst savu ēstgribu ... Kamdēļ gan cilvēkam
+              pavisam vajadzīgs ēst? Tukšā dūšā vieglāki strādāt.</p>
+  
+              <p>„Jā? Pamēģini,“ kāda balss klusi ņirgājas ... Man
+              neviļus jāapskatās : istabā nav neviena cilvēka. Varbūt aiz
+              durvīm ... Jāpaver tās. Nē, koridors tukšs ... Vaj zem
+              manas gultas? zem galda? zem kāda krēsla? Nē, nekur ...
+              Un es piepeši skaļi smejos ...</p>
+  
+              <p>Tu esi mulķis, Henrij. Tu murgo, -- vairāk nekā; iedomas tik ... 
+              Bet cik šausmigi auksts! Nevaru ne parakstīt:
+              roka trīc, un burti lēkā acu priekšā. Ka neierakstu kādas
+              mulķības, kuras pats nesaprotu. Nu, neviens viņas nelasīs ...</p>
+  
+              <p>Rodas vesels pulks nesakarīgu vārdu, un es mēģināšu
+              viņus uzrakstīt: sēta, - suns, - saule, - sīpols, - sega, -
+              grasis, - gadījums, - gudrs, - rublis, - bļina, - - ai nē,
+              nē, tik tālu es negribēju tikt! ... Nelaba būšana, ja man
+              jānomirst badā, kā sunim ielas malā ...</p>
+  
+              <p>Tukšā dūšā esot vieglāki strādāt ... Tiešām!
+              Lieliska ideja! Ņemšu un turpināšu savu iesākto darbu ...</p>
+  
+              <p>Balts balts bērzu pudurīts pie zeltainas vakara debess ...
+              Tas viss vēl tik skaidri stāv acu priekšā: kā toreiz klejoju pa
+              mežu, kā sēdēju upmalā un ilgi raudzījos bērzos, līdz ieguvu
+              savai atmiņai jaunu gleznu; kā tad atgūlos zem bērza un notiesāju 
+              līdzpaņemto maizi ...</p>
+  
+              <p>Maizi! Uzlēcu no mazā krāģīša un nosviedu pindzeli ...</p>
+  
+              <p>Gribas ēst! ...</p>
+              <pb/>
+  
+              <p>Nu, vaj tad tā lieta tīri tik traka? Es tak esmu vēl
+              par sevi kungs! Tikai mierīgi, mierīgi ...</p>
+  
+              <p>Krāsoju atkal ... Un bērzs, mūsu ziemeļu baltais, slaidais 
+              bērns, viegli paceļas uz audekla, kā balts sapnis, dienvidu
+              sūtīts ...</p>
+  
+              <p>Bet labi būtu, ja varētu no bērza noplēst mazu miziņu
+              un grauzt... Viņa taču tik lokana, tik mīksta...</p>
+  
+              <p>Nē, tas tiešām nav iespējams! ... Dzeru ūdeni ...</p>
+  
+              <p>Pie pretējās sienas piesprausts audekla gabaliņš; iz tā rēgojas 
+              pretim jaunas sievietes seja, - melnos matos gaišizaļš
+              plīvurs un dzeltenas puķes ... „Nāra“! - tā reiz nosaucu šo
+              gleznu. Tas jau ilgi atpakaļ, - vēl mācījos pie B. - kad
+              gleznoju šo sejiņu; toreiz iemīlēju viņu ... Tā mana pirmā
+              mīlestība . . . „Vējš nobirušas lapas pretim dzen, - -
+              tas bij tik sen,“ - tā viņa reiz deklamēja, šī mazā, dūšīgā
+              meiča, - bet es viņai teicu, ka nebūs nobirušu lapu, ka
+              plauks tikai sārtas rozes ... Un tomēr viņai bij taisnība...
+              Neplauka rozes ... rozes ... rozes ... Man ienāca prātā,
+              ka kādās viesībās ēdu rožu ievārījumu, un laipnā namu māte
+              vēl stāstīja, kā tas pagatavojams ... Man gribas ēst ...
+              Gudroju, kur un ko lai dabūju ... Ā! ... Man vienā kastitē
+              glabājas veca cukura ola, ko dabūju uz Lieldienām no Augusta.
+              „Cik jauki, - cik jauki!“ gavilēju un lēkāju kā bērns ...</p>
+  
+              <p>Patlaban esmu gatavs iecirst zobus noputējušā cukurā, kad
+              pie durvim klauvē ...</p>
+  
+              <p>Paslēpju olu kastitē un saucu „iekšā!“ bet man trakas
+              dusmas par to, ka mani traucē vissvētākā brīdī.</p>
+  
+              <p>Ienāk kāda kundze, - melnās sēru drēbēs tērpusēs;
+              melnā krāsa tik skaisti atdala gaišmataino galvu un pelēkās acis.</p>
+  
+              <p>„Labdien!“</p>
+  
+              <p>- „Labdien!“</p>
+  
+              <p>„Vaj še dzīvo mākslinieks Henrijs Švarca kungs?“</p>
+  
+              <p>„Jā; ar ko varu jums pakalpot?“</p>
+  
+              <p>Kundze uzlūko mani pētoši, tad pāra vārdos izteic, kāpēc 
+              nākusi. Viņa bijusi pie B. un gribējusi pirkt dažas glezniņas; 
+              B-am negadījies nevienas mazākas, un viņš ieteicis
+              mani.</p>
+  
+              <p>Ir gan tas B. viena laba dvēsele! Pašā ārprātigākā
+              brīdī viņš man sūta pestīšanu. Hurra!
+              Skaistai kundzei iepatīkas mana „Nāra“, - un es dzirdu,</p>
+              <pb/>
+  
+              <p>ka man piesola 60 rubļus. Esmu briesmīgi ar mieru! Dabūju
+              naudu, un mans pirmais darbs - iet uz viesnīcu un tur krietni
+              paēst. Nemaz neesmu noskumis par to, ka pārdevu savu pirmo
+              mīlestību ...</p>
+              <pb/>
+          </div>
+          <div type="group">
+              <head>22. decembrī.</head>
+  
+              <p>Sēdēju pie galda un lasīju Helenes Bohlau „Halbtier“,
+              kad pie durvim kāds pieklauvēja. Uz manu saucienu „iekšā!“
+              ienāca mazs zēns un iedeva man zīmīti, bet pats palika pie
+              durvim stāvot.</p>
+  
+              <p>„Vaj tev, puisit, vajaga atbildi aiznest?“ vaicāju mazajam.</p>
+  
+              <p>- „Jā,“ tas atteica : „bet vai es nedrīkstu aizskriet līdz
+              „beķerim“, kamēr jūs rakstīsat ?"“</p>
+  
+              <p>„Nu, ej, ej, - manis dēļ! Bet nāc drīz atpakaļ!“</p>
+  
+              <p>Zēns kā bulta izšāvās pa durvīm.</p>
+  
+              <p>No kā šī vēstule varētu būt? Nogrozīju galvu, tad
+              steigšus atplēsu mazo zīmīti un - - Lida Erik, - - parakstījusēs 
+              Lida Erik! ... Man sāka rokas drebēt; raudzījos ilgi
+              nervozajā rokrakstā; beidzot tak piesēju savu uztraukumu pie „valdziņa“ 
+              (kā B. mēdz teikt) un sāku mierīgi lasīt:</p>
+  
+              <p>God. kgs!</p>
+  
+              <p>Esat tik labi un atnākat pirmos Ziemas svētkos tā
+              ap pieciem pie manis. Es Jūs ļoti lūdzu. Ja varbūt
+              kāds no mūsu apkalpotājiem iedomājas prasīt, kā Jūs
+              sauc un ko Jūs vēlaties, tad sakāt, ka Jūs nākat mana
+              slimā skolotāja uzdevumā. No mūsējiem neviena nebūs
+              mājās, un bez jums man būtu ļoti vientulīgi. Tikai no
+              Dieva puses, neapvainojaties par šo savādo vēstuli; es
+              Jūs ļoti, ļoti lūdzu!</p>
+  
+              <p>Un nu - ceru - uz redzēšanos!</p>
+  
+              <p>L. Erik.</p>
+              <pb/>
+  
+              <p>Mazais zēns jau vairāk minūtes stāvēja nemierīgi pie
+              durvīm; tagad viņš vaicāja: „Kādu atbildi jaunkundzei lai
+              nesu ?“</p>
+  
+              <p>- „Saki, puisīt, ka jaunkundzes skolotājs ir ar mieru izpildīt 
+              šo vēlēšanos. Tu atminēsi?“</p>
+  
+              <p>Zēns pameta ar galvu un tad likās pa trepēm lejup. Drīz
+              redzēju viņu aizskrejam pa ielu ...</p>
+  
+              <p>Ko es padarīju? Man nevajadzēja uzaicinājumu pieņemt. Kā
+              lai eju pie viņas? Mēs ķildosimies un uztrauksimies, un kaitināsim 
+              viens otru, - un abiem būs nepatīkami ... Bet kāpēc 
+              viņa mani uzaicina? Viņai laikam kas ko teikt. Jā, - bet
+              kas? kas?... Tagad šis „kas“ mocīs mani līdz ārprātībai, -
+              bet vēl vairāk mani mocīs domas par atkalredzēšanos ...</p>
+              <pb/>
+          </div>
+          <div type="group">
+              <head>24. decembrī.</head>
+  
+              <p>Ziemas svētku priekšvakars ... Atkal viens no tiem
+              vakariem, kuros jūtu, ka man nav nevienas mīļas drauga dvēseles, 
+              pie kuras varētu glausties; jūtos ne tikai ļoti vientuļš,
+              bet arī izstumts ... Sēdu un raugos, kā mana istabiņa arvien
+              vairāk tinas krēslas tumšā plīvurā ... Kontūras izzūd, -
+              paliek tikai nesaprotamas, neaptveramas ēnas, - un mani sagrābj 
+              it kā šausmas, jo liekas, - nupat ari es izzudīšu: lielā,
+              cēlā tumsa smacē mani, tin ap mani kamolu, un es topu niecīgs,
+              maziņš...</p>
+  
+              <p>Laukā trako putenis; ap manu logu gaudo vējš un cenšas 
+              ielausties pelēkās krēslas mājoklī, lai ienestu drusku svaiguma ... 
+              Neizdodas: mani logi stipri aizbāzti un aizlipināti papīra
+              strēmelēm; vienā vietā kāda strēmelīte atsprāgusi no
+              koka un vējam garām spraužoties, sāk trīcēt ; izceļas nepatīkams 
+              troksnis ...</p>
+  
+              <p>Kā tas nāk, ka es šovakar jūtos tik atstāts? Vaj man
+              ka trūkst? Citus Ziemas svētku priekšvakarus es tak pavadīju
+              tāpat ... kā tad ... ak nē, nē - cik es tak esmu izklaidīgs!</p>
+              <pb/>
+  
+              <p>Tas ir nepiedodami! Mēs tak katru 24-to decembri sapulcējāmies 
+              pie B. un pavadījām visu vakaru ļoti līgsmi: dedzinājām
+              eglīti, dziedājām, spēlējām, dejojām, grauzām dažādus saldumus,
+              vēlak paši sarīkojām omulīgas vakariņas, kur katrs varēja izrādit 
+              savas zināšanas galda klāšanā ; sarunas bij dzīvas;
+              katrs jutās savā elementā ... Un šovakar es, savas nepiedodamās 
+              nolaidības dēļ, biju nokavējis patīkamu brīdi. B. droši
+              vien nodomās, ka esmu lepns. Nu, lai nu, lai!...</p>
+  
+              <p>Un atkal manā priekšā tumšais logs, - un papīra strēmele 
+              brēc tikpat nepanesami, kā pirmīt ... Sniegs vilņot vilņo
+              pa gaisu, tā ka nepavisam nevaru saredzēt pretim stāvošo māju ... 
+              Nupat man izlikās, it ka pie mana loga rūts būtu piespiedusēs
+              kāda miglaina seja, - vaļējiem matiem, iz kuriem tecēja 
+              ūdenis; divas glāžainas acis lūkojās stīvi un bāli uz
+              mani ... Iekliedzos tik stipri, ka pats sabijos no savas balss...
+              Seja bija nozudusi ... Es laikam murgoju ... Aiz manas muguras, 
+              man šķiet, stāv kautkas auksts, nospiedošs, un - - -
+              un es jūtu spārnu vēdināšanu... Man neizsakāmi bail, - -
+              sēdu sastindzis un nedrīkstu kustēties; tik spalva tā nejēdzīgi
+              čirkst; tiklīdz es pakustēšos, tad - ar mani kautkas notiks...
+              Es nezinu, kas, - - - - bet es būšu pazudis ... Ak
+              nē, - nē, - mulķības! Cik gan cilvēks var palikt traks! ...
+              Piecēlos, apgriezos un tvēru gaisā, - - tukšs ... Nu būs
+              jādedzina lampa un jāmēģina tāļāki rakstīt ...</p>
+  
+              <p>Jā, kas nupat bija?... Durvis iekrikšķējās... Apgriezos: 
+              durvis atvērās ; tajās stāvēja Augusts un kustināja
+              lūpas, it ka ko runātu ... Es dzirdēju, - kaut gan viņa vārdiem 
+              nebij skaņas. Ko viņš teica? „Tu esi vienīgais“ ...
+              Vienīgais, - - kas - - ko tas nozīmēja? Pārvilku ar
+              roku pār seju, - - - un it kā zvīņas man nokrita no acīm ...
+              Tagad Augusta vairs nav ... Es tak laikam esmu snaudis ...
+              Gribu palūkoties, vaj viņš nav koridorā paslēpies. Tveru
+              klinķi, - durvis ciet; jā, es tak pats viņas pirmīt aizslēdzu, un
+              atslēga man kabatā ... Jā, un kā es pavisam varēju kautko
+              saredzēt? Tagad tik tumšs, kā nevaru nekā izšķirt ... Pulkstens 
+              sit seši ... Jā, bijuse halucinācija, tad skaidrāka, kā visas
+              citas. Nē, bet es laikam snaudu ... Jā, laikam ...</p>
+  
+              <p>Ātri apvelku mēteli, paņemu cepuri un izeju uz ielas.
+              Gribu ieelpot svaigu gaisu, citādi palikšu slims.</p>
+  
+              <p>Cik tā ir labi! cik tā ir ļoti, ļoti labi!</p>
+              <pb/>
+  
+              <p>Eju garām veselai rindai apgaismotu logu, redzu visraibākās
+              Ziemas svētku dāvanas . . Man nav un nebūs nevienas...
+              Neesmu paradis pa svētkiem dāvanas saņemt. Šogad aizsūtīju 
+              dāvanu savai māsai, kura dzīvo tālu, tālu no manis;
+              viņas apstākļi nav spīdoši un tādēļ paņēmu naudu, kuru
+              dabūju par divām gleznam - ap 120 rubļu - un izdalīju to uz
+              pusēm; pusi atstāju mājās, bet otru pusi iebāzu kabatā un gāju
+              kaut ko nopirkt. Ko gan lai pērk? Nauda nedarīs tik liela prieka,
+              kā kāda dāvana ... Beidzot, - tas bija tajā dienā, kad no
+              Lidas saņēmu zīmiti, - nopirku skaistu gultas segu, gaišu zīda
+              drēbi blūzei, drēbi vienam tumšam un vienam gaišam uzvalkam 
+              un mazu zelta gredzentiņu. Visās tādās lietās esmu kompetents 
+              un protu izmeklēt; bez tam - šīs lietas pirku pie pazīstama 
+              tirgotāja, kurš man aprēķināja daudz lētāki.</p>
+  
+              <p>Skaidri atminos, ar kādu prieku pārnesu mājās visus
+              iepirkumus, - iepakāju kastē un pieliku klāt paciņu konfekšu, tad,
+              lai izskats būtu mīļāks, sirsnīgāks, - apspraudu dāvanu pāris
+              rozēm un skujām un pārvilku sidraba stīdziņām. Māsa priecāsies ... 
+              Nebūs gaidījusi ... Un tādus pārsteigumus sagatavot man liels prieks ...</p>
+  
+              <p>Un es eju pa ielu kā blandonis bez ceļa, bez mērķa ...
+              Kas tur dzied? ... Pavisam tuvu ...</p>
+  
+              <p>Jūs bērniņi, nāciet ar priecigu prāt'
+              Pie silītes Betlemē - - -“.</p>
+  
+              <p>tā skan Ziemas svētku dziesma, tādām svaigām, sīkām bērnu
+              balstiņām ... Pieeju pie aizvērta loga un pa nelielu plaisu lūkojos 
+              iekšā, - gaišā istabā ...</p>
+  
+              <p>Vesels gaismas vilnis plūst man pretim. Maza, kupla eglite
+              mirdz Ziemas svētku spožumā, izgreznota skaistām, baltām svecītēm, 
+              tīkliņiem un sidraba stīdziņam. Uz galda saliktas Ziemas
+              svētku dāvanas, un ap tām stāv trīs mazas meitenītes un
+              pusaugu zēns, - visi salikuši rociņas, lielākā svētlaimībā lūkojas 
+              uz egliti. Viņu sejiņas mirdz tik šķīstā, nevainīgā priekā,
+              ka man nemanot sāk krūtīs trīcēt kautkas žēls, sen aizmirsts ...</p>
+  
+              <p>Apskatu mazo dzīvoklīti un atrodu, ka pat bagātniekam nevar 
+              būt omulīgākas vietiņas par šo. Lai gan violetie plīša
+              mēbeļu pārvelkamie drusku nobāluši, lai gan Sebastiana Bacha
+              reljef-galva uz klavierēm noberzusēs, tomēr - istabā valda
+              Ziemas svētku mirdzums un prieks ; pat vecmodigā lielā krāsns,</p>
+              <pb/>
+  
+              <p>kā man šķiet, smaida to pašu smaidu, kurš klīst pār vecmāmuļas 
+              grumbaino seju.</p>
+  
+              <p>Pie klavierēm sēd jauna meitene. Viņas zilgani-melnie
+              mati plūst pār pleciem līdzīgi varenam vilnim, kuru nespēj
+              nekas savaldīt; tumšās acis lūkojas dziļi un tomēr skaidri;
+              lūkojoties uz šo radījumu, kurš tik nepiespiesti sēd savā baltajā 
+              uzvalkā pie klavierēm un smaida, - - man uz acumirkli
+              piemirstas i Lida, i mana māsa, i pats ziemas svētku vakars...</p>
+  
+              <p>Pieskrien mazie un sāk vīt meitenei sidraba stīdziņas apkārt 
+              tik ilgi, kamēr tie kā tīkls plūst ap vieglo augumu. Tad
+              pie klavierēm piesēstas vecīga kundze; meitene paņem vijoli, uzgavilēdama: 
+              „Mana jaunā, mīļā vijole!“ un tad - - nespēju
+              aprakstīt, kas manī notiek; kā zaglis es klausos šajās plūstošās
+              skaņās, jo man nav tiesības tās dzirdēt, - nav tiesības! . ..</p>
+  
+              <p>Nezinādams, ko daru, ieeju koridorā un piezvanu pie durvim.
+              Durvis atveras, un man pretim plūst caur otrās istabas atvērtām 
+              durvīm svecīšu gaisma. Istabā zilgana migla; caur telpām
+              velkas tā neaprakstāmā smarža, kura kā sapnis lido katrā svētku
+              mājoklī:  tai piejaucas svaigi - ceptu kūku smarža.</p>
+  
+              <p>Manā priekšā stāv meitene, vijoli rokā, mirdzoša kā
+              zvaigzne.</p>
+  
+              <p>„Lūdzu, ko jūs vēlaties?“</p>
+  
+              <p>Sev par lielu brīnumu, nespēju ne vārda izdabūt pār
+              lūpām, bet noliecu galvu un apjucis raugos uz mazo roku, kura
+              tura vijoli. Un šī roka, man par lielam izbailēm, izņem kaut ko
+              no kabatas un sniedz man. Tai pašā brīdī čaukst drēbes,
+              un parādās vecā kundze.</p>
+  
+              <p>„Nē, atvainojat, jaunkundz,“ es stostos, - nomanu, ka esmu
+              nosalis un nespēju runāt: „es gribu vaicāt, vaj te nedzīvo
+              Augusts Zelmens.“</p>
+  
+              <p>- „Ak tā! Kādēļ jūs tūlit nepateicāt?“</p>
+  
+              <p>„Esmu briesmīgi nosalis, un tad jau tā pagrūti runāt.“</p>
+  
+              <p>- „Kas tur ir, Mirdziņ,“ vecā kundze vaicā.</p>
+  
+              <p>„Te notikusi pārskatīšanās, māt,“ Mirdza atbild nosarkusi: 
+              „šis kungs nevar aukstuma dēļ lāga parunāt, un - ko
+              domā, - es viņu noturēju par nabadziņu un gribēju dot desmit
+              kapeikas ; bet viņš grib zināt Augusta Zelmeņa adresi.“</p>
+  
+              <p>„Kā tu tā vari citus apvainot, Mirdza!“ kundze runā un
+              tad pagriežas pret mani: „Zelmeņa kungs dzīvo tepat, trīs
+              trepes augstāku; bet jūs pie viņa nelaidīs, jo viņš guļ bez </p>
+              <pb/>
+  
+              <p>samaņas. - Ak, - - ja es nemaldos, jūs esat Švarca
+              kungs!“</p>
+  
+              <p>Man jābrīnas. Viņa to ievēro un turpina: „Nebrīnaties, 
+              ka es jūs pazīstu. Jūsu māsa nāca bieži pie mums
+              šūt un stāstīja par savu ģeniālo brāli. Bet nākat tak iešā!
+              Jūs citādi nosalsat!“</p>
+  
+              <p>Es paklausu šai laipnai, runīgai kundzei un atminos, ka
+              māsa man kādreiz stāstīja par kādu Austriņa kundzi un viņas
+              mazo meitu. Jā, tā tiešām ir viņa! Saku, ka Austriņa kundze
+              man nav gluži sveša, jo es par viņu jau esmu dzirdējis.</p>
+  
+              <p>„Mirdziņ, pasniedz Švarca kungam glāzi siltvīna.“</p>
+  
+              <p>Mirdza noliek manā priekšā vīnu un dažādus cepumus,
+              tad nosēstas pie klavierēm.</p>
+  
+              <p>„Bet jūs esat ļoti pārvērties,“ Austriņa kundze iebilda:
+              „agrāk jūs bijāt tāds jautrs zēns; tagad acis palikušas tādas
+              drūmas, kā vecam vīram. Un tādu bārdiņu uzaudzinājuši!“</p>
+  
+              <p>Man gribas jokot. Ievelku Mirdzu sarunā un saku: „Nebiju 
+              domājis, ka Ziemas svētku enģeļi varētu būt arī virs
+              zemes “"</p>
+  
+              <p>Gaidīju, ka Mirdza nosarks, bet viņa tīri izbijusēs sevi
+              apskata, tad sāk smieties: „Ak, to man tie mazie palaidņi
+              izdarīja !“</p>
+  
+              <p>Sāku tāpat pārgalvīgs.</p>
+  
+              <p>„Jāatzīstas, man bij mazu brīdi izdevība noklausīties kādā
+              koncertā ; nezināju, kur viņš notika, bet nu redzu, ka pie jums.“</p>
+  
+              <p>Mirdza atkal smej un saka: „Jā, mēs ar māti abas drusku 
+              muzicējam.“</p>
+  
+              <p>- „Un varam pamuzicēt vēl,“ tā Austriņa kundze joko,
+              „ja tik jūs protat smuki lūgt.“</p>
+  
+              <p>„Ļoti lūdzu,“ atbildu un iekšķīgi priecājos.</p>
+  
+              <p>Istabā viegli skan Šopēna noktirne ... Mirdza, satvērusi 
+              vijoli, gaida, kad viņai jāsāk. Viņa ir pate uzmanība ...
+              Tad - kluss vilciens pār stīgām, - un es brīnos, kā tas
+              nāk: manī top tik klusu, tik mierigi, - viss norimst, izzūd ...
+              Un skaņas plūst, - un līdzi viņām izaug Mirdza, - - liela,
+              cēla, - nesaprotama; acīs mirdz sveša uguns, un roka tura
+              vijoli tik noteikti, stingri, un pār stīgam graciozi slīd lociņš.
+              Man vienmēr top savādi, kad redzu lociņu slīdam pār stīgām,
+              - sevišķi orķestrī, kur stīgu instrumentu daudz ... Šajā
+              kustībā arī liekas būt kautkas izteikts ... Tā arī tagad: raugos</p>
+              <pb/>
+  
+              <p>uz lociņu un uz balto, šauro roku ... Un beidzot nedomāju
+              vairs neko; skaņas plūst ap mani, kā vējiņa žužināšana...</p>
+  
+              <p>Eglītē dziest viena svecīte pēc otras; sārtas liesmiņas
+              spulgo sārtās zvaigznitēs, kuras klusu, svinīgi karājas pazarēs.
+              Un man liekas: tās nav eglītes rota, - tās ir zvaigznītes pie
+              tālas vakara debess, kur viņas noslēpumaini spulgo un iedegas
+              arvien spodrāk ...</p>
+  
+              <p>Noktirne beidzas ...</p>
+  
+              <p>„Vaj jūs arī nemuzicējat pa reizei?“ Austriņa kundze vaicā; 
+              „jūsu māsa man stāstīja, ka jums esot laba balss. Darāt
+              man to patikšanu un dziedat!“</p>
+  
+              <p>Neliekos sevi divreiz lūgties. Uzmeklēju dažas dziesmas
+              nošu krājumā un dziedu, pats sevi pavadīdams.</p>
+  
+              <p>„Vaj jūs neņemat dziedāšanas stundas?“ Mirdza jautā.</p>
+  
+              <p>- „Kādēļ jūs tā domājat?“</p>
+  
+              <p>„Mūsu mūzikas skolā es bieži vien apmeklēju dziedāšanas 
+              klasi; esmu drusciņ dabūjusi tādu kā sajēgu par to, kas ir
+              dziedāšanas māksla. Man liekas, jums ir itin pareizs tonis.“</p>
+  
+              <p>- „Mācījies gan neesmu,“ tā atbildu un gribu apvaicāties
+              tuvāk par mūzikas skolu, kad atminos, ka man jāiet mājās. Manas 
+              durvis būs ciet, - netikšu iekšā, jo dzīvokļa saimniece
+              iet ātri gulēt. Pieceļos un sāku atvadīties.</p>
+  
+              <p>„Tik ātri projām?“ Austriņa kundze brīnās.</p>
+  
+              <p>- „Jā, mana saimniece skaišas, kad eju vēlu mājās.“</p>
+  
+              <p>„Tad gan nedrīkstu jūs aizturēt. Bet nepiemirstat mūsu
+              māju; atnākat kādreiz, - neesat lepni! Nu, ko es runāju: jūs
+              varbūt mājās gaida svētku dāvanas!“</p>
+  
+              <p>- „Laikam gan nē. Neesmu paradis dāvanas saņemt.“</p>
+  
+              <p>„Kas zin, kas zin, - varbūt māsa būs atsūtijusi.“</p>
+  
+              <p>Atvados un gribu iet projām, te Austriņa kundze aptura
+              mani: „Pagaidat, es jums došu līdz mazu piemiņu,“ un viņa
+              izņem iz vāzes nogrieztas hiacintes un narcises un iedod man,
+              sacīdama: „Ieliekat ūdenī un domājat, ka ir Ziemas svētki.“</p>
+  
+              <p>Pateicos, atvados un aizeju.</p>
+  
+              <p>Putenis nostājies. Pie debesim mirdz zvaigznes. Kājas
+              drīz grimst sniegā, drīz atkal slīd pa apsalušu, glumu trotuāru.</p>
+  
+              <p>Nonāku mājās. Zvanu. Saimniece atver durvis.</p>
+  
+              <p>„Ā, jūs. Un es domāju, ka jūs guļat. Jums </p>
+              <pb/>
+  
+              <p>piesūtītas divas paciņas; vienu atnesa mazs zēns, otru kāda jaunkundze.“</p>
+  
+              <p>- „Jaunkundze?“
+              „Jā, melniem matiem, mazā cepuritē.“</p>
+  
+              <p>„Aha, zinu, zinu,“ atsaku vēsā balsī, kaut gan degu aiz
+              ziņkārības.</p>
+  
+              <p>Dabūju paciņas un ieeju savā istabā. Lampa deg, - to biju
+              aizmirsis nopūst ... Pārrauju saites un tinu vaļā pirmo paciņu. 
+              Kastīte ... Tajā -  redzu drēbes, apspraustas skujiņām 
+              un papīra rozēm; ņemu laukā: glīts sniegbalts galdauts,
+              kabatas lakatiņi, divi pāri zeķu un pāris smalku baltu kreklu ...
+              Un klāt vēstule - no māsas! Tā tad - māsa manis nav
+              aizmirsuse! Nē! Un šovakar viņa saņems ari no manis dāvanu ... 
+              Na, bet te jau guļ vesels pūrs uz galda! Ha, ha,
+              ha! Man top jautri: man - pūrs!</p>
+  
+              <p>Māsa raksta, ka ejot diezgan labi; šujot dūšīgi vien
+              un varot iztikt; protams, sākumā jau šis un tas jāpieciešot.
+              Ja es domājot, ka viņai slikti ejot, tad es maldoties: viņa esot
+              ļoti apmierināta ar vienkāršu dzīvi; lai es nedomājot viņai
+              neko pretim sūtit, jo man pašam esot vairāk vajadzīgs. Bez
+              tam  viņa neesot viena: viņa esot saderinājusies, un līgavainis 
+              esot ļoti gādīgs, cik nu viņam pašam tie apstākļi atļaujot.
+              Viņi abi gribot drusku naudas iekrāt un tad precēties; tad varēšot 
+              atvērt kādu mazu veikalu. Līgavainis gan negribot
+              viņai atļaut pie krāšanas piedalīties, bet viens pats to izvest
+              galā. Esot briesmīgi labs cilvēks ... Labā māsa! Kā mēs
+              nezinādami esam viens otru apbalvojuši, - ko agrāk nekad nedarījām!</p>
+  
+              <p>Raisu vaļā otru paku. Skalu kurvis. Tam virsū vate,
+              apvīta enģeļu matiem; trīs rozes - sarkana, balta un sārtdzeltena 
+              sasietas ar zaļu lentu un ietītas enģeļu matu tīklā.
+              Zaļo lentu es pazīstu: tā ir no Lidas apģērba!</p>
+  
+              <p>Esmu uztraukts, paceļu vati: zem tās dažādas paciņas,
+              visas apsietas zaļām lentām. Sāku palikt nervozs, - raisu
+              uzmanīgi lentas vaļā un gribu iepazīties ar noslēpumaino paciņu 
+              saturu. Izberu katras kulītes saturu uz galda un brīnos
+              - un brīnos: manā priekšā konfektes, šokolāde, āboļi un
+              vīnogas, rieksti, daži citroni un visgardākie cepumi, kādus citur 
+              nekur neesmu ēdis, kā vien pie B. Palieku šaubīgs. Redzu:</p>
+              <pb/>
+  
+              <p>kurvja dibenā pudele, pie tās piesiets cukura velniņš un
+              vēstule. Atplēšu kuvertu. No B.!</p>
+  
+              <p>„Vecais draugs!</p>
+  
+              <p>Šovakar Tevis savā vidū nevaram ieraudzīt, lai gan
+              esam vaj visas acis izskatījuši un pat ar mikroskopu pētījuši. 
+              Mums iet varen jauki, tikai Tu esi nezin kur ielīdis 
+              un negribi mums palīdzēt. Tā ka nu Tu esi tik lepns
+              un pie mūsu svētkiem nepiedalies, tad aizsūtam Tev tomēr 
+              vienu brašu sveicienu, kurš pastāv iz pudeles ruma 
+              un dažiem citroniem; Tu zini mūsu ieradumu - 24.
+              decembrī dzert tēju ar rumu. Tiklīdz Tu saņem
+              sūtījumu, tad uzvāri sev tēju un dzerdams piemini mūsu 
+              agrāko „demi-monde“; šovakar mēs esam vesela
+              pasaule, jo ir ari dažas dāmas mūsu vidū; viena par
+              Tevi ļoti intresējas; kura tā ir, to Tu gan neuzminēsi. Lasi 
+              un raksti: Lida Erik. Visi tie sīkie krāmi, kuri nāk ruma 
+              butelei līdz, top no viņas iepakāti; tā nav mūsu specialitāte; 
+              mēs pat nenovēlam ne diega galiņa paciņu sasiešanai. 
+              Nupat Lida pienāk klāt un grib zināt, ko mēs
+              Tev rakstot. Sakām, ka nosūtījām Tev no viņas mīļu
+              sveicienu. Viņa nobīstas un saka, lai tā, no Dieva puses,
+              nedarot, jo Tu varot to uzņemt kā nopietnību; Tu jau esot
+              tāds - tāds - te viņa uzgriež strauji mums muguru
+              - tāds savādnieks.</p>
+  
+              <p>Mums te tāda glīta šokolādes torte; gribējām gan
+              Tevi par Tavu lepnumu atstāt gluži tukšā, bet - Tu
+              zini, te jau ir Tavs aizstāvis  Lidas Erik personā, un
+              šis aizstāvis izlūdzās vienu gabalu; mēs jau tik un tā
+              tādas lietas neēdīšot, viņa gribot šovakar apēst veselu 
+              trešdaļu tortes, tādēļ lai to dodot viņai. Bez tam,
+              viņa mums nočiepa trīs rozes. Un to visu Tevis dēļ,
+              Tu aukstā dvēsele.</p>
+  
+              <p>Un nu - sveiks, Tu laimīgais, apskaužamais, lepnais 
+              bruņiniek!</p>
+  
+              <p>P. S. Augusta arī nav mūsu vidū; viņš šovakar 
+              saņems savu daļu, lai gan tur trūka Lidas mīļās rociņas, 
+              kas būtu kaut ko sakārtojusi un apsējusi zaļzīda
+              lentītēm.“</p>
+  
+              <p>Atradu kurvī arī pieminēto torti. Izgāju pie saimnieces, 
+              dabūju traukus, cukuru un tēju, - un nu sāku saimniekot:</p>
+              <pb/>
+  
+              <p>uzklāju jauno galdautu, uz tā uzliku vāzē visas dabūtās
+              puķes; saldumus sarausu skalu kurvī, torti uzliku uz šķīvja, ruma 
+              buteli sev līdzās - un jutos apmierināts, kad varēju atpūsties 
+              no lielā pārsteiguma ...</p>
+  
+              <p>Manā istabiņā zied puķes, šņāc patvāris un plūst Ziemas 
+              svētku smarža ... </p>
+  
+              <p>Salasīju zaļās lentas un ieliku kādā kastītē, kurā jau atradās 
+              Lidas vēstulīte ...</p>
+  
+              <p>Tagad tēja padzerta, - - un nu graužu saldumus un
+              rakstu jau labu laiku par šā vakara piedzīvojumiem ...</p>
+  
+              <p>Ko lai vēl stāstu savai dienas grāmatai?</p>
+  
+              <p>Man ar bailēm sev jāvaicā: kas tā ir par sajūtu, kura
+              mani moca, tiklīdz iedomājos par Lidu? Cilvēki pieraduši pie
+              jūtu klasifikācijas; vaj tad ari es nevarētu pie viņas pieturēties?
+              Nākt ar sevi skaidrībā ... Izvēlēties ceļu, pa kuru būtu
+              labāki iet ...</p>
+  
+              <p>Man tagad tā sāp, tik ļoti ... Ausīs skan mazs gabaliņš 
+              iz Čaikovska sestās simfonijas, kuru es nosaucu par mīlestību. 
+              Viņš ir tik šķīsts, tik glezns, šis gabaliņš, kā
+              balts puķu ziediņš ... Tik reizi tā mīlēt - vienu reizi!
+              Es trīcu, iedomājoties, ka tas tā varētu būt ... Bet manās
+              acīs mīlestība ir tikai viens skaists acumirklis, un viss, kas pēc
+              šā acumirkļa nāk, ir pelēks, ikdienišķīgs, pilns kļūdu, pārskatīšanās 
+              un nesaprašanās ... kā gandrīz katra ģimenes dzīve. 
+              Tad jāmācas iemīļot visas cilvēka ierašas, viņa kļūdas, 
+              viņa darbi, viņa domas ... jāmācās būt arī patiesam,
+              bet neviens mēs nevaram līdz pēdējam sīkumiņam patiesi
+              būt, - mēs tomēr izliekamies; un tiklīdz otrs šo izlikšanos 
+              nomana, tad ceļas neuzticība ... Es visa tā nespēju ciest,
+              un tāpēc man nav tiesibas no otra mīlestibu saņemt ...</p>
+  
+              <p>Ja es varētu tapt Lidas draugs, tad būtu piepildījies tas,
+              ko es drīkstu vēlēties ...</p>
+  
+              <p>Kādēļ es izturos vēsi pret Lidu? Tādēļ, ka gribu, lai
+              viņa mani ienīst, jo man liekas, mēs draugi nekad nekļūsim ...
+              Bet man piepeži uznāk nepārvaramas žēlabas, it kā es ko
+              būtu zaudējis, - un asaras laužas iz acim ... Kādēļ es
+              nevaru domāt un just pilnīgi tā kā citi?...</p>
+              <pb/>
+          </div>
+          <div type="group">
+              <head>25. decembrī.</head>
+  
+              <p>Murgodams esmu palicis pavisam slims. Gribas tikai valstīties 
+              spilvenos, domāt par Lidu un par to, ka tagad Ziemas
+              svētki. Vakarējā diena man stāv dzīvi atmiņā: Mirdza un
+              viņas māte, mans gājiens pa puteni, Ziemas svētku dāvanas 
+              un murgi. Mocu sevi dažādām domām ... Ja nu viņa,
+              t. i. Lida, piemirsusi, ka ieaicinājusi mani? Ja viņas nebūs
+              mājās? Uztraucos ...</p>
+  
+              <p>Uz galda stāv puķes, kā atmiņa iz vakardienas. Ieelpoju
+              vieglo smaržu ... Cik skaistas tak var rozes būt! Piemēram - 
+              ši sārti-dzeltenā : skaistāku par to neesmu redzējis ; vidū
+              tāda rožaina ēna - - jā, bet kas tad tas?! Satīts zīdpapīra 
+              rullitis! Rozē! Tā jau īsta puķu valoda !</p>
+  
+              <p>Rokas trīc, papīru vaļā tinot.</p>
+  
+              <p>„Nepiemirstat sava solījuma, kurš jāizpilda 25-tā
+              decembrī.</p>
+  
+              <p>Sveiki!
+              L.E“.</p>
+  
+              <p>Hm, - nu es smejos, - esmu atkal tas pats vecais Henrijs, 
+              kurš par visu zobojas, pats sevis netaupīdams ... Oh, nu
+              reiz noķēru sevi pie meliem: kurš cilveks tad pats sevis netaupa?</p>
+  
+              <p>Bet Lida mani atmin. Kā tas var būt? Neesmu tak viņas 
+              ievērības pelnījis; esmu izturējies skarbi, izsmejoši, dažreiz
+              stīvi un auksti, - - jā, bet ir bijuši brīži, kur esmu negribēdams 
+              savas jūtas cēlis gaismā ... Vaj nu viņa šīs jūtas 
+              novērojusi, vaj ari mans skarbums viņai imponē ... Viens
+              no diviem ...</p>
+  
+              <p>Ārā top zvanīts. Drīz pēc tam pie mana durvim kāds
+              klauvē ...</p>
+  
+              <p>„Lūdzu!"</p>
+  
+              <p>Ienāk B. „Labdien, bruņiniek!“</p>
+  
+              <p>„Labdien, labdien! Tiešām necerēju tevis pēc paģirām
+              redzēt !“</p>
+  
+              <p>- „Ah, - kā redzi, esmu spējīgs arī izcelties!“</p>
+  
+              <p>„Nu, apsēsties,“ es pabīdu viņam krēslu, „un pastāsti,
+              kā pie jums gāja!“</p>
+  
+              <p>- „Sazin velns, kur tu biji ielīdis! Pēc tevis meklēja, - - 
+              meklēja,“ - te B. taisa tādu izsmejošu, izmisuma
+              pilnu žestu, kā man jāsmej.</p>
+              <pb/>
+  
+              <p>„Ko labu jūs darijāt?“</p>
+  
+              <p>- „Ko vienmēr tādās reizās! Bij ieaicinātas kādas
+              četras dāmas. Un vaj zini ko? Lida dzied! Un debešķīgi!“</p>
+  
+              <p>„Tad jau jums būs bijis tīri vaj koncerts!“</p>
+  
+              <p>- „Kautkas tamlīdzīgs. Mans draugs Valdis deklamēja
+              „Vij rozes ap galvu“, - Lida Erik atkal Skalbes dzejas, -
+              viņa ļoti sajūsminās par Skalbi; es ar, - un tu laikam tāpat;
+              jā, tad Lidočka dziedāja kaut ko iz „Karmenas“ un Gounod'a
+              „Pavasaru“ - un pēc tam mēs izbraucām trijjūgos ārpus
+              pilsētas; mežā uzgājām skaistu vietu, kur varēja vaj dejot.
+              Tik mūzikas nekādas nebija. Tu nevari iedomāties, kādu joku
+              mēs iztaisījām.“</p>
+  
+              <p>„Nu, tad stāsti ātrāki!“ es to skubinu.</p>
+  
+              <p>- „Jā, mūsu Lidočkai ienāca prātā pūst uz ķemmēm;
+              viņa izņēma no matiem vienu ķemmi, - plānu konfekšu papīri 
+              pāri -- un pūš vaļā. Tad sāka kungi ar' tāpat vilkt
+              ķemmītes no kabatām laukā. Nu, tad tik gāja vaļā, - es tev
+              saku! Tādu polku es ilgi nebiju griezis, kā vakar!“</p>
+  
+              <p>„Smalki, nudien!“ es līgsmojos : „bet man jāsaka liels paldies 
+              par dāvanām.“</p>
+  
+              <p>- „Ak nu! Bet kas tad tev uz krēsla sakrauts?“</p>
+  
+              <p>„Tas ir mans pūrs.“</p>
+  
+              <p>- „Tavs pūrs?“ B. uzmanigi paskatās, tad sāk pilnā
+              kaklā smieties: „tev pūrs! Mūsu Henrijam pūrs !“</p>
+  
+              <p>„Jā, un kāds vēl! Visu šuvušas un griezušas māsas 
+              mīļās rokas. Skaties: galdauts, - tas tur uz galda, -
+              zeķes, krekli, kabatas lakatiņi. Vaj nav smalki?“</p>
+  
+              <p>- „Jā gan.“</p>
+  
+              <p>„Vaj tu pie Augusta biji?“</p>
+  
+              <p>- „Pie Augusta, - - jā, biju pavisam piemirsis, ka taisni
+              tamdēļ nācu pie tevis. Iedomājies, - mūsu jautrais Augusts
+              vakar vakarā sešos nomiris! Un lipigā slimibā! Man traki nejēdzīgi 
+              ap dūšu, tāpēc ka es viņam nosūtīju to ruma pudeli;
+              tā nāca, protams, par vēlu; izskatās tīri, it kā mēs būtu
+              par viņa nāvi smējušies!“ B. atsēstas un nokar galvu.</p>
+  
+              <p>„Un Augusts nav atstājis ne raksta galiņa?“</p>
+  
+              <p>„Ak tā,“ B. uzlēc kājās: „viņš atstājis tev vienu vēstuli! 
+              Skaties, - uzraksts: manam vienigajam draugam Henrijam. 
+              Un citam nevienam viņš nav rakstījis.“</p>
+  
+              <p>Man paliek baigi, bet nesaku ne vārda. B. atvadās un</p>
+              <pb/>
+  
+              <p>aiziet. Paskatos pulkstenī un redzu, ka laiks ģērbties. Sasukāju
+              savus nepaklausīgos matus, uzvelku vislabāko uzvalku un sataisos 
+              uz iešanu.</p>
+  
+              <p>Man vairs nav saules krūtīs, tās sildošās, maigās gaismas, 
+              kura vakar pildīja visu manu būtni; man tagad „ugunīga
+              sirds,“ - ha, ha! Ai, kā es varu smieties! Vaj tu dzirdi,
+              Lida, kā es varu smieties! . . . Man šausmas pašam no sevis! 
+              Vaj esmu ārprātīgs? ..</p>
+  
+              <p>Aizeju, pilns pieņemti - filozofiska miera. Uguns izdzisusi.
+              Kas tad nu var būt? Blēņas, muļkības, bērnišķigas asaras
+              nomirušā biedra dēļ ...</p>
+  
+              <p>Jo tuvāki nāku savam mērķim, jo sirds sāk nemierīgāki
+              pukstēt; lūk jau X. iela; vienpadsmitā māja, devitā, septitā,
+              piektā, trešā, - tepat jau viņa ir. Gribu smieties, bet kaklā
+              iestājies kā kumoss; elpas trūkst. Hm, tad te dzīvo Erik jaunkundze? 
+              Grezns nams ...</p>
+  
+              <p>Piezvanu. Kalpone baltā priekšautā atslēdz durvis un
+              vaicā, ko es vēloties.</p>
+  
+              <p>„Vaj nevaru Erik jkdzi dabūt runāt?“</p>
+  
+              <p>- „Viņas vecāki aizbraukuši, un tad jaunkundze nemēdz
+              neviena sveša pieņemt.“</p>
+  
+              <p>„Tā? Bet es nāku viņas slimā skolotāja uzdevumā. Varbūt, 
+              ka jūs tomēr mani varētu pieteikt.“</p>
+  
+              <p>- „Pagaidat lūdzu, - es tūlīt,“ tā kalpone atbild un
+              uzved mani pa trepēm; atrodos greznā priekšnamā. Gaidīdams
+              uz atbildi, aplūkoju savu apkārtni. Priekšnama logi no krāsaina 
+              stikla, kā baznicās. Glīti aizkari, gaišzaļas tapetes, spogulis, 
+              palmas, - - viss atstāj patīkamu iespaidu.</p>
+  
+              <p>Dzirdu soļus. Kalpone nāk atpakaļ un saka: „Jaunkundze
+              liek lūgt.“ Noņemu mēteli un cepuri un atdodu kalponei. Tad
+              man tiek norādīts ceļš, - cauri divām istabām trešā.</p>
+  
+              <p>Ieeju un palieku pie durvim stāvot. Mani apvilņo viegla
+              rožu smarža. Krēsla valda istabā. Kamīnā kuras uguns.
+              jautri sprēgādama. Tumsā paceļas kāds tēls un nāk tuvāk.
+              Palocos.</p>
+  
+              <p>„Švarca kungs, cik labi, ka jūs atnācāt. Atvainojat,
+              ka atņēmu jums jūsu dārgo laiku; man nekā svariga nav, ko
+              jums teikt; gribu tik jūs tāpat redzēt.“ Viņa mani nosēdina
+              mīkstā atzveltnes krēslā un pate staigā pa istabu. Esmu mantigu</p>
+              <pb/>
+  
+              <p>cilvēku dzīvoklī un jūtu, ka še tiek vismazakā iegriba izvesta
+              galā; visos stūros valda pilnība ...</p>
+  
+              <p>„Vaj es jūs vakar neapvainoju ar savu otrreizējo atgādinājumu?“</p>
+  
+              <p>- „Nebij vajadzīgs; ko solu, to izpildu. Jūs varbūt
+              domājāt, ka aizmirsīšu vaj būšu spītīgs?“</p>
+  
+              <p>„Gandrīz tā. Un jūs dusmojaties?“ viņa vaicā cik iespējams 
+              viegli, bet es redzu, ka viņa visa sastingst, gaidot uz atbildi, - 
+              un pat aiztura elpu. Lieku viņai pagaidīt un tad saku:
+              „Nē!“ Lida piepeši kā viesulis iemetas šūpļa krēslā. Dažas 
+              dzirksteles izlēc iz kamina un tik tikko neaizķer viņas gaišo
+              uzvalku.</p>
+  
+              <p>„Jūs sadegsat,“ es saku un smejos.</p>
+  
+              <p>„Es tik ātri nevaru sadegt,“ dzirdu šķelmīgu atbildi: „bet
+              stāstat man, kā jūs pavadījāt visu šo laiku?“</p>
+  
+              <p>„Tā, - ne sevišķi; bet man gribētos stāstīt tikai par
+              vakardienu.“</p>
+  
+              <p>- „Stāstat; esmu tiešam ziņkārīga,“ - un viņa pavelk
+              šūpļa krēslu man tuvāk.</p>
+  
+              <p>Sāku viņai stāstīt, kā sēdēju vakar savā istabiņā, kā murgos 
+              redzēju Augustu, kā gāju pa puteni un ietiku pie Austriņa
+              kundzes, kā dabūju Ziemas svētku dāvanas, un beidzot - kā
+              B. mani nobiedēja ar nāves ziņu.</p>
+  
+              <p>„Kādu nāves ziņu“? Lida vaicā.</p>
+  
+              <p>- „Mans draugs Augusts vakar pulksten sešos nomiris
+              un atstājis man vēstuli. Savādi man liekas tas, ka viņš nevienam 
+              citam nav rakstījis.“</p>
+  
+              <p>Lida pieceļas un pienāk klāt. Viņa nobālusi. „Vaj
+              jums šī vēstule klāt ?“</p>
+  
+              <p>„Jā, bet es viņu vēl neesmu lasijis.“</p>
+  
+              <p>- „Lūdzu, lasīsim abi kopā. Tur tak nebūs nekādu noslēpumu.“ 
+              Viņas balsī skan brīnišķīgi-maigs lūgums.</p>
+  
+              <p>Man jāstostas - tiešām nezinu, ko lai viņai atbildu.</p>
+  
+              <p>Te Lida nolaiž rokas gar sāniem un saka: „Es jūs saprotu. 
+              Viņš rakstījis tikai jums un nav gribējis, ka citi dabū
+              ko zināt. Man tak nav tiesības. Esmu netaktiska. Bet - tas
+              tak ir šausmīgi, - - es tapšu māņticīga - - - kā mazs
+              bērns!“ Un viņa stāv un smejas, galvu pacēlusi, bet acis
+              raugas stīvi, kā tas mēdz būt vislielākā uztraukumā un bailēs.</p>
+  
+              <p>„Lasīsim,“ es saku. Viņa stāv un lūkojas uz mani kā</p>
+              <pb/>
+  
+              <p>mazs bērns. Pieceļos, satveru viņas trīcošās rokas un
+              nosēdinu viņu krēslā. Tad izņemu vēstuli iz kabatas, atplēšu 
+              un iedodu Lidai: „Lūdzu lasat, - bet stipri.“</p>
+  
+              <p>„Neejat prom, - paliekat tepat pie mana krēsla,“ Lida
+              lūdzas, „lasīsim abi!“ Atbalstos uz viņas krēsla atzveltnes un
+              lūkojos pār plecu vēstulē. Tad Lida sāk lasīt:</p>
+  
+              <p>„Mīļo Henrij! Es zinu, man jāmirst, glābiņa vairs nav;
+              bet par to es nebēdāju; man sāp tik tas, ka esmu daudz ļauna
+              darijis un nespēju lūgt piedošanas par saviem darbiem. Tādēļ 
+              lūdzu Tevi - palīdzi man to darit. Kur un kā - to
+              teikšu.</p>
+  
+              <p>Reiz mīlēju kādu meiteni, - nē, tā nebij vairs meitene, -
+              ta bij rafinēta koķete. Jutu drīz, ka atrodos pilnīgi viņas varā.
+              Bet kā viņa ar mani apgājās! Nepagāja diena, kur mēs nebūtu 
+              ķildojušies; mazākais nieciņš deva iemeslu nesaskaņai;
+              viņa mīlēja jautru dzīvi, - vēl vairāk, nekā es; mēs apmeklējām 
+              visādus izrīkojumus, visādas izpriecašanās vietas, un
+              tādās reizās man bij vienmēr jānoskatas, kā viņa ar citiem
+              līgsmojas, jokoja, pļāpāja - un mani ignorēja.</p>
+  
+              <p>Viņa mani ir tik ļoti nokavējusi no darba, ka šo laiku nevarētu 
+              ne ar zeltu atsvērt. Ko gan es nebūtu pastrādājis, ja
+              neiekļuvis tādā mulķīga zēna lomā, kas gatavs palikt par otra
+              vergu.</p>
+  
+              <p>Tu zini - mokas rada ciešas jūtas, ciešas saites.</p>
+  
+              <p>Un tā klājās arī man: jo vairāk viņa mani mocīja, jo
+              vairāk es viņu mīlēju. Kādreiz tapu gluži dulns, ja viņa
+              mani apbalvoja kaut ar vienu laipnu skatienu.</p>
+  
+              <p>Bet reiz tomēr nāca šķiršanās. „Viņa“ (nav vērts
+              vārda minēt) aizskāra ļoti sāpīgi manu pašmīlību ar savu
+              mūžīgo ecēšanos un iedomām, un es sev nosolījos nekad vairs
+              nebūt tik liels mulķis.</p>
+  
+              <p>Drīz pēc tam iepazinos ar kādu citu - Tev pazīstamu -
+              Mariju Zālit. Viņa man nezin kādēļ atgādināja pirmo - -
+              nu, Hertu Šulc. Nezināju iesākumā, par kuru vairāk sajūsminājos ... 
+              Marija bij neizprotama meitene; nevarēju nekad viņā 
+              ieskatīties; drīz jautra, bērnišķīga, - drīz nopietna, sevī
+              noslēgusēs, pat drūma; kad vaicāju, kas viņai kaiš, tad viņa
+              man deva vieglas, nenoteiktas atbildes. Iesākumā mēs ķircinājām 
+              viens otru, pļāpājām niekus, pastaigājāmies, - viņa muzicēja; 
+              bet vēlāk man palika garlaicīgi ... Mans Dievs, - tagad</p>
+              <pb/>
+  
+              <p>es sevi nosodu par to, jo esmu mācījies viņu pazīt; bet toreiz -
+              cik tad viegli ņēmu visu! Mani valdzināja āriene, viegla asprātība, 
+              „Flittergold“, - pikantērija - un sekli joki ... Mīlēju 
+              uzdzīvot, - tu to zini ļoti labi ... Un nu man bij garlaicīgi, 
+              kaut gan solījos viņu mīlēt ...</p>
+  
+              <p>Reiz satikos ar Hertu Šulc; nejaušs gadījums saveda
+              mūs kopā, un - kas jauns, tas pievilcīgs. Nezināju, kā lai no
+              Marijas atkratos. Te viņa pate man nāca palīgā, - un kā
+              vēl! Viņa rakstīja, ka negribot man ceļā stāties; viņai šķiršanās 
+              nedarīšot nekādu sāpju, un man netik nē; bet es esot
+              ļoti zemi izturējies un neglītā kārtā valkājis viņas uzticību;
+              visvienkāršākais tak bijis: izteikt viņai patiesību, - bet mana
+              gļēvulība to neesot atļāvusi. Tagad viņa uzskatot mūsu sakaru 
+              par nobeigtu, jo viņai esot par daudz lepnuma, lai varētu no
+              žēlastības dzīvot. Viņa tik nožēlojot to, kā varējusi tik
+              vieglprātīgi māņus turēt par zeltu.</p>
+  
+              <p>Tu nezini, kādu iespaidu šī vēstule atstāja uz mani: es
+              biju tā saskaities, mana pašmīlība bij tik šausmīgi aizskārta,
+              ka aizrakstīju atpakaļ“ „Tādas bezkaunības nebiju ne sapnī redzējis.“</p>
+  
+              <p>Bēgu no viņas. Tomēr - gribējās zināt, kā viņa nu
+              izturēsies. Es uztraucos, viņa bij mierīga un jautra. Dzirdēju
+              viņas sarunas ar citiem, - - ar mani viņa nekad tā nebij runājusi, - 
+              un nu sāku atjēgt, ka viņa mani tikai izmēģinājusi,
+              gribējusi iepazīties, bet sevis nav rādījusi. Tagad, kur bijām
+              svešāki, nekā pašā sākumā, viņa man izlikās mīļāka par visām 
+              citām; man bij tāda sajūta, it kā es būtu viņu zaudējis.
+              Vaj viņai nebij nepatīkami mani redzēt? Vaj viņa nejutās atstumta? 
+              Nē, - kad viņa uz mani paskatījās, tad domāju - -
+              uz tukšu sienu nevarētu noskatīties vienaldzīgāki, kā uz mani ;
+              un atstumta jutās ne viņa, bet es ... Tagad mēģināju atstāt
+              uz viņu iespaidu, bet nekas nelīdzēja. Cīņa bij zaudēta. Reiz
+              dzirdēju, kā viņa sarunājās ar kādu no maniem biedriem. Zināju, 
+              ka viņš grib viņu izmēģināt un lūkoja ielaisties dziļākās 
+              sarunās, bet Marija uz visu atbildēja, kā uz kādu joku, tā
+              ka es priecājos un dusmojos. Kad vēlāk Marija stāvēja viena
+              pate pie loga, es piegāju un teicu: „Es negribu, ka tu ar šo
+              cilvēku tik daudz runā; viņš grib tevi izmēģināt. Es to negribu!“ ... 
+              Nekad neaizmirsīšu tā savādā skata, kādu dabūju par
+              savu pārdrošību. „Vaj drīkstu vaicāt, kāda tad tev tur
+              interese?“ bij Marijas vārdi.</p>
+              <pb/>
+  
+              <p>Atbildēt? Es biju par lepnu, lai šajā brīdī, kur saņēmu
+              tādu triecienu, atzītos. Taisnība, - man nebij nekādas tiesības 
+              iejaukties, - es pats šīs tiesības reiz minu kājām.</p>
+  
+              <p>Esmu tik ļoti pārvērties: esmu pats sevi audzinājis, lai
+              varētu Marijai tikt līdz; tas bij vienigais ceļš uz viņu ...</p>
+  
+              <p>Tagad - kur es mirstu - visa augstprātība un lepnība
+              mani atstājusi ... Henri, esi tik labs, aizej pie Marijas un saki,
+              ka es lūdzu no viņas piedošanu par visu, ko esmu reiz nelietīgi 
+              valkājis; saki, ka es viņu pirmo reiz mīlu ... No Erik
+              jkdzes tu dabūsi zināt Marijas adresi ...</p>
+  
+              <p>Tad pāra vārdus tev ...</p>
+  
+              <p>Tu esi vienīgais, kam visu šo izstāstu, kam varēju
+              izstāstīt. Teātrī es nojautu, ka mēs varētu tapt labi draugi...
+              Neatraidi manis un, kā mans draugs, izpildi manu vēlēšanos.“</p>
+  
+              <p>Lida paskatās uz manis; viņas lūpas nobālušas ...</p>
+  
+              <p>„Tagad jūtu, ka dzisīšu... Kaut jel ātrāk ... Man
+              top viegli, kad iedomājos, ka nu viss būs labi ... Izlīdzināts, 
+              piedots - - nebūs ciešanu - - -“</p>
+  
+              <p>Te vēstule nobeidzas. Beidzamie vārdi pārvēršas nesalasāmās 
+              strīpās.</p>
+  
+              <p>Lida paskatās vēl reiz uz vēstuli, kā bez palīdzības rokas
+              salikuse klēpī, - tad piepeši viņas seja sāk nervozi raustīties.
+              Satveru Lidas rokas, - viņa piespiež tās pie acīm, un es
+              dzirdu raudas, - klusas, aizturētas, bet dziļas ...</p>
+  
+              <p>„Erik jkdze! Lida - -,“ es murminu ka bezprātā.</p>
+  
+              <p>Pēc brīža viņa pieceļas, tura roku priekš acīm, sacīdama: 
+              „Atvainojat, - es nākšu,“ - garām ejot pagriež pie
+              durvim podziņu, un visa istaba top gaiša.</p>
+  
+              <p>Palieku viens pats istabā. Lūkojos uztraukts visapkārt,-
+              tad mēģinu sevi savaldit, - kas arī beidzot izdodas, kā vienmēr.</p>
+  
+              <p>Augusta vēstule guļ zemē. Paceļu to un iebāžu kabatā...</p>
+  
+              <p>Tā tad esmu pie Lidas. Skaistās telpas mirdz zilgani-zaļā
+              krāsā; to dara gaišais zīds, ar kuru pārvilktas mēbeles. Pie
+              sienām rožainas lilijveidīgas lampas ... Atrodos kā pasakā.
+              Kuplas mirtes un palmas, ziedošas kamēlijas, - vāzēs rozes...
+              Zilgan-zaļi aizkari pie logiem, - zem tiem dzeltenīgs plīvurs...</p>
+  
+              <p>Ienāk Lida; viņa mazgājusēs; mitrās acis uzsmaida, un es
+              tikai tagad redzu, ka viņa tērpusēs gaiši-zilā uzvalkā tumšziliem 
+              samta izrotājumiem; ap pleciem tai apņemta šalle; kājās</p>
+              <pb/>
+  
+              <p>gaišas, izšūtas austrumnieku kurpites; mati sapīti divās bizēs,
+              bet tās jau pa pusei izjukušas.</p>
+  
+              <p>Ienāk kalpone un pasaka Lidai kaut ko, tad aiziet.</p>
+  
+              <p>„Jūs tak neatteiksaties dzert ar mani kopā šokolādi? Šodien 
+              jūs esat mans viesis.“</p>
+  
+              <p>Esmu ar mieru, un viņa ieved mani otrā istabā.</p>
+  
+              <p>„Tas ir mans salons,“ viņa smej. Redzu gaiši-zilus zīda
+              vilņus, kā neaizmirsteles; tiem pa vidu pamirdz tikko manāmas
+              bāli-dzeltenas strīpiņas ...</p>
+  
+              <p>„Man šķiet, es atrodos debesīs,“ es jokoju, - bet tiešām
+              skats pazūd šajos vilņos, kuriem ne gala, ne malas. Tikai melnās 
+              klavieres svinīgi atšķiras no debess, kā jau zemes bērns...</p>
+  
+              <p>„Vaj nav jauki?“ Lida priecājas: „tēvs izpilda manu
+              vismazāko iegribu.“</p>
+  
+              <p>Sēstamies pie galda. Lida mani apkalpo, es atkal viņu.
+              Piepeši viņa nodreb un vaicā: „Vaj jums neliekas, kā še ir
+              vēsi?“</p>
+  
+              <p>- „Jā, man arī uznāca tā kā trīsas,“ atbildu; tiešām
+              manu, ka man vēsi. Lida ietinas šallē un aizskrien. Pēc
+              brīža viņa ir klāt un nes kaut ko savās mazajās rokās. Sēžat 
+              taisni!“ viņa man pavēl; es paklausu; viņa apliek man
+              ap pleciem melnu samta apliekamo, baltām špicēm apšūtu.</p>
+  
+              <p>„Tā; tas ir manas mātes apliekamais; nu jums nebūs
+              auksti; bez tam, jūs atgādināt trubadūru.“</p>
+  
+              <p>- „Jūs esat mani iepinusi pasakā,“ saku ne bez brīnumiem.</p>
+  
+              <p>„Jūs tagad esat mans vanģinieks, - pasaku princis!“
+              viņa smej.</p>
+  
+              <p>- „Nu, pēc pasaku prinča gan neizskatos,“ atbildu, lai
+              gan man tiešām liekas, ka Lidai būs taisniba.</p>
+  
+              <p>„Oh, mēs esam pazemīgi!“ Lida smej atkal: „jums tāds
+              pasaku prinča profils.“</p>
+  
+              <p>- „Ko tas viss līdz? Pasaku princis drīkst tikai līdz
+              pusnaktij - šoreiz tik līdz astoņiem - palikt zeltmates - princeses 
+              burvju pilī; pēc tam jātērpjas atkal gana drēbēs un jāiet 
+              vaj nu cūkas ganīt, vaj ubagot.“</p>
+  
+              <p>Lida paliek nopietna. „Sakāt, ko jūs visu šo laiku darījāt?“</p>
+  
+              <p>- „Gleznoju; februārī būs izstāde; gribu nosūtīt arī dažus 
+              savus darbus.“</p>
+  
+              <p>- „Tā tad - daudz pūļu?“</p>
+  
+              <p>„Jā, - bet maz algas!“"</p>
+  
+              <p>- „Nu, nu?“</p>
+  
+              <p>„Reiz nebij vairs nemaz naudas. Ja kāda laba dvēselīte
+              nebūtu tajā brīdī uznākusi pie manis un nopirkusi vienu gleznu,
+              tad būtu nomiris badā!“ es smējos bez gribas.</p>
+  
+              <p>- „Jūs gribat nodoties glezniecībai?“</p>
+  
+              <p>„Kā nu to ņem; es pats vēl nezinu, kas man vislabāk
+              patīk.“</p>
+  
+              <p>- „Jūs jau paliekat dziļdomīgs,“ Lida ironizē.</p>
+  
+              <p>„Tas jau es ar' gribu būt,“ atbildu viņai tāpat: „nu, sakāt, 
+              ko jūs gribat iesākt?“</p>
+  
+              <p>- „Es domāju drīzā laikā braukt prom un iestāties dramatiskos 
+              kursos. Skatuve un dziedāšana - lūk viss, ko es
+              gribu.“ Viņa apklust, tad uzlēc kājās un sauc: „Vaj gribat,
+              es uzdziedāšu!“ un viņa pieskrien pie klavierēm. Dzirdu Čaikovska 
+              „Пускай погибну я“,  esmu kā apreibis ... Pašā vidū
+              Lida pārtrauc dziesmu, tad brīdi improvizē kaut ko; beidzot dzirdu
+              „Ceciliju,“ - tik sirsnigi, izjusti un ilgu pilnas plūst skaņas ...</p>
+  
+              <p>„Wenn du es vüßest,
+              Was träumen heißt - - “</p>
+  
+              <p>Brīdi viņa sēd pie klavierēm, rokas salikusi, it kā domās
+              atkārtotu šo dziesmu, - tad pieceļas un dzied atkal: „Wenn
+              du es vüßtest - -“ Sēdu kā sastindzis un izliekos sev liels
+              muļķis.</p>
+  
+              <p>„Vaj jūs nedziedat ?“ Lida vaicā.</p>
+  
+              <p>- „Neesmu mācījies.“</p>
+  
+              <p>„Cilvēks var arī ar nemācītu balsi dziedāt. No svara tikai
+              izteiksme. Lūdzu, lūdzu, darat man to patikšanu, - es gribu
+              jūsu balsi dzirdēt!“</p>
+  
+              <p>Kavējos tīšām. Beidzot ar lielām lūgšanām piesēstos
+              pie klavierēm. Lida jau ir saniknota.</p>
+  
+              <p>„Kā, jūs paši pavadīsat?“</p>
+  
+              <p>- „Jā, vaj tas kāds brīnums?“</p>
+  
+              <p>„Nē, bet es domāju - -“ viņa apklust.</p>
+  
+              <p>- „Ka es neprotu spēlēt,“ un es sāku dziedāt Rubinšteina
+              „Nakti“. Rodas sajūsmība, - - dziedu tā, kā ilgi neesmu dziedājis, - - 
+              pats nezinu, kā tas nāk ...</p>
+  
+              <p>Beidzu ... Lida sēd zofajā, rokas salikusi pār galvu, un
+              skatās uz mani lielām acim. Man paliek neomulīgi.</p>
+              <pb/>
+  
+              <p>„Nabaga trubadūrs kritis cauri,“ mēģinu jokot.</p>
+  
+              <p>Lida saliek rokas klēpī un atbild: „Nezinu, kā jūs tā
+              varējāt melot.“</p>
+  
+              <p>- „Jaunkundz, apdomājaties, pirms jūs apvainojat otru!“</p>
+  
+              <p>„Jūs tak esat ņēmuši dziedāšanas stundas !“</p>
+  
+              <p>- „Nekad vēl nē!“</p>
+  
+              <p>Lida pieceļas un lūkojas man acīs: „Jā, kā tas tad var
+              būt, - - kā tas iespējams, - - jūs esat brīnišķīgs cilvēks!“ 
+              Viņa nosēstas uz zofaja un ar rokas mājienu uzaicina
+              mani ieņemt vietu tai līdzās.</p>
+  
+              <p>„ Brīnišķīgs? </p>
+  
+              <p>- „Jā, - ne tagad vien, - bet vispārīgi.“</p>
+  
+              <p>„Piemēram, kādā ziņā?“</p>
+  
+              <p>- „Jūs varat visu.“</p>
+  
+              <p>„Ko es varu?“</p>
+  
+              <p>- „Savaldīt sevi.“</p>
+  
+              <p>„Vaj jūs man to nepaskaidrosat tuvāki?“</p>
+  
+              <p>- „Nu Jūs paši izaicināt mani uz atklātību.“</p>
+  
+              <p>„Jā.“</p>
+  
+              <p>- „Nu tad - vispirms - jums ir daudz pašvaldīšanās; 
+              kādā ziņā, to vēlāk teikšu; atbildat, - jā vaj nē ?“</p>
+  
+              <p>„Domāju - jā. Iesākums labs. Tālāk?“</p>
+  
+              <p>- „Jūs esat ļoti noslēgts, - jums nav neviena drauga, 
+              ar kuru jūs varētu izrunāties.“</p>
+  
+              <p>„Taisnība.“</p>
+  
+              <p>- „Jūs mīlat būt spītīgs; jūsu mīļākā izturēšanās:
+              aci pret aci, zobu pret zobu.“</p>
+  
+              <p>„Ļoti pareizi, augstā Pitija.“</p>
+  
+              <p>- „Neizdevīgi teikts! Saucat mani labāk par raganu!“</p>
+  
+              <p>„Par zeltmataino raganu, - jā! Nu, lūdzu, turpināt!“</p>
+  
+              <p>- „Jūs pēc savas dabas esat sirsnīgs cilvēks, - bet
+              jūs esat par lepnu, lai šo sirsnību izrādītu. Tagad nāk tā
+              pašsavaldīšanās : jūs stāvat viens, bet neliekat to manīt;
+              jūs smejat, kad jums krūtīs deg, jūs sakožat zobus, - bet
+              uzvarai būs būt!“ - „Vaj tad mana persona ir atvērta grāmata, 
+              kuru var tik viegli lasīt?“</p>
+  
+              <p>- „O nē - nē! Nebūt! Gluži otrādi: viņa ir grāmata 
+              ar septiņreiz septiņiem zieģeļiem.“</p>
+  
+              <p>Un mēs graužam saldumus un smejam.</p>
+  
+              <p>„Sakāt, - jūsu vecāki bijuši turīgi ļaudis?“</p>
+              <pb/>
+  
+              <p>- „Nē; kādreiz gan bij kautkas, bet tas izputēja ...            
+              Viņi ātri nomira; esmu pats saviem spēkiem pabeidzis ģimnāziju 
+              un nu dzīvoju sliņķa dzīvi.“</p>
+  
+              <p>„Ja kādam ir tiesība sevi par sliņķi saukāt, tad vienigi
+              man, jo es nekā nedaru!“</p>
+  
+              <p>- „Jūs jau to varat! Bet man nav lemts!“</p>
+  
+              <p>„Bet es gribētu nevarēt! Un man tomēr nav spējas!“
+              Klusuciešana. Lida top atkal domīga. Viņa saka: „Jūsu
+              draugam vajadzēja briesmīgi ciest !“</p>
+  
+              <p>Man paliek savādi. Kādēļ viņa tā saka?</p>
+  
+              <p>„Ja jūs būtu nelaimīgi mīlējuši, tad varētu viņu saprast,“ 
+              beidzot atbildu viņai.</p>
+  
+              <p>- „Kā jūs varat tā teikt? Vaj tad man nevar būt
+              tādas nelaimes?“</p>
+  
+              <p>„Jaunkundz, nevajaga sevi nodot!“</p>
+  
+              <p>- „Ko jūs ar to domājat?“ Lidas acis zvēro.</p>
+  
+              <p>„Es domāju, jaunkundzes nemēdz atzīties, ka viņas kādreiz 
+              bijušas nelaimīgas; tas nesaskan ar viņu godkārību un iedomību. 
+              Bez tam - pie jaunkundzēm nelaimīga mīlestība pagadās 
+              tā retāki; viņas jau prot iekarot visu pasauli!“ Banāli gan
+              tas izklausās, - es zinu, - bet tomēr - man šoreiz gribas
+              būt banālam.</p>
+  
+              <p>Lida paskatās izsmejoši uz mani, - tad saka: „Sievietes
+              prot mīlēt skaistāki, nekā vīrieši, un tamdēļ viņas var iekarot 
+              visu pasauli!“ Beidzamie vārdi skan griezīgi.</p>
+  
+              <p>„Ļoti priecājos par šādu jūsu apgalvojumu. Tad jau
+              varu cerēt, ka no jums dienās iznāks krietna nama kundze un
+              laulāta draudzene, kura savu vīru mīlēs vairāk par visu uz
+              pasaules. Varbūt jūs pat ziedosat mākslu šai dzīvei.“</p>
+  
+              <p>- „Ja es to daru mīlestibas labā, - vaj tad tas
+              ir slikti?“</p>
+  
+              <p>„Ja tik mīlētais cilvēks pratīs šādu upuri cienīt.“</p>
+  
+              <p>- „Es domāju gan. Viņš mani mīlēs vēl vairāk,“
+              un Lida smej.</p>
+  
+              <p>„Es domāju, ka gluži otrādi. Tas ir - es mēroju ar
+              savu mēru; pie citiem tas tā varbūt nav.“</p>
+  
+              <p>- „Intresanti zināt jūsu domas šajā lietā.“</p>
+  
+              <p>„Ļoti neintresanti, jo beigas nemaz nav romantiskas.“</p>
+  
+              <p>- „Kādas tad?“</p>
+  
+              <p>„Ļoti vienkārši. Ja tā sieviete, kuru es mīlu, </p>
+              <pb/>
+  
+              <p>mēginātu sevī ko nebūt apslāpēt manis dēļ, tad tā nebūtu tā sieviete, 
+              kuru es mīlu. Tad labāk lai viņa paliek cēla, augsta,
+              cienījama, kāda viņa bija, nekā manis dēļ upurē daļu no poēzijas; 
+              un kam? dzīves dubļiem! Tas ir: kāpt soli uz leju.“</p>
+  
+              <p>- „Vaj jūs mīlestību saucat par dubļiem?“</p>
+  
+              <p>„Tas, ko mēdz apzīmēt par mīlestību, ir tiešām dubļi.
+              Priekš manis mīlestība ir tikai viens vienīgs skaists acumirklis, - 
+              tik skaists, ka viņa dēļ varētu mirt. Un pēc šā acumirkļa 
+              tikai atliek vaj nu nāve, vaj - atteikšanās, milzu
+              spēks ...“ - „Vaj jūs nevarat iedomāties tādu skaistu
+              kopdzīvi? Jūs zināt: „divi vien visā plašā pasaulē!“</p>
+  
+              <p>„Divi vienādi spēki atgrūž viens otru, - un divi
+              pardaudz nevienādi nespēj nekad saprasties. Un šī mūžīgā  
+              attālināšanās un nesaprašanās atņem darbam daļu no daiļuma; 
+              šķīstās jūtas top netīras.“ Lida sēd, salikusi rokas
+              klēpī. Beidzot viņa paceļ galvu un nobālušām lūpam saka
+              „Uz jūsu „teoriju“ dibinoties, visa pasaule zaudētu sapņaino:
+              skaistumu un iznīktu.“</p>
+  
+              <p>- „Varbūt, - es nu reiz esmu tāds nelaimes putns,
+              kas ierauga briesmas tur, kur viņu, pēc citu domām, nav,“ tā
+              es negribot izsaku un jūtu, ka esmu mēli apdedzinājis; tad ātri
+              novēršu sarunu uz citām lietām. „Man vēl jāpateicas par
+              dāvanām.“</p>
+  
+              <p>- „Ak ko, niekus!“ un viņa skrien pie klavierēm.</p>
+  
+              <p>„Bet man šķiet, - zaļās lentas man jau bij pazīstamas.“
+              - „Varbūt ar.“</p>
+  
+              <p>„Man bij liels prieks, ka nebiju gluži aizmirsts! Un nu man 
+              tas gods!“ pieceļos.</p>
+  
+              <p>- „Tik ātri?“ Lida brīnās: „pagaidat, es jums uz atvadīšanos 
+              kautko uzspēlēšu.“
+              Un viņa sāk spēlēt maigu paņēmienu iz Čaikovska sestās 
+              simfonijas ... Es netieku ne no vietas: viņa man liek
+              sastingt, klausīties un atkal klausīties ...</p>
+  
+              <p>„Tas ir tas, ko es domāju,“ es saku un atvados.</p>
+  
+              <p>Lida nogurušām acim paskatās un saka: „Jā, - laikam,
+              - es nezinu, man galva reibst.“ Viņa mani pavada līdz durvīm, 
+              izlaiž mani ārā un sniedz vēlreiz roku, teikdama: „Tā
+              tad - Henrij Švarca kungs - cēlais bruņiniek - nākamības 
+              spožā zvaigzne - uz redzēšanos! Mēs vēl satiksimies, - 
+              un drīz! Vai jūs neticat?“</p>
+              <pb/>
+  
+              <p>Smaidu: „Ticu gan; pusnakts stundā nabaga cūkgans pārvērtīsies 
+              atkal par mākoņu princi un redzēs zeltmataino - pasaku 
+              princesi! Sveiki!“ Esmu pats ar sevi mierā.</p>
+  
+              <p>Man smadzenēs karst ... Pulkstens deviņi ... Jūk
+              visas domas, - savādas trīsas iet pār visu miesu ...
+              Laikam esmu slims ... Lai nu kā! Man vajaga sevi uzvarēt, - 
+              un lai tas ari maksātu - mīlestību ...</p>
+          </div>
+          <div type="group">
+              <head>29. decembrī.</head>
+  
+              <p>Šodien izpildīju Augusta pēdējo vēlēšanos ... Lida
+              man atsūtīja Marijas adresi un es aizgāju ... Nebiju gaidījis 
+              tikdaudz sirsnības un tomēr - vēl vairāk pašsavaldīšanās.  </p>
+  
+              <p>„Es viņam sen esmu piedevusi, bet - tā bij labāki priekš
+              mums abiem. Mēs kopā nederējām. Es redzēju, kā viņš vēlāk 
+              cieta un mēģināja tapt citāds, bet - tomēr - tā ir
+              labāki“...</p>
+          </div>
+          <div type="group">
+              <head>1. janvarī.</head>
+  
+              <p>Man iet jauki. Pārdevu atkal dažas gleznas, un tagad
+              uzdāvinu sev jaunā gadā jaunas istabas lietas. Nopirku vakar
+              baltu, zaļi - strīpotu, vieglu - laikam kristalīna - drēbi un
+              pats iztaisīju glītus bīdāmus loga aizkarus. Bez tam esmu iegādājies 
+              mazu rakstāmu galdiņu, dažus postamentus, grāmatu</p>
+              <pb/>
+  
+              <p>plauktiņu ar dažādiem skapīšiem, krēslus un spoguli, - visu
+              sarkanā ķiršu krāsā.</p>
+  
+              <p>Jā, tagad mana istabiņa izskatās glīta, jo gaišzaļi strīpotās 
+              tapetes brīnišķīgi harmonē ar sarkanām istabas lietām.
+              Atšķiras tik aizkari, galdauts un jauna balta gultas sega. Tagad 
+              man tīk savā dzīvoklī dzīvot un strādāt.</p>
+  
+              <p>Pie durvim klauvē. Atveru. Stāv mazs zēns no puķu
+              pārdotavas un tura rokās lielu paunu. Saņemu, iedodu zēnam
+              drusku naudas un apskatos, kas īsti man atsūtīts. Liels kurvis
+              ar hiacintēm un narcisēm, klāt zaļa vāze un kādas rozes gariem 
+              kātiem ...</p>
+  
+              <p>Atplēšu klāt pielikto vēstulīti: rožaina karte zeltītām
+              malām. Uz tās stingriem, glītiem vilcieniem stāv: „Sālsmaize 
+              un sveicieni! Redzēju, ka Jūs rosīgi rīkojaties, savu dzīvokli 
+              pārgrozīdami, un man ienāca prātā iet pie Jums ar
+              sālsmaizi. Bet tā kā tas būtu nesmuki iztraucēt Jūs darba
+              brīdī, tad apmierinos ar to, ka varu Jums nosūtīt sveicienu un
+              līdz ar to jaungada laimes. L. Erik.“ Izstādu puķes uz loga un
+              rakstāmā galda; rozes salieku skaistajā vāzē un izpušķoju ar tām
+              vienu postamentu ...</p>
+  
+              <p>Manā istabā smaržo pēc pavasara ... Un tagad tak
+              ir ziema ...</p>
+          </div>
+          <div type="group">
+              <head>10. janvarī.</head>
+  
+              <p>Izgāju šorīt no rīta staigāt, atslēgu atstāju pie saimnieces.
+              Pēc kāda laika nāku mājās, ieeju pēc atslēgas. „Jūsu
+              durvis ir vaļā, - es atslēdzu,“ mana saimniece atbild un aiztaisa 
+              durvis man deguna priekšā ciet.</p>
+  
+              <p>Kas tad tas? Ko viņa manā istabā meklē? Vaj viņai
+              kas pazudis? Dusmīga viņa gan nebūt neizskatījās.</p>
+  
+              <p>Ieeju savā istabā, bet palieku kā no zibeņa trāpīts stāvot.
+              Pie mana rakstāmā galda sēd Lida Erik, gaiši zaļa kā pavasars.
+              Viņa pieceļas un nebēdīgi kniksē.</p>
+              <pb/>
+  
+              <p>„Lida - Erik jkdze, kā jūs še tikāt?“ Vaicāju brīnīdamies, 
+              kamēr mana roka tura viņas mazos pirkstus.</p>
+  
+              <p>- „Iekāpu pa logu,“ viņa man atbild.</p>
+  
+              <p>„Mana saimniece laikam būs jums iedevusi atslēgu.“</p>
+  
+              <p>- „Nu vaj tad citādi es tiktu iekšā? Ko jūs brīnaties?“ 
+              Lida smej un griežas pa istabu.</p>
+  
+              <p>„Vaj jūs mani ilgi gaidījāt?“</p>
+  
+              <p>- „Jā, kādu stundu. Bet man nebij garlaicīgi; dabūju
+              no jūsu grāmatu plauktiņa Heini un sāku lasit. Bez tam -
+              paņēmu laika kavēkli līdz!“ un viņa norāda uz manu rakstāmo 
+              galdu, uz kura redzu šķīvi ar pašceptām maizītēm. „Tas
+              ir mans pirmais ražojums pavāru mākslas laukā; lūdzu, neesat 
+              niķīgi, un - ēdat ar sajūsmu, jo ir tiešām gards!“</p>
+  
+              <p>Nesaku ne vārda,; tikai krūtīs paliek tā silti un labi ...</p>
+  
+              <p>„Uzminat, kādēļ atnācu!“ Lida saka, iesēzdamies krēslā.
+              Viņa izskatās tik mīļa, ka aizmirstu visu savu bruņniecisko dabu
+              un kā bērns saucu; „Paliekat sēdot! Lūdzu, lūdzu!“ Dabūju 
+              audeklu, krāsas, pindzeles, pievelku stafeleju un sāku krāsot.</p>
+  
+              <p>„Jūs gribat mani gleznot?“</p>
+  
+              <p>- „Jā.“</p>
+  
+              <p>„Nu, tamdēļ jau es tikai nācu. Redzat, es gribu tēvam
+              uzdāvināt savu portreju uz dzimumdienu un tāpēc nāku pie
+              jums. Bet mums papriekšu jānolīgst cena.“</p>
+  
+              <p>- „Tagad par cenu nemaz nerunāsim. To vēlāk!“</p>
+  
+              <p>„Kāpēc? Redzat es domāju tā: mana māte savā laikā
+              diezgan daudz bijuse pie māksliniekiem; viņa no cenām vairāk
+              jēdz, nekā es. Vaj jūs būsiet ar mieru, ja viņa noteiks 
+              cenu?“</p>
+  
+              <p>- „Jā, saprotams. Bet tagad, lūdzu, pagriežat galvu
+              vairāk uz šo pusi.“</p>
+  
+              <p>Lida dara tā, bet neprot atrast pareizās pozitūras. Beidzot
+              pieeju un nostādu viņas galvu, tad sakārtoju viņas matus pār
+              pleciem, pabīdu loga aizkarus pie malas un ķeros pie darba.</p>
+  
+              <p>„Jums ir skaista istabiņa,“ Lida iesāk runāt pēc kāda 
+              brīža.</p>
+  
+              <p>- „Skaista?“</p>
+  
+              <p>„Jā, - tāda gaiša, piemīlīga; man patīk zaļā krāsa!
+              Un saules jums daudz!“</p>
+  
+              <p>- „Jā, saules man netrūkst!“</p>
+  
+              <p>„Redzat, ko es jums atnesu,“ viņa norāda uz kādu postamentu.</p>
+              <pb/>
+  
+              <p>Apskatos, - redzu; Rodēna „Skūpsts,“ aiz tā vāzē
+              svaigas rozes.</p>
+  
+              <p>„Man mājās tādu figuru daudz: brālis pārveda no Parizes. 
+              Vienu atnesu jums, jo domāju, ka jums tādas nebūs!
+              Un jūsu istabiņā viņa labi izskatās!“</p>
+  
+              <p>- „Man jums jāpateicas par sālsmaizi un jaungada
+              sveicienu!“ - „Jā, ko domājat, - es todien redzēju jūs mēbeļu
+              magazinā; biju ārā pie loga. Un man ienāca tā laimīgā ideja,
+              jums atsūtīt puķes, - ko otrā dienā arī izdarīju. Bez puķēm
+              tak nav dzīvibas, - vai ne?“</p>
+  
+              <p>Palocu galvu.</p>
+  
+              <p>„Kamdēļ jūs nerunājiet?“ Lida iesaucas, un piepeši
+              manu roku trāpa kautkas ciets: maza maizīte nokrīt man pie  
+              kājām. Smejos un nesaku ne vārda.</p>
+  
+              <p>Lida apklust. Pamazām viņas seja pieņem sapņainu izskatu, -
+              saule rotājas matos, - visa viņa mirdz.</p>
+  
+              <p>Mans darbs iet ātriem soļiem uz priekšu; drīz 
+              uz audekla vieglā seja, saules spožums un lielās acis, - viss
+              apzīmēts galvenos vilcienos.</p>
+  
+              <p>„Kam tik dziļdomīgi, jaunkundz?“ pārtraucu klusumu.</p>
+  
+              <p>- „Man patīk dziļdomīgai būt,“ skan īsa, noteikta atbilde. - 
+              „Nekas, tas jūsu sejai piederas, pat ļoti labi,“ es nosaku
+              gluži vientiesīgī; man gribas viņu kaitināt.</p>
+  
+              <p>Lida nosarkst. „Man ļoti liels prieks,“ viņa skarbi saka:
+              „tikai neuztaisāt man pārcilvēka seju.“</p>
+  
+              <p>„Pasarg' Dievs!“" es iesaucos, jocīgi nobijies.</p>
+  
+              <p>Atkal klusums. Pulkstenis tikš.</p>
+  
+              <p>Lida top nepacietīga, bet negrib to izrādīt. Viņa vairāk
+              reizes jau nemanot pacilājusi roku.</p>
+  
+              <p>„Kā jūs sagaidījāt jaunu gadu?“ iesāku atkal.</p>
+  
+              <p>- „Ļoti labi.“</p>
+  
+              <p>„Saņēmāt daudz laimes vēlējumu?“</p>
+  
+              <p>- „Jā.“</p>
+  
+              <p>„Daudzi bija pie jums ar vizīti?“</p>
+  
+              <p>- „Nē.“</p>
+  
+              <p>„Labi - pateicos - ja - nē -, vairāk vārdu jūsu
+              šīs stundas leksikonā laikam nav,“ zobojos.</p>
+  
+              <p>- „Viena pagale ilgi nedeg.“</p>
+  
+              <p>Ah, tad - varu ari stūrgalvīgs būt un klusu ciest ...
+              Tas tā velkas ilgi, ilgi ...</p>
+              <pb/>
+  
+              <p>„Jūs varat ari nežēlīgs būt,“ dzirdu beidzot pusdusmīgi 
+              sakām.</p>
+  
+              <p>- „Kā tā?“</p>
+  
+              <p>„Vaj tā dāmai laiku kavē?“</p>
+  
+              <p>- „Hm, - gribēju tikai dāmai pa prātam darīt.“</p>
+  
+              <p>„Kāpēc tad jūs domājat, ka viņai patīk klusuciešana?“</p>
+  
+              <p>- „Tāpēc ka viņa deva strupas atbildes,“ atsaku mierigā
+              balsī, tad dziļi paklanos un piebilstu: „Seanss beidzies!“</p>
+  
+              <p>Lida uzlēc no krēsla. „Paldies Dievam! Ir gan grūti,
+              tik ilgi nosēdēt!“ Viņa tver pēc savas cepures un piesprauž
+              to, stāvēdama spoguļa priekšā.</p>
+  
+              <p>„Cik jums skaists spogulis! Tādu var uziet tik dāmu
+              buduāros. Šis sievietes tēls ir tiešām graciozs !“</p>
+  
+              <p>Palīdzu viņai uzvilkt biezo jaciņu, kura visu laiku bij nosviesta 
+              uz manas gultas.</p>
+  
+              <p>„Jūsu mati izjuks pa ceļu!“ un es sāku pīt viņas matus. - 
+              „Jūs rīkojaties ap maniem matiem tikpat viegli, kā mana 
+              māte. Viņai tādas skaistas, slaidas rokas. Man ļoti patīk
+              viņas rokas just savā tuvumā, tad man liekas, it kā es lūkotos
+              kādā marmora tēlojumā. Apropos, ko dara jūsu izstādes
+              glezna?“</p>
+  
+              <p>„Neiet uz priekšu!“</p>
+  
+              <p>- „Vaj drīkstētu viņu redzēt?“</p>
+  
+              <p>„Kāpēc gan nē?“ izvelku no kakta lielu gleznu un parādu 
+              Lidai.</p>
+  
+              <p>- „Kas te nāks?“ Lida jautā, ar pirkstu norādīdama uz
+              kādu tukšu vietu.</p>
+  
+              <p>„Sievietes stāvs. Man līdz šim nav bijis nekādas
+              izdevības to gleznot; varu vai izsamist,“ - - negribēju tikdaudz
+              teikt, cik izteicu.</p>
+  
+              <p>Lida aplūko vēl kādu brīdi manu gleznu: kluso zaļgano
+              jūru, kura snauž mēnesnīcā, -- vientuļo priedes stumburu, aiz
+              kura, kā miglā, neskaidri peld zeltaini kupoli, palmas, - viss neskaidrs 
+              un tomēr vizošs - kā sapnis; stumburu aptvērusi melna 
+              ēna - tukšs audekla laukums ...</p>
+  
+              <p>„Sakāt, kāda šī sieviete izskatīsies?“</p>
+  
+              <p>- „Es iedomājos tur kautko zaļganu, - - jūras krāsas  
+              apģērbu, gaišus, izplūdušus matus; šim „jūras sapnim“
+              vajaga it kā izkāpt iz jūras.“</p>
+              <pb/>
+  
+              <p>„Zināt ko,“ Lida Erik saka uzjautrinošā balsī: „ja jūs
+              mani pieņemat, tad es nākšu stāvēt; man mājās ir jūras
+              krāsas atlasa uzvalks, - tāds vaļējs, kā nārai; šuvu to
+              kādai masku ballei.“</p>
+  
+              <p>Esmu pārsteigts līdz nabadzībai. Negribu ticēt.</p>
+  
+              <p>„Jaunkundz, -- vaj es pavisam drīkstu no jums tādu
+              upuri pieņemt?“</p>
+  
+              <p>- „Upuri? Ja es šai gleznai nederu, tad cita lieta; bet
+              upura tur nekāda nav.“</p>
+  
+              <p>Nezinu, kā lai pateicos; raugos uz Lidu, Lida uz mani. Beidzot 
+              viņa pieiet pie iesāktās portrejas un izbrīnījusēs apstājas. 
+              „Nē, - to es nezināju - “ viņa stostas,“ - to es nezināju, 
+              ka jūs mani tā nosēdināsiet, - un kā jums tik ātri ies!“</p>
+  
+              <p>„Vaj jums patīk iesākums?“ es vaicāju. Viņa palūkojas 
+              uz mani mirdzošām acim un nesaka nekā.</p>
+  
+              <p>„Portreja vēl ilgi nebūs pabeigta; jums jānāk, cik tik
+              bieži iespējams, - kad saule spīd!“.</p>
+  
+              <p>Lida atvadās un grib iet. Noskrienu pa trepām viņai līdz;
+              viņa sniedz roku: „Uz redzēšanos! Tad tā - - es nākšu!“
+              Man gribētos uzkliegt: „Jā gan, Lida nāks!“ bet saņemu dūšu 
+              un mierīgi atbildu: „Esat tik labiņa!“ ...</p>
+  
+              <p>Manā istabiņā palikusi viegla smarža, - bet saulite aizgājusi 
+              līdzi zeltmatei-princesei ...</p>
+          </div>
+          <div type="group">
+              <head>15. janvarī.</head>
+  
+              <p>Viņa atnāca, kā bija solījusēs ... Uztraucos, redzēdams,
+              ka kāds tēls melnā mētelī viegli ielidoja pa durvim un teica
+              drusciņ uztraukts: „Labdien!“ Mazās rokas bij aukstas. Palīdzēju 
+              atlikt cepuri un noņēmu melno mēteli no pleciem. Nedrīkstēju 
+              pacelt acis, - beidzot cik iespējams vienaldzīgi paskatījos.
+              Lida smējās, - tā klusitiņām.</p>
+  
+              <p>„Vaj varēšu izpildit „jūras sapņa“ vietu?“ viņa vaicāja.</p>
+              <pb/>
+  
+              <p> - „Jā gan; tikai nostājaties tā - te - un matus,
+              drīkstu lūgt, atpiniet.“ Lida klusēdama darīja visu, ko liku, un
+              ieņēma ierādīto pozitūru.</p>
+  
+              <p>Labāka modeļa nevarēju i vēlēties. Lida bij kā radīta
+              manai gleznai. Dzidrais apgērbs viegli vijās ap slaido augumu, 
+              drusku noslīdēdams no viena pleca; lūdzu, lai Lida tā atstāj ... 
+              Gleznā roku un sejas krāsa (cik nu profilā varēja redzēt), 
+              likās, pie atlasa pieglaužoties, kļuva dzidra, un mati -
+              - tie kā plūstoša saules gaisma ieauda augumu un pa daļai
+              arī seju zelta sapnī ...</p>
+  
+              <p>Gleznoju kā ārprātā. Jutu, ka katra minūte man dārga. ...
+              Sarunas nevedās. Lida nevēlējās atpūsties, un tā nostrādājām 
+              kādas trīs stundas.</p>
+  
+              <p>Teicu, ka vairāk viņai nebūs jastāv. Tagad zinu, kā
+              tālāk strādāt..</p>
+  
+              <p>Viņa apņēma mēteli un nosēdēja kādu stundu, raudzīdamās, 
+              kā es izstrādāju savu zīmējumu. Tad viņa sapina matus,
+              uzlika cepuriti un atvadījās.</p>
+  
+              <p>Gribēju viņai pateikties, bet viņa sāka smieties un atbildēja: 
+              „Nav vajadzigs; mēs saprotamies tāpat bez vārdiem.“
+              Jutu, ka nosarku; manī sacēlās nemiers ...</p>
+  
+              <p>Tagad sēdu gleznas priekšā, un domās kavējos pie
+              „jūras sapņa“ ...</p>
+          </div>
+          <div type="group">
+              <head>2. februarī.</head>
+  
+              <p>Mana glezna „Jūras sapnis“ atrodas izstādē; B. grib
+              mani pierunāt, lai aizeju turp, bet man nav dūšas noskatīties
+              savā darbā ...</p>
+  
+              <p>Ap manu gleznu pulcējoties daudz publikas ...</p>
+  
+              <p>Atnāk Lida savā zilajā kostīmā.</p>
+  
+              <p>„Šodien tik skaists auksts laiks, - iesim slidas skriet.</p>
+  
+              <p>Jūs tak protiet, - vaj nē"?</p>
+              <pb/>
+  
+              <p>Esmu ļoti priecīgs, jo slidas protu skriet, kā pats nelabais.
+              Apvelkos, un mēs ejam. ...</p>
+  
+              <p>Tiešam auksts. ... Paldies Dievam, mans jaunais
+              mētelis mani sargā no visām briesmām ... Daudz ziņkārīgu
+              acu nolūkojas uz mums .</p>
+  
+              <p>Piesienu Lidai slidas, un roku rokās skrejam pa sasalušo
+              ezeru. Man paliek jautri, sāku jokot; ari Lida atdzīvojas, sāk
+              smiet un līgsmoties; esam kā divi nerātni bērni, kuri palikuši
+              bez uzraudzības ...</p>
+  
+              <p>Norunājam iet tūlit uz izstādi ...</p>
+  
+              <p>Pēc kādas stundas stāvam vienas gleznas priekšā.</p>
+  
+              <p>Lida klusu uz mani nolūkojas; viņas acīs lasu sajūsmu ...
+              Pienāk B., - sasveicinājamies.</p>
+  
+              <p>„Vaj zini, Henri, tagad tava dzīve ieritēs citās sliedēs.“</p>
+  
+              <p>- „Tu domā?“</p>
+  
+              <p>„Pilnigi, - varu vaj saderēt. Vispirms - par šo gleznu 
+              tu dabūsi labu zumu  “</p>
+  
+              <p>- „Tu tici, ka viņu kāds pirks?“</p>
+  
+              <p>„Jā; šodien pienāca kāds naudas vīrs pie manis un
+              apvaicājās, cik tu būšot ņemt par savu gleznu. Es iedomājos,
+              ka viņa ir samērā maza, - tā tad pieci tūkstoši būtu jau
+              pārpilnīgi samaksats.“</p>
+  
+              <p>- „Neviens latvietis tikdaudz par gleznu neizdos.“</p>
+  
+              <p>„Tas jau ar nav latvietis; vaj tad latviešu mantīgās
+              šķiras intresējas par mākslu? Pircējs ir kāds zviedris, - un
+              viņš teica, ka centīšoties tavu gleznu iegūt.“</p>
+  
+              <p>„Smalki! Man gan tā drusku žēl no viņas
+              šķirties!“</p>
+  
+              <p>Lida paskatas pētoši uz mani.</p>
+  
+              <p>Vakarējā avīzes numurā bij atsauksmes par tevi,“ B. iebilst.
+              - „Neesmu lasījis.“</p>
+  
+              <p>B. izvelk avīzi un sniedz man. Apsēstos uz tuvākā krēsla
+              un sāku lasīt. Lida atbalstījusies uz mana krēsla un lūkojas
+              man pār plecu, viņas dvaša kairina manus vaigus un es domās 
+              skaitu mazās sirds straujos pukstienus ...</p>
+  
+              <p>„Starp citām, vispārēju apbrīnošanu saceļ Henrija Švarca
+              glezna „Jūras sapnis.“ Tā ir vārda pilnā nozīmē krāsu dzeja,
+              kādu otru velti meklēsim izstādes plašajās telpās. Mākslinieks ļāvis 
+              savai bagātai fantāzijai vaļu, - un viņam tas nav jānožēlo;</p>
+              <pb/>
+  
+              <p>tādu dziļu „Jūras sapni“ spēj radīt tik īsta mākslinieka dvēsele; 
+              te ir vesela teika, vesela mistērija“ u.t. t., u. t. t. Sāku smieties.</p>
+  
+              <p>„Tu smejies?“ B. man vaicā.</p>
+  
+              <p>- „Tā tak nav nekāda kritika, - tā ir tīra muldēšana,“ 
+              atsaku dusmās.</p>
+  
+              <p>- „Nu, var jau būt, - bet tomēr tev šoreiz nekāda
+              kaite neceļas; drīzāk labums,“ tā B. saīdzis iebilst.</p>
+  
+              <p>„Tas nav no liela svara,“ es atbildu.</p>
+  
+              <p>- „Kā patīk,“ B. īsi nosaka, tad atsveicinās un aiziet,
+              vēlreiz atskatīdamies uz Lidu; viņa sejā mirdz niknums.</p>
+  
+              <p>Lida pasmīn un tad teic: „Tad jau būs jāvēl laimes.“
+              Un viņa sniedz man savu roku - lēni, vilcinādamās. Esmu
+              sabāzis rokas kabatās, lūkojos viņai acīs un dziļi palocīdamies
+              saku: „Pateicos!“</p>
+  
+              <p>Lida iekož sārtās lūpas zobos un novēršas. Tad viņa 
+              ironiski palocas un runā: „Nu man jāiet, - sveiki!“</p>
+  
+              <p>- „Es jūs gribēju pavadīt.“</p>
+  
+              <p>„Nav vajadzīgs,“ un viņa taisās uz iešanu.</p>
+  
+              <p>- „Ar' labi,“ atcērtu mierīgā balsī un pasmīnu. Lida
+              apstājas, it kā gribētu ko teikt, tad apgriežas un aiziet.</p>
+  
+              <p>Palieku viens pats izstādes telpās ... Lida man netika
+              sniegusi roku pie atvadīšanās. Cik ātri var cilvēku sakaitināt...</p>
+  
+              <p>Man tā patīk...</p>
+          </div>
+          <div type="group">
+              <head>5. februarī.</head>
+  
+              <p>Šodien Lida atnāca pēc savas portrejas un samaksāja.
+              Runājām tik pašas vajadzīgākās lietas. Viņa tagad izturas
+              pret mani, kā patriciete pret plebeju, - bet es neļaujos sevi izsmiet 
+              un izturos tā, ka viņa labprāt būtu piesitusi kājiņu pie
+              zemes un uzsaukusi, lai ciešu klusu; bet tas jau patricietei nepiedien ... 
+              Pasarg Dievs, - es viņai nekā slikta neteicu. Reiz</p>
+              <pb/>
+  
+              <p>viņa gandrīz apraudājās, bet tad saknieba lūpas un vēsi
+              pasmaidīja ...</p>
+  
+              <p>Esmu ar sevi mierā: viņa mani sāk ienīst ...</p>
+          </div>
+          <div type="group">
+              <head>9. februarī.</head>
+  
+              <p>Man tik maz laika rakstīt! Tagad esmu apkrāvies ar darbu 
+              līdz ausīm. Pie manis nāk daudzi, - un es gleznoju portrejas ... 
+              Mana istabiņa gan nav nekad vēl redzējusi tikdaudz
+              apmekletāju ... Esmu priecigs, ka drīz būšu iepelnījis pietiekošu 
+              zumu, lai varētu bezrūpīgi braukt uz ārzemēm.</p>
+  
+              <p>Mans „Jūras sapnis“ nopirkts. Dabūju jau agrāk minēto
+              zumu. Aizsūtīju māsai tūkstoš rubļus, kā kāzu dāvanu.
+              Viņa saņēma šādu ziņu dienu pēc kāzam, tad drīz vien
+              bij izņēmusi ari naudu no bankas un atrakstījusi man garu pateicibas 
+              vēstuli, kurā priecājas par savu brāli un par savu nākotni... 
+              Mans lepnums aug, - aug ari slava; bet līdz ar
+              to aug arī skaudība citu krūtīs; pat B. nav brīvs no viņas.</p>
+  
+              <p>Esmu zaudējis labu pazīstamu - Lidu Erik. Viņa pie
+              manis nav bijusi un laikam arī vairāk nebūs.</p>
+  
+              <p>Šodien B. atnāca pie manis, apskatīja manas skices,
+              etīdes un zīmējumus pasteļkrāsās, - tad deva man „drauga padomu“ 
+              (viņa paša vārdi), lai es sarīkojot izstādi. „Tā ideja
+              nebūtu slikta, tik - vaj šī istaba nav par mazu?“ tā
+              es iebildu.</p>
+  
+              <p>- „Es tā nebūt neatrodu; ja tu tikai gribi, varu tev
+              nākt palīgā sarīkot.“</p>
+  
+              <p>„Būšu tev ļoti pateicīgs,“ es atteicu ne bez prieka, jo
+              man būs izdevība iepazīties ar cilvēkiem; varbūt atnāks ari
+              Lida ... Nē, nē, šādas domas nedrīkstu galvā ieņemt ...</p>
+  
+              <p>Tā tad - es sarīkošu izstādi ...</p>
+          </div>
+          <div type="group">
+              <head>15. februarī.</head>
+  
+              <p>Šodien savu apmeklētāju vidū ieraudzīju ari Lidu un
+              viņas māti.</p>
+  
+              <p>Lida apģērbusēs tā, ka gandrīz ne pazīt nevar: baltā,
+              strīpotā kostīmā, baltā cepurē, - sejai priekšā balts biezs plīvurs. 
+              Negriezu iesākumā nekādas vērības uz viņu, jo daudz
+              man tādu apmekletāju; bet biezie mati nodeva ...</p>
+  
+              <p>Klusu, kā nākusi, tā viņa aizgāja; caur pūli viņas skats
+              zagšus pavērās uz manu pusi, - tad - viens vilciens,
+              - un seja bij apsegta ... Tomēr - - viens vienīgs
+              miglains skats ...</p>
+  
+              <p>Viņa bēg no manis ... Ja viņa mani ienīstu, tad
+              nebūtu tādas slēpšanās; tad viņa stātos aci pret aci un
+              mēģinātu man pierādīt, cik es esmu slikts ... Bet viņa kā
+              pa miglu paskatījās uz mani, un es lasīju spītīgas žēlabas
+              - kā pa miglu ... Es laikam maldos ... Vaj esmu viņu
+              apvainojis ?</p>
+  
+              <p>Bet - - varbūt viņa mani - - „ nē, tu bezprāta cilvēks, 
+              tas nedrīkst tā būt! Tam tā nebūs notikt ...</p>
+  
+              <p>Naktī.</p>
+  
+              <p>Nevaru gulēt. Uzcēlos un tagad gribu atrisināt mezglaino
+              jautājumu: kas ir mīlestība ...</p>
+  
+              <p>Man liekas, mīlestība ir tas augstākais un zemākais cilvēka
+              dvēselē. Negribu pats sev tuvākus izskaidrojumus dot; mīlestība 
+              spēj cilvēku tā pārvērst, ka viņš izaug, top varens domās 
+              un darbos; bet viņa spēj cilvēku arī nostādīt vienā pakāpē 
+              ar kādu nebūt zemāku radījumu. Pirmā gadījumā cilvēks
+              drīkst mīlēt, otrā - nē ... Lidā ir kautkas, kas mani paceļ,
+              dod spēku ... Bet ir ari kautkas nokaujošs. Kādreiz jūtu
+              sev spārnus -  - un varu lidot - - - kādreiz atkal
+              neesmu kungs par sevi, jūtu sevī nebrīvību ..</p>
+  
+              <p>Labāki būs, ja aizbraukšu projām. Tad būs miers ...</p>
+              <pb/>
+  
+              <p>Ko tas līdz, ka te sēdu un mocos? Viņa kādreiz silta kā saulīte, 
+              un kad gribu iesākt draudzīgu sarunu, tad pārprot mani un
+              top auksta kā ledus ... Un ja arī viņa būtu vienmēr kā
+              saulīte, tad tomēr man jāiztura cīņa līdz beigām, jo - es nevaru 
+              nogriesties no ceļa un tapt nebrīvs - nelaimīgs - rožu 
+              važās ... Izturēt ... Cik reiz neesmu domās viņas
+              rokas sev pie krūtīm glaudis un glāstījis mazos pirkstiņus - kā
+              bērnam! Es redzu, kā viņa smaida - lielām, dziļām acim,
+              pār kurām viļņo kā saule ... Es braukšu projām.</p>
+          </div>
+          <div type="group">
+              <head>25. aprilī.</head>
+  
+              <p>Šodien Lida atsūtīja man kurvi ar ziedošiem ceriņiem ... 
+              Un vēlāk atnāca pate ... kā pavasars ... Jā,
+              pavasars ... Kā ar vijoletu miglu pārvilkušās platās kļavas ... 
+              Kā nosarkušas nemierīgo apšu jaunās lapiņas ...
+              It kā zelta puteklīšiem apbērti stāv vītoli, izplatīdami sev
+              apkārt medus smaršu ... Un mēs klejojam cauru pēcpusdienu 
+              pa mežiem, pa laukiem, - ārpus pilsētas, - sēdējām
+              ezera malā uz celma un runājām par pavasaru ...</p>
+  
+              <p>Stāstīju, ka izstāde beigusēs, ka lielākā daļa gleznu pārdota, - 
+              ka esmu diezgan bagāts, - ka braukšu prom ...
+              Lidas tēvs nopircis trīs no manām gleznām. Un es viņu nepazinu! ... 
+              Manas gleznas - Lidas istabā ...</p>
+  
+              <p>Gulēju mežā, zālē ... Lida stāvēja pie kāda koka un
+              dziedāja par pavasaru - - par rudeni krūtīs ...</p>
+  
+              <p>Es jūtu, ka pavasars nācis ... Viņam tuvojoties, ceļas 
+              manī savāds, spēka un nemiera pilns vilnis ... Un gribas 
+              gulēt zaļā zālē ... pār mani cīrulīši gavilē ... zilā
+              debess smejas ... saule dedzina ... bet es meklēju mazos pelēksvārcīšus ... 
+              Kā tie līgsmo, - dzied - un dzied ...
+              Man apkārt viss trīc ...</p>
+  
+              <p>„Pār tevi ziedu lietus līs,
+              Pār tevi smaršu pārslas birs, -
+              Tik gaidi, - gaidi!“</p>
+  
+              <p>Tā ir Lida ...</p>
+              <pb/>
+  
+              <p>Uzlēcu, - iesaucos: „Iesim skrieties!“ un acumirklī kā bultas 
+              šāvāmies pār kalniem ...</p>
+  
+              <p>Nezinu, cik ilgi tā skrējām ... Zinu tikai, ka Lida bij
+              pakritusi zālē uz mutes, un pleci trīcēja ... Vaj tas bij aizkusums, 
+              smiekli vaj raudas? Stāvēju un skatījos ... Un tā
+              mēs atradāmies pie vecās meža mātes - egles - kājām
+              un klausījāmies, kā vējš kokos čukst un raud ... Un ap
+              mums audās mirdzoši tīkliņi, kuri tapa arvien sārtāki un sārtāki, - -  
+              un tad tik mēs ieraudzījām, ka saule grima asiņainos 
+              mākoņu skūpstos, - slīdēja piesarkusi aiz koku galotnēm ... 
+              Pār mums klājās liels, tumšs vakara mākonis ... 
+              Bet mēs sēdējām ... Dziestošā vakara blāzma
+              mirdzēja caur kokiem ... Pie mūsu kājām klusu un sapņaini
+              dusēja pļava; mežs šalca, kā pasakainas dzīvības pilns ...
+              Netālajā būdiņā mirdzēja logi sārtās blāzmas atspīdumā.
+              Ap būdiņu krēslā mirdzēja ziedoši ķiršu koki - - it kā
+              jaunas meitenītes baltos, sidrabainos plīvuros; viņu smarža
+              piejaucās skuju smaršai ...</p>
+  
+              <p>Pār pļavu cēlās mēnesis - liels, sārts, - teiksmains,
+              kā pavasara nakts ... Mēs piecēlāmies un soļojām
+              mājup ...</p>
+  
+              <p>Kamēr nobraucām līdz pilsētai, bija gluži tumšs ...
+              Atvadoties, man uznāca nepārvarama vēlēšanās noskūpstīt
+              Lidas glezno roku ... Neatturējos ... Lida nobāla un
+              ieskrēja iekšā ...</p>
+  
+              <p>Es vairs nevaru, - - - piektā maijā braukšu prom.</p>
+          </div>
+          <div type="group">
+              <head>3. maijā.</head>
+  
+              <p>Šodien biju pie dziedāšanas skolotāja M. Viņš, dabūjis
+              dzirdēt manu balsi, palika vaj traks un teica, ka sveci zem
+              pūra nedrīkstot turēt. Mana balss jau no dabas esot pareizi
+              nostādīta, tādēļ man esot vajadzīga tikai technika un vēl šis
+              un tas, un tad jau labi būšot. Manas kabatas piebāstas </p>
+              <pb/>
+  
+              <p>dažādu profesoru adresēm ... Profesoru! Tā M. teica, un es
+              saku viņam līdz! Bet vaj tā var teikt? Es domāju - itin
+              vienkārši: dziedāšanas skolotājs ... Profesors! Ha, ha,
+              ha! .. Kamdēļ gan es smeju? Un cik ilgi man būs jāsmejas? 
+              Līdz asarām? ... Man nav dūšas ...</p>
+          </div>
+          <div type="group">
+              <head>4. maijā.</head>
+  
+              <p>Šovakar ilgi stāvēju pretim Lidas logam, pie kādas
+              mājas piespiedies ... Redzēju, ka logs atvērās, un ka kāda
+              roka pārvietoja puķes ... Tā bij Lida baltā rīta uzvalkā ...
+              Es nolūkojos viņā nepamanīts, - kā zaglis ... Lida staigāja
+              pa apgaismoto zalonu, rokas pār galvu saņēmusi. Tad viņa
+              pazuda, un es dzirdēju viņu dziedot un spēlējot:</p>
+  
+              <p>„Wenn du es wüßtest,
+              Was träumen heißt
+              Von brennenden Küssen - -“</p>
+  
+              <p>Man bij jāsaņem pēdējie spēki, lai neskrietu pie Lidas
+              durvim un nesāktu zvanīt ... Šī ir beidzamā reize, kur es
+              Lidu dzirdu, - un šī atmiņa man jāņem līdz ...</p>
+  
+              <p>„Wenn du es wüßtest,
+              Du kämest zu mir!“</p>
+  
+              <p>Tas skanēja kā ārprātīgs izmisums ... Tai pašā brīdī 
+              Lida beidza spēlēt, - ieraudzīju viņu sakniebtām rokām stāvot
+              istabas vidū; viņa vēl atkārtoja: „Wenn du es wüßtest, du
+              kämest zu mir!“ tad piepeži redzēju, kā viņa, seju rokām aizklājusi, 
+              nokrita...</p>
+  
+              <p>Es skrēju uz mājām kā neprātā un, iekritis savā gultā,
+              ilgu laiku nogulēju kā bez samaņas ... Tikai kad piecēlos, tad
+              sāpēja katra dzīsliņa, katrs nervs ...</p>
+              <pb/>
+          </div>
+          <div type="group">
+              <head>5. maijā.</head>
+  
+              <p>Esmu visas lietas iepakājis un gaidu uz to stundu, kad
+              būs jāiet uz vilcienu ...</p>
+  
+              <p>Atnāk Lida - - šodien! Gaiša, slaida, kā ziedoša
+              ābele; mati pārlieti zelta puteklīšiem, - bet zeltainos plakstiņos 
+              dreb kluss jautājums, - noslēpums ...</p>
+  
+              <p>„Jūs tagad braucat prom,“ viņa jautri saka, uz mani
+              nelūkodamās.</p>
+  
+              <p>- „Jā. Vaj jūs man nedāvināsat tās vijolites, kas
+              jums rokā? Kā piemiņu.“</p>
+  
+              <p>Viņa man pasniedz vijolites un turpina: „Jūs braucat uz
+              ilgu laiku?“</p>
+  
+              <p>„Domāju gan, ka tik ātri dzimtenes neredzēšu.“</p>
+  
+              <p>- „Jā, - jūs gaida darbs, slava, - laime, bagātība...“</p>
+  
+              <p>„Darbs - jā; slava - nezinu; bet laime nē.“</p>
+  
+              <p>- „Atbrauksat mājās - svešs, nepazīstams, - lepns!“
+              Man rūgti jāsmejas. „Atbraukšu tāds pats, kāds tagad 
+              esmu!“</p>
+  
+              <p>„Lai Dievs dod!“ Lida joko, bet balss klusa, aizturēta; kautkas 
+              slēpjas. Man paliek smagi ...</p>
+  
+              <p>- „Jums tūlit būs jādodas uz vilcienu; negribu jūs
+              kavēt ar savām muļķībam. Sveiki!“</p>
+  
+              <p>„Ardievu,“ saku savaldīdamies: „staigājat laimīgi; uz
+              redzēšanos!“</p>
+  
+              <p>Viņa sniedz man savas rokas ... Gribās tās glaust sev
+              pie acīm un skūpstit ... tikai šo vienīgo reizi ... Nē, -
+              lai paliek, - labāk nedarīt. Saspiežu stipri viņas rokas un
+              palaižu vaļā. Stāvam viens otram pretīm un nezinām, ko
+              teikt. Piepeši - viņa man metas ap kaklu, -  pieglaužas, - - 
+              divas siltas rokas apdvēš mani kā pavasars, -
+              - reibina .. Un es murminu: „Lida, - kamdēļ - - 
+              kamdēļ - -,“ jūtu, ka nevaru neko redzēt, jo asaras apmiglo
+              acis... Dzirdu klusu „Henrij!“... Saslienos, - - nē,
+              - tā nedrīkst būt. Lida atraujas ...</p>
+  
+              <p>Paklanos: „Ardievu, Lidas jaunkundz,“ un izvadu viņu pa
+              durvīm ārā. Viņa kniksē zobodamās, un es dzirdu caur sakostiem 
+              zobiem jautras skaņas: „Ceļojat laimigi, - - pasaku
+              princi!“...</p>
+  
+              <p>Atveru drīz logu, lai noskatītos, kā Lida tāļumā </p>
+  
+              <p>pazūd ... Tad iekrītu tukšā gultā, kur palicis viens vienigs
+              spilvens, un uz tā izkaisītas mazās vijolītes ...</p>
+  
+              <p>Viņa mani nedrīkst aizturēt! Es tomēr eju turp, kurp
+              man jāiet!...</p>
+          </div>
+          <div type="group">
+              <head>10. septembrī.</head>
+  
+              <p>Pēc trim gadiem ķeros atkal pie savas dienas grāmatas,
+              kura visu laiku gulēja apputējusi manā rakstāmā galdā ... Tagad, 
+              kur sēdu atkal pie sava vecā galda, man acu priekšā lido
+              vecas ainas, vecas atmiņas un trīs ārzemēs pavadītie
+              gadi...</p>
+  
+              <p>Esmu bijis Berlīnes nacional-galerijā, kur nosēdēju veselām
+              dienām krāsu karaļa Böcklina darbu priekšā ... Pārstaigāju
+              Harcu, ieelpoju svaigo sveķaino smaršu, apbrīnoju jautro Ilzi,
+              par kuru Heine dzied tik brīnišķīgi ... Biju Parizē, - un
+              mans pirmais gājiens bij uz Luksemburgas muzeju, kur atrodas
+              Rodēna darbi ... Esmu iepazinies ar Parīzes nervozo, pārsmalcināto 
+              dzīvi, kurai pat dienā ir krēslaina nokrāsa, - bet
+              vakarā viņa mirdz kā neīsts zelts elektriskā gaismā ... Esmu
+              dažu labu nakti nosēdējis līdz ar biedriem restorānos, kafejnīcās 
+              un klausījies, ko man stāsta krāsotas lūpas un apvilktas
+              acis ... Biju Drezdenes ainu galerijā, kur sajūsminājos par
+              Rafaela madonnām ... Bet visilgāk uzkavējos Itālijā ...
+              Gribēju pilnīgi izjust viņas mirdzošo, pasakaino burvīgumu ...
+              Atminos, ka reiz, lasīdams m-me de Stael romanu „Corinne
+              ou l Italie,“ smējos par patētisko izteicienu: „Itālija, tu saules
+              valsts, es tevi sveicinu!“ Bet tiešām, - - Itālijas neparastais 
+              gaiss cilvēku neviļus pavedina runāt ar briesmīgu patosu,
+              aizgrābtību, - lietot frāzas ... No tā gan ātri var atradināties ...</p>
+  
+              <p>Nekad neaizmirsīšu skaistās Venēcijas naktis - īstās </p>
+              <pb/>
+  
+              <p>dienvidus naktis, kad braucu gondolā pa kanāļiem un klausījos, kā
+              līdzās man dziedāja melnacaina itāliete; vēlāk šī itāliete izkāpa 
+              pie kāda nama, iz kura plūda man pazīstamas skaņas -
+              dziesma iz „Aidas“; tad redzēju skaisto līdzbraucēju-dienvidnieci
+              pienākam pie loga un nometam man rozi (kā kādā romanā).
+              Es iedziedājos „felice notte,“ un skaistule sāka smieties ...</p>
+  
+              <p>Itālijā mācījos dziedāt; tad pārgāju uz Drēzdeni ...
+              Tagad varu savā dzimtenē pieteikties uz dažām izrādēm kā
+              viesis-operu dziedātājs ... Mans vārds jau pazīstams, - tā
+              tad - slava jau ceļā uz mani, vaj es uz viņu. Bagātība -
+              - - nu, dzīvot varu ļoti labi ...</p>
+  
+              <p>Par Lidu nekā nezinu. Reiz gan redzēju viņu un viņas
+              brāli Berlīnē pie table d'hôte sēdam; es aizšmaucu prom;
+              tajā pašā vakarā sarīkoju atvadīšanās mielastu viesnīcā saviem 
+              draugiem. Lida nāca cauri mazajai zālei un ieraudzīja
+              mani. Es klusu paklanījos un iesāku runāt ar kādu no saviem
+              biedriem. Lida aizgāja, kā nākusi, tik pie durvīm apgriezās
+              un mierīgi noskatījās. Viņas skatā nekā cita nevarēju salasīt, kā
+              vien to, - ka viņa mani pilnīgi aizmirsusi ... No tā laika
+              neesmu ar viņu ticies. Rakstīju pēc kāda gada viņai īsu vēstulīti, 
+              bet atbildes nedabūju. Un tā apklusa visa tā lieta ...</p>
+  
+              <p>Šodien man jāaiziet uz pilsētas teātri, tad - pie
+              Lidas ....</p>
+  
+              <p>Vakarā.</p>
+  
+              <p>Aizgāju uz balto māju X. ielā, - - Lidas tur vairs
+              nav. Viņa dzīvojot pretim pilsētas teātrim un esot slavena
+              jaunkundze.</p>
+  
+              <p>Teātrī tiku uzņemts ar prieku, kad pateicu, ka esmu dziedājis 
+              Berlīnes operā. Pieteicos uz trim viesu izrādēm: „Tristanu
+              un Izoldi,“ „Oņeginu““ un „Dēmonu.“ Pēc tam paintresējos</p>
+              <pb/>
+  
+              <p>par to, ar ko man nāksies kopā spēlēt, - un - -- visi labie
+              gari, stāvat man klāt! - - izrādās, ka tā ir Lida! Ak es,
+              muļķis! Man taču tika teikts, ka Lida esot slavena jaunkundze,
+              un es nevarēju iedomāties ne tikdaudz, ka viņa var būt dziedātāja 
+              pie pilsētas teātra ... Lida, - - - gribēju uz vietas
+              atteikties, bet mans lepnums mani atturēja ...</p>
+  
+              <p>Kas tad nu beigu beigās būs? Nekas. Mēs esam tikpat
+              kā sveši ... Esmu pardaudz džentlemens, lai liktu viņai ko
+              nebūt atgādāties, - un viņa būs palikusi vēsa, - - tā
+              es manīju toreiz - ārzemēs ... Laiks visu dziedē ...</p>
+          </div>
+          <div type="group">
+              <head>11. septembrī.</head>
+  
+              <p>Šovakar biju teātrī uz „Nogrimušo zvanu“; Lida spēlēja 
+              Rūtiņu ... Tikdaudz sirsnības, grācijas un - traģisma
+              nebiju nekad varējis viņā iedomāties ...</p>
+  
+              <p>Pēc izrādes iegāju viņas istabā un gaidīju, kad viņa
+              nāks no skatuves šurp. Bet zāles sienas trīc no saucieniem:
+              „Erik! Erik!“ Beidzot dzirdu soļus, - uz durvju kliņķa kāds uzliek 
+              roku, un dzidra balss dusmigi sauc: „Jūs zināt, - es nekad 
+              nekāda pavadoņa nevēlos!“ Tad Lida ienāk, Rūtiņas uzvalkā 
+              tērpusēs, un dzied pie sevis: „Tumštumšā naktī es
+              vientuļa zeltmatus sukāju,“ - - viņa ierauga mani un paliek
+              stāvot. Neviena skaņa nenāk pār viņas nobālušām lūpām ... 
+              Pēc kāda laika viņa kā atjēgdamās čukst: „Jūs
+              tas esat, - Henrij Švarca kungs -!“ un nāk tuvāk. Esmu
+              piecēlies, eju viņai pretim ar vārdiem: „Jā, es tas esmu;
+              vaj jūs neļaunojaties, kā es bez jūsu atļaujas ienācu jūsu
+              svētnīcā?“ </p>
+  
+              <p>Viņas sejā pamirdz smaids. „Nē, nē, - es nemaz nevaru 
+              ļaunoties,“ viņa steigdamās runā, „bet nākat tak šurp; es
+              gribu redzēt, vaj jūs tiešām vēl esiet tas pats vecais “ un
+              viņa mani satver pie rokas un velk tuvāki gaismai.</p>
+  
+              <p>„Nē, jūs esat pārvērties, - lieliski pārvērties, -</p>
+              <pb/>
+  
+              <p>- acis gan tās pašas vecās liekas būt ... Nē, tāda savāda 
+              grumba iet ap viņām ... Jūs esat kautko pārdzīvojis,“ - 
+              Lida skatās pētoži man acīs.</p>
+  
+              <p>„Tas pats vecais, - man nekā jauna nav, izņemot dažus
+              sīkumus,“ es smejos.</p>
+  
+              <p>„Redzat, - es esmu palikusi uzticīga tam, ko reiz apņēmos,“
+              un viņa rāda uz savu apkārtni.</p>
+  
+              <p>„To jau es domāju,“ atbildu: „bet ari es esmu bijis sev
+              uzticīgs.“ - „Sēstiet,“ Lida piepeši iesaucas, tad iebilst: „Atvainojat, 
+              es drīz nākšu,“ - un viņa pazūd aiz priekškariem.
+              Sēdu un gaidu. Pēc laba laika viņa iznāk, pārgērbusēs, -
+              mētelī un cepurē. Viņa nosēstas man līdzās uz dīvāna un
+              vaicā: „Sakāt, kā jūs še ietikāt? Mums te tādas būšanas,
+              ka neviens svešs netop laists iekšā.“</p>
+  
+              <p>„Es jau vairs neskaitos pie svešiem.“</p>
+  
+              <p>- „Kā tā?“</p>
+  
+              <p>„Esmu šī teātra viesis.“</p>
+  
+              <p>- „Jūs?!“ Lida uzlēc kājās: „Jūs! Kādās izrādēs
+              jūs viesosaties?“</p>
+  
+              <p>„Tristanā, Oņeginā un Dēmonā.“</p>
+  
+              <p>- „Tā tad dziedātājs!“ Viņa stāv bāla manā priekšā
+              un viņas acu dziļumos mirdz uguns.</p>
+  
+              <p>„Tad jau mēs nelaimīgi sagadījušies kopā,“ Lida smej
+              skarbi un nežēlīgi, tad atkrīt kā spēlēdamās tuvākā krēslā.</p>
+  
+              <p>„Kāpēc tad nelaimīgi?“ es mēģinu ieskatīties viņas acīs;
+              viņa novēršas. Piepeši ugunīgs, lepns skats trāpa mani.</p>
+  
+              <p>„Jūs paši to labāki zināt.“</p>
+  
+              <p>Bet es vēl nesaprotu: vaj viņa aizķer pagājību, vaj uztver 
+              visu no sveša redzes stāvokļa ...</p>
+  
+              <p>„Es nekā nezinu!“</p>
+  
+              <p>- „Tad jūs neesat nekad manis sapratuši, - vaj neesat 
+              gribējuši saprast,“ - viņas balss draudē trūkt, bet tomēr,
+              pietur spītīgu nokrāsu.</p>
+  
+              <p>Tā tad - viņa pate aizķer pagājību. Man vajadzētu runāt, 
+              bet ciešu klusu. Lida gaida.</p>
+  
+              <p>„Kāpēc jūs nerunājat?“ viņa beidzot vaicā.</p>
+  
+              <p>- „Man nav nekā ko teikt uz šādu pārmetumu.“</p>
+  
+              <p>„Sakāt, kāpēc jūs īsti braucāt šurp?“</p>
+  
+              <p>- „Tāpēc, ka man patikās.“</p>
+  
+              <p>„Bet jūs tak zinājāt, ka es atrodos še, ka esmu dziedātāja
+              pie šī teātra - un jūs tomēr nācāt man paspītēt.“</p>
+              <pb/>
+  
+              <p>- „Es nezināju, ka jūs še esat; tikai kad biju pieteicies
+              un abām rokām uzņemts, tad dabūju zināt savu kolēģu vārdus.“
+              Lida pieceļas un saka: „Nu, tad cietīsim ar.“ Mēs ejam.
+              Klusu atvadāmies: viņa aizbrauc, es eju kājām ... Un vecas
+              atmiņas mani sāk mocīt ... Izlasīju šovakar savu ilgi neredzēto 
+              dienas grāmatu, - un - viss pamodies. Bet es jūtu,
+              ka pamodies vēl kautkas, un šis „vēl kautkas“ mani pazudinās ...</p>
+          </div>
+          <div type="group">
+              <head>21. septembrī.</head>
+              
+              <p>„Tristans un Izolde“ ... Mans Dievs, es vairs nezinu,
+              kas ar mani notiek! ... Jauna dzīve - - priekš manis
+              tas pats, kas drīza nāve ... Mani šausmas sagrābj ...</p>
+  
+              <p>Šovakar bij pirmā viesu izrāde ... Dziedāju Tristanu ... 
+              Neatminos, kad būtu tā dziedājis, kā šoreiz ...
+              Lida bij līdz ārprātībai uztraukta, - mēs dziedājām - un
+              aizmirsām, ka bij publika, kura mūs apsvēra, kritizēja ...
+              Mirt ... Te viņa stāv uz aukstā papīra, šī vēlēšanās,
+              - tik vienaldzīga, saspiesta ...</p>
+  
+              <p>Publikas applausi skanēja kā nepatīkams atgādinājums ...
+              Mūs izsauca - - neskaitāmas reizes ... Lida turājās pie
+              manas rokas kā neprātā ...</p>
+  
+              <p>Beidzot - priekškars krita pēdējo reizi ... Neskaitāmi
+              daudz puķu uz skatuves ...</p>
+  
+              <p>Pārģērbos un iegāju Lidas istabā - bez pieklauvēšanas.
+              Jutu, ka katastrofa neizbēgama ... Un tomēr gāju ...</p>
+  
+              <p>Lida bij uzmetusēs uz zofaja; zeltainie mati apklāja seju un
+              sakniebtās gleznās rokas. Plata, zeltu caurausta šalle ietīstīja
+              augumu ...</p>
+  
+              <p>Mana pašsavaldīšanās bij zudusi ... Pār lūpam
+              negribot skanēja: „Lida!“</p>
+  
+              <p>Un viņa - piecēlās, streipuļoja un - raudādama iekrita
+              man rokās... Un es viņu glāstiju un runāju vismīļākos</p>
+              <pb/>
+  
+              <p>vārdus, - nesaprotami izteicieni nāca pašam nemanot. Bet
+              divas mazas rokas arvien ciešāki glaudās un vijās ap manu
+              kaklu ... Kā vēsas ziedu lapas piekļāvās pie manas sejas
+              un lūpam ... Beidzot ieskatījos Lidai acīs: tās bij plati atvērtas, 
+              pa tām plūda mirdzošas asaru straumes, bet sārtās
+              lūpas smaidīja ārprātīgu smaidu, - kā sarkani magoņu
+              ziedi ...</p>
+  
+              <p>„Lida, tā nevar būt!“ mani pārņēma izmisums, un es
+              gribēju atraisīties, bet viņa kā nesamaņā lūdzās: „Henrij,
+              - ļauj!“</p>
+  
+              <p>Tik tagad sajutu, kādu soli esmu spēris ... Uz pazušanu ... 
+              Bet ja pirmais solis sperts, tad - atgriešanās nav ...
+              Uz priekšu tad - melnajā bezdibenā! ... Atraisījos un, nokritis 
+              uz zofaja, - - es mazais bērns, - - sāku raudāt ...
+              Lida bij bāla, bet mierīga.</p>
+  
+              <p>„Henrij, es zinu, - ja nebūtu bijis šīs stundas, - tad
+              mēs būtu tomēr katrs ieguvuši uzvaru ... Bet tagad -
+              - - saki, vaj tu vari no manis atteikties? Tu neesi spējīgs,
+              - nē. Es netik ... Vai tu vari atkārtot to pašu, ko tu
+              teici Ziemas svētkos, - - to - - par mīlestību un laulības
+              dzīvi? Vai tu vari?“</p>
+  
+              <p>Man nebij spēka viņai atbildēt.</p>
+  
+              <p>„Tu to nevari? Es tad esmu laimīga,“ Lida čukstēja.</p>
+  
+              <p>- „Es to varu, Lida! Man tas jāvar! Saki, ko mums
+              dzīve var dot, ja ne pelēko ikdienību? Un tu, - - tev jāpaliek
+              tādai, kāda tu biji: gleznai, neaizskartai, - - citādi tu nebūsi 
+              tā Lida, kuru es esmu mīlējis visu šo laiku!“</p>
+  
+              <p>- „Visu šo laiku ... Un tad - - atteikties - -
+              atteikties?“ - - viņa stāvēja manā priekšā kā mazs bērns,
+              kurš nezin savam izmisumam robežu ...</p>
+  
+              <p>Es, nezin kamdēļ, sāku čukstēt:</p>
+  
+              <p>„Laß mich sterben,
+              Nie erwachen,
+              „Laß den Tag dem Tode weichen.“</p>
+  
+              <p>„Es saprotu, ko tu gribi teikt, Henri,“ Lida bez skaņas
+              čukstēja.</p>
+  
+              <p>- „Lida, nerunā par to, - man sāp,“ - - bet viņa
+              neklausījās uz mani, aizskrēja līdz durvīm, paslēpa seju aizkaros
+              un čukstēja: „Mīlēt ir mirt!“</p>
+  
+              <p>„Lida!“</p>
+  
+              <p>- „Jā, mirt“ Lida atkārtoja žēla rūgtuma pilnā</p>
+              <pb/>
+  
+              <p>balsī. Tad viņa pieskrēja man klāt, - viņas mati aizklāja
+              manu seju; viņa bij uzmetusēs savām rokam man uz krūtim un
+              raudāja, tad sāka mani skūpstit ...</p>
+  
+              <p>Cik ilgi tā bijām sēdējuši, - nezinu ... Tik atminu,
+              ka Lida piecēlās, - gurda, bāla; likās, katra dzīsliņa, katrs
+              nervs sāpētu ... Ap muti vilkās dziļa grumba, - un acu
+              plakstienos drebēja - - es nezinu, kas, - - traģēdija ...</p>
+  
+              <p>„Nāc, iesim, Henri!“</p>
+  
+              <p>Sapinu viņas matus, galvu ietīstīju šallē, - apliku melnu
+              mēteli; viņa kā mazs noraudājies bērns nosēdās uz zofaja,
+              un es viņai uzvilku galošas kājās ...</p>
+  
+              <p>Laukā lija lietus ...</p>
+  
+              <p>„Brauksim,“ Lida teica.</p>
+  
+              <p>- „Bet tu tak dzīvo teātrim pretim!"</p>
+  
+              <p>„Ak nē, tagad es dzīvoju citur.“</p>
+  
+              <p>- „Un man stāstīja - -,“ es nepabeidzu, - iecēlu
+              Lidu ratos.</p>
+  
+              <p>„Neatstāj mani vienu,“ viņa lūdzās. Sēdos viņai līdzās 
+              un - braucām abi ...</p>
+  
+              <p>Pie durvim viņa lūdza, lai uznākot pie viņas; viņai
+              esot bail no sevis ... Viņa streipuļoja. Uznesu to pa trepēm
+              augšā; tad iegājām tumšās telpās; Lida pagrieza podziņu, un
+              istaba tapa gaiša.</p>
+  
+              <p>Atgūlos uz zofaja, jo biju neizsakāmi noguris. Lida aizgāja
+              pārģērbties. Lūkojos kā bez samaņas augstajos griestos, -
+              palmās, kuras ap mani stāvēja; negribējās itneko domāt, vēl
+              mazāk runāt.</p>
+  
+              <p>Lida atgriezās iz guļamistabas, baltā rīta uzvalkā ģērbusies. 
+              Viņa izskatijās gleznāka un maigāka, kā jebkad ... Nosēdusies 
+              pie klavierēm, viņa it kā meklēja pēc kādas meldijas ... 
+              Beidzot izdzirdu skaņas, kuras mani uztrauca līdz
+              sirds dziļumiem:</p>
+  
+              <p>„O, sink' hernieder, Nacht der Liebe,
+              Gieb' Vergessen, daß ich lebe,
+              Nimm mich auf in deinen Schooß“ - -
+              (Pār mums plūsti, mīlas krēsla,
+              Skarbo dzīvi aizmirst ļauji, -
+              Ņemi savā klēpī mūs!)</p>
+  
+              <p>Nevilšus sāku dziedāt līdz šo maigo, reibinošo meldiju. 
+              Piecēlos un gāju pie klavierēm. Lida bāli pasmaidīja
+              un iebilda: „Tristans un Izolde, - vaj nē? Mīlēt ir - mirt!“</p>
+              <pb/>
+  
+              <p>un viņa mēģināja dziedāt līdz, bet balss sāka trīcēt, un acīs
+              saskrēja asaras. Satvēru viņas zeltmataino galvu savās rokās
+              un dziedādams lūkojos viņas sejā; tā kļuva sārtāka un sārtāka ... 
+              Tad sāku skūpstit to, jo gribēju apslāpēt savas un
+              viņas asaras ...</p>
+  
+              <p>„Tu mani mīli - - es dzīvošu mūžīgi, - arī tad,
+              kad būšu mirusi,“ Lida čukstēja.</p>
+  
+              <p>„Lida, ko tas lai nozīmē?“</p>
+  
+              <p>- „Neko; man gribētos tagad gulēt laivā un klausīties, kā
+              vilnīši kuļas gar laivas malu,“ Lida teica, sapņaini raudzīdamās 
+              man acīs: „tu esi ļoti pārvērties! Pagaidi!“ Un viņa
+              uzlēca no krēsla un aizgāja; drīz tā atgriezās un nesa kādu
+              man pazīstamu samta apliekamo, kurš apšūts baltām špicēm...</p>
+  
+              <p>Tad - - - sēdam abi uz zofaja, satinušies melnajā 
+              samta apliekamā; gandrīz nekā nerunājam. Lida pieglaudusēs 
+              pie manis, un viņas dvaša glāsta manus vaigus un lūpas ... 
+              Viņa aizmigusi, - - tik mierīga, kā sirdsšķīsts
+              bērns ... Tikai reiz viņa miegā sauc: „Tristan!“ Kautkas savāds 
+              ietrīcas viņas sejā, - es noliecos un noskūpstu to, -
+              viegli, viegli, lai viņa neatmostos ...</p>
+          </div>
+          <div type="group">
+              <head>30. septembrī.</head>
+  
+              <p>Uz vispārīgu vēlēšanos šovakar atkārtoja „Oņeginu.“
+              „Dēmons“ izdziedāts ...</p>
+  
+              <p>Nē, tas ir tik savādi, - tik ļoti, ļoti neizprotami ...
+              Esmu tā kā apradis ar savu tagadējo stāvokli, - un man dažreiz 
+              liekas, it kā es pārspīlētu ... Bet Lida cieš, - -
+              cieš neizsakāmi ... Šovakar viņa pēc izrādes paģība
+              savā istabā...</p>
+  
+              <p>Sēdējām kādu brīdi viņas dzīvoklī... Beidzot viņa piecēlās 
+              un ilgi noskatījās uz mani ... Nekad neaizmirsīšu šā skatiena: 
+              tas bij pilns savādu žēlabu, - kā kad mirējs atskatītos vēl</p>
+              <pb/>
+  
+              <p>reiz dzīvē un teiktu: „Man tā negribas mirt, negribas atstāt...“
+              Bet šajā skatā bij cieta apņemšanās, - savāda, sveša, šausmu 
+              pilna .... Tāda mēdz būt cilvēkam, kas ieskatījies bezdibenā 
+              un ļāvis jau kājai slīdēt ...</p>
+  
+              <p>Šovakar viņa nelaida manis iz savām rokām vaļā, -
+              glāstīja manus matus, manu seju, manas rokas ... Beidzot
+              viņa uzprasīja: „Ko tu domā?“ ... Vaj man bij viņai teikt,
+              ka manas domas maldījās Berlines nacional-galerijā pie Böcklina,
+              - - ka man bij vēlēšanās dzirdēt Loengrīnu? ...</p>
+  
+              <p>Mans nemiera gars izplētis spārnus, - - grib lidot ...
+              Vaj lai es viņu atstumju? ... Šo meiteni, kura manis dēļ
+              cieš? Ja manis nebūtu bijis, tad viņa būtu mierīga, laimīga
+              savā mākslinieces apziņā ...</p>
+  
+              <p>„Tu domā par ārzemēm?“ Lida vaicā.</p>
+  
+              <p>- „Jā,“ es atbildu ar izbailēm. Bet viņa pieceļas un
+              mierīgi saka: „Ir laiks, Henrij, ka ej uz māju! Man rītā jādzied 
+              „Traviata,“ - un tu arī esi noguris! Sveiks!“ Viņa mani 
+              ilgi uzlūko, tad skūpsta un izstumj pa durvim ...</p>
+          </div>
+          <div type="group">
+              <head>1. oktobrī - pēc pusdienas.</head>
+  
+              <p>Mani šausmas grābj ... Es esmu brīvs, es varu
+              atkal klīst, un censties, un mācities, - - mani atsvabināja,
+              - - bet kā?! Bet kā! Lida - es nevaru to uzrakstīt - -
+              Lida ir nonāvējusēs! Viņa pate man raksta; te viņas mīļā
+              vēstulīte, uz kuras stingri, droši, lieliem burtiem rakstīts:</p>
+  
+              <p>„Mīļais - es nespēju citādi, - man tā jādara.
+              Tu vari celties - es to jūtu, - - un Tu gribi celties,
+              - - bet es Tevi atturu ... Tadēļ es negribu Tavus
+              spārnus siet. Nedomā, ka Tu mani esi dzinis nāvē; nē!
+              Miroņiem jādus, - un es sen esmu mironis ... No tā
+              laika jau, kad Tu atbrauci, jutu, ka neesmu vairs tā Lida,
+              par kuru Tu sapņoji, - - ka manai dzīvei saturu deva
+              ne darbs, ne mērķis, bet Tu ... Tajā brīdi atskārtu,</p>
+              <pb/>
+  
+              <p>ka esmu pazudusi; zināju, ka Tu mani mīli, bet tas nebij
+              tas ... Atminos, kā Tu reiz mani sauci par zeltaino,
+              glezno pasaciņu; Tev es cits nekas nevarēju būt, kā vienīgi 
+              pasaciņa, bet Tu man - - saulainā diena, - un kad
+              saule riet, tad acs vairs neredz ceļa pa dziļi-melno nakti, 
+              un Tad jāiet pie miera ...</p>
+  
+              <p>Klausi Tu savai balsij, kā es klausu savai! ...</p>
+  
+              <p>Tagad - beidzamo reizi pret sauli airēt, pa jūru! ...</p>
+  
+              <p>Tava Lida.“</p>
+  
+              <p>Lidas mājās nav ...</p>
+  
+              <p>Viņa izskalota malā ... Man liekas, it kā es būtu padarījis 
+              šo slepkavību ...</p>
+  
+              <p>Bet viņa man piedod ...</p>
+          </div>
+          <div type="group">
+              <head>3. oktobrī.</head>
+  
+              <p>Un es tagad došos atkal tālāk un tālāk! ... Es jūtu, 
+              ka mani atkal sauc mana balss! Prom uz darbu, - - -
+              ar to es gribu izpirkt to dzīvības grēku, pie kura esmu vainīgs!
+              Un man jāpiepilda Lidas cerība - - - jāiziet iz šaubām -
+              - tālu, tālu plašumā un jāsagaida uzlēcošā saule - -
+              jāredz plašā, dzidrā tāle! Tā lai ir mana laime, - -
+              darbs!...</p>
+          </div>
+      </body>
+  </text>
+</TEI>

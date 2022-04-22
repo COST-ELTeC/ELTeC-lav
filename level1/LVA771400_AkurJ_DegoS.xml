@@ -1,0 +1,1223 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lv" xml:id="LVA771400_AkurJ_DegoS">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+      <title>Degoša sala</title>
+      <author>Akuraters, Jānis, 1876–1937</author>
+      <respStmt>
+        <resp>editor</resp>
+        <name>Artis Ozols</name>
+      </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="words">21877</measure>
+        <measure unit="pages">85</measure>
+      </extent>
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <date when="2022-04-22"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/"> Licenced under CC-BY 4.0 </licence>
+        </availability>
+        <ref type="doi" target="http://dom.lndb.lv/data/obj/771400"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="http://dom.lndb.lv/data/obj/771400">Akuraters, Jānis, 1876–1937, Degoša sala
+          </ref>
+          <publisher>National Library of Latvia</publisher>
+        </bibl>
+        <bibl type="firstEdition">
+          <title>Degoša sala</title>
+          <author>Akuraters, Jānis, 1876–1937</author>
+          <publisher>Rīga: Jāņa Rozes apgāds</publisher>
+          <pubPlace>Rīga</pubPlace>
+          <date>1912</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+      <profileDesc
+          xmlns:e="http://distantreading.net/eltec/ns">
+        <langUsage>
+      <language ident="lv" usage="100"/>
+        </langUsage>
+        <textDesc>
+          <e:authorGender key="M"/>
+          <e:canonicity key="low"/>
+          <e:size key="short"/>
+          <e:timeSlot key="T4"/>
+        </textDesc>
+      </profileDesc>
+    <revisionDesc>
+      <change when="2022-04-22">Automātiski pārveidots ELTeC formātā</change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text>
+     <body>
+         <l>Dem Scheidenden ist jede Gabe wert, 
+         Ein dürres Blatt, ein Moos, ein Steinchen aus der Quelle,
+         Dass er des Freunds gedenke ... 
+         ... So wird ein Nichts zum hāchsten Schatz verwandelt.
+         Goethe.</l>
+         <div type="chapter">
+             <head>I</head>
+             <p>Kad lauki bija jau brieduši un saule sāka zilgmaju mest pār rudzu druvām un birzēm ap kalniem — viņš nāca atpakaļ.</p>
+             <p>Kas tās bija par savadām ilgam bijušas! Ak, neviens, neviens to lai nezina... Tās bija ilgas, kādas sajūt kāds aizmirsts un sirdsviens, kad pēc ilgām un veltām cīņām viņš noguris nejauši paskatās rudeņa zvaigžņotā naktī un viņa auss sāk dzirdēt kaut ko un sirds sāk drebēt kā mazam bērnam. Kāds bija saucis un viņš atsaucās: nāku! nāku!</p>
+             <p>Pār laukiem un dažu pelēku jumtu pamirdzēja ezera sudrabs, kā gara strēmele mūžigā mierā.</p>
+             <p>Tad viņam likās diezgan braukts. Tālāk tas gribēja iet kājām, ka gribētu kaut ko satikt vaj apsveicināt.</p>
+             <p>Viņš aizmaksāja ormanim un paņēma savu vieglo, mazo ceļa somu un mēteli uz rokas. Tad viņš gāja pa balti-dzelteno lielceļu no pakalna uz leju, no lejas uz pakalnu. Bez mēra augstais zilums ar mākoņiem un gaisa bezgaliba apņēma viņu un pacēla, — likās māte ar mīļu un stipru roku nes.</p>
+             <p>Vaj cīruļi kur nedziedāja? Vaj nekliedza bērnu balsis? Vaj viņš nebija mazs un niecigs atkal? — — Ne, briedumā viss stāvēja... klusums un smaga pilniba.</p>
+             <pb/>
+             <p>Viņš aizsniedza ezera malu. Lielceļš gāja gar pašu krastu. Niedru un šķelpšņu mežs zaļi-brūns stiepās visapkārt ūdeņiem kā vaiņags. Tad baznica. Ar norūsējušiem dakstiņiem un kluso torniti, ar kļavām un bērziem aiz akmeņu valles un aizslēgtām durvim.
+             Visa balta, ar seno balinajumu — — bezdeligu perēkļi jumta paspārnē...</p>
+             <p>Aizslēgtās durvis iedeva kā skumjas, kā nemieru ceļotajā dvēselē. Aizslēgtās durvis... Būtu viņas vaļā un viss, viss vaļā!</p>
+             <p>Tad nāca paaugstinājums — aiz ta upite, kas ezerā ietecēja un tur sagrūstošas ūdens sudmalas. Garam ejot viņš dzirdēja — dobji klabināja dzirnavakmenis apgriezdamies no kūtrā un vājā ūdensspēka. Šis akmenis griezās taktī, bet kā aizmidzis, it kā tas viņa sapnis būtu, ne patiesiba, ko viņš tur klabināja. Viņa troksnī bija it kā griba apstāties un klusēt un tad — nekādas ūdens gāzmes, nekādi spēki to neiekustinātu vairs.</p>
+             <p>Pašā kalna malā stāvēja skolas nams, tas bija senā sarkanumā ar aprūsējušu dakstiņu jumtu; logi tikai atmirdzēja vasaras saulē un vīnstīgu vītnes kvēpa ap veco, lielo verandu.</p>
+             <p>Viņš apstājās un palūkojās uz skolas durvim — ari tās bija cieti. Pa sētas vidu aizskrēja kliegdami daži zēni  laikam tikko brīvdienas bija beigušās. Pagātne uzliesmoja kā zibenis dzelteni-spodra un atkal apdzisa...</p>
+             <p>Tad ceļotājs devās tālāk uz bērzu birzēm, kuras nepārredzamas aizstiepās vietvietām gar slīpo līdzenumu. Iz retām mājam cēlās dūmi no skursteņiem; zaļi-tumšo egļu pulciņi stāvēja līdzā bērziem; — laukos bija rudzu statiņi un daudz strādnieku. Bet debess malu pret dienvidiem aizsedza sili, sili un mākoņtilti.</p>
+             <p>Viņš gāja un vēroja ar savām bāli-zilajām acim savu ceļu. Tur gandrīz ielejā tak bija reiz viņa vecāku māja — ne, toreiz viņa māja ari. Tikai brīnums!</p>
+             <pb/>
+             <p>likās daudz kas bija tik ļoti grozijies un citāds ticis, bet daudz kas — vēl vairāk kas, nebija nemaz citāds ticis.</p>
+             <p>Viņš iegāja pagalmā un tālums, un ezers, un kalns, un leišu meži dienvidos likās pazuda. Te bija miers, te bija vieta, kur — — —</p>
+             <p>Viss pazuda savādā mākulī... te bija ta vieta, kur — — —</p>
+             <p>Viņa acis iededzās, prieks pārņēma visu būtni un asinis steidzigi sāka zvanit. Gadi atrāvās atpakaļ, un viņš redzēja to, pēc ka bija sajutis tās lielās zvaigžņotās ilgas.</p>
+             <p>Viņš stāvēja pie dārza vārtiņiem. Sētas bija sabrukušas un krūzmētras auga cauri zediņiem un smaršoja. Klētis un visas mājas bija tādas pat un tomēr ne. Istabas logu slēģi bija lietus izmazgāti, gandrīz pavisam bez krāsas.</p>
+             <p>Durvis bija vaļā un celiņš uz klētim nomīdits tāpat kā toreiz,  bet neviens viņam nenāca pretim — — — Uzpūta vēsums.</p>
+         </div>
+         <div type="chapter">
+             <head>II</head>
+             <p>Durvīs parādijās vīrs, pelēkos svārkos, nātnās apakšdrēbēs un basām kājām. Novēlusies bārda un mazliet glūnošas praktiķa acis. Tad atnācējs pagāja dažus soļus tam pretim un viņi sastapās, sarunājās.</p>
+             <p>„Man liekas, te ir Zvanitaju mājas," nācejs teica.</p>
+             <p>„Te, ja," apstiprināja bārdainis, lūkodamies un pabrīnidamies mazliet. „Te agrāk dzīvoja Andris Zimza. Nu jau desmit gadi..."</p>
+             <p>„Ja, ja, — mans tēvs Andris Zimza... Esmu viņa dēls Smailis Zimza," un kā nezinādams, ko lai saka, viņš apklusa. Likās, viņš pat zobus sakoda.</p>
+             <p>Apklusa ari bārdainis, tagadējais saimnieks.</p>
+             <p>„Es gribēju te palikt kādu laiku," teica Smailis.</p>
+             <p>Un pēc neilga laiciņa viņi abi soļoja pa celiti uz istabu. Saimniekam tur nebija ko teikt pretim.</p>
+             <pb/>
+             <p>Viņš tika uzvests augšas istabiņā, kur vienigais logs galā raudzijās pāri par ābeļu zarotām rindām uz lauku un bērzu birzitem. Viņam tika gulta uztaisita vienkāršiem linu palagiem un mīkstu spilvenu. Rudzu maize un krūze ar pienu stāvēja uz galdiņa un nu — tas varēja dzīvot, nu tas bija atgriezies.</p>
+             <p>Cik savadi viss tas bija te! Smailis staigāja pa istabiņu un klausijās savos soļos. Kad apstājās, klusums apņēma visu kā dziļš ezers, kas nekustināts mierā snauž. Klusumā bija it kā bailes un prieks reizā un nezināja viņš, kuram pieķerties — likās katrs ņemtu viņu pie rokas un vaditu un stāstitu kaut ko.</p>
+             <p>Te bija pagājušas tās dienas, kuras sapņu vaiņagotas dziedādamas pavizeja garam. Nevienas, nevienas, kura tukša vaj nelaimiga bijusi. Bezgaligs pulks baltu dienu ar saules sirdim, līdzi mākoņiem, ko dienvidus vēji dzina. Un pāri tam viņa varonis uz vanaga spārniem līdzi pasakai meklēt savu līgavu, kuru velns aiznesis tad, kad viņš vēl šūpulī gulēja.</p>
+             <p>Uz durvim gada skaitlis — sens; gadu divdesmit atpakaļ Smailis to pats bija uzvilcis tur. Nu šis skaitlis mēmi tur stāvēja un savos līkumos slēpa tik daudzi, kas tikai vienam vien zināms.</p>
+             <p>Pie sienas bija viņa grāmatu plaukts stāvējis; tagad ta vairs nebija. Dažādi veci saimniecibas rīki tikai karājās te vairs.</p>
+             <p>Naglas bija iesistas priekš vaiņagiem sienā. Naglas bija atlikušās, bet vaiņagu nebija — nevienas zālites vairs. Brīnums, kur visa pasaule varēja palikt!</p>
+             <p>Smailis atvēra logu galā. Pie tam viņš pārrāva zirnekļa tīklus, kuri kā pelēki kvēpi bija ietinuši rāmjus. Mušas zuzedamas aizlaidās ārā.</p>
+             <p>Te reiz bija tāds reibinošs pavasaris... Kad viņš skatijās ārā, lija smags, biezs lietutiņš, kā caur sietu kad sijātu — bija miglains kā arvienu apriļos. Neapturama līgsmiba, mīļas, smagas nojaudas plēsa sirdi</p>
+             <pb/>
+             <p>un tā, likās, zvanija. Ābelēs un dārza malas liepās melnie strazdi sēdēja un svilpoja cauri lietum klanidamies ar dzeltenajiem knābjiem un no melnajām spārnu spalvām kā sudrabs nobira sīkā lietus lāses... Pumpuri brieda... zeme kūpeja zem miglauta. Tāds bija pavasaris toreiz...</p>
+             <p>Tagad bija spēciga vasara. Ābelēs karājās balti un rožaini āboli, bet ābelēs ari bija tādas kā skumjas. Un tur tālāk — bija bišu stropi. Tagad tikai viens stāvs avolis bija atlicies, tas pats ar nātram apaudzis. Zāle un smilgas auga līdzās ar kokiem, nevienam laikam nebija te patikšana pūlēties.</p>
+             <p>Bezdeligas kliegdamas aizšāvās gar viņa galvu un drīz vien jau vidžināja kaut kur uz jumta neredzamas. Trīs vaj četras ligzdas bija mūrētas rindā zem pajumtes, bet tur vairs nebija mazo putnēnu — ja, vasara jau gāja uz beigām.</p>
+             <p>Smailis soļoja pa istabiņu un klausijās, vaj nenāks kādi soļi, vaj nenāks kas viņu apsveicināt? Dažs labs tēls atmirdzēja atmiņā kā agrs pavasara rīts un tiešamiba likās izzūdam... Bet ne, neviens nenāks. Viņš atmodās. Varbūt tomēr, varbūt? sirds gaidija. Viņa bija pagurusi, viņai spēka vajadzēja, un to tikai no tiem tēliem varēja dabūt. Tikai te nu laiku atgriešana bija tas brīnumavots, kur spēka dzēriens gulēja aizvāzts un dzidri sarkans kā vecs vīns.</p>
+             <p>Viņš redzēja mazo zēnu ar dziļām domam un skaidrām acim — vaj viņš pats tas nebija?</p>
+             <p>Vecais spogulis ar brūno kokā griezto rāmi diezin kā bija atlicis vēl no visām mantām te. Viņš karājās kaktā ar savadu melnu, likās, izdzisušu stiklu. Smailis palūkojās viņā un atmodās — ja, prom bija viss, prom. Viņš redzēja savu seju ar lielām, pelēkām, bālām acim un mazliet apsarmotiem matiem — ta bija ta pati dzīve, te vaj tur.</p>
+             <p>Kad saule laidās, Smailis izgāja pagalmā. Neparasts klusums plētās līdz ar zilu dūmu svītrām pār</p>
+             <pb/>
+             <p>laukiem. Kaut kur dedzināja līdumu rudzu sējai, vaj ari zemdegas dega dziļi kur zemes kārtās un gruzdēja ar smaršigi grūtu smaku. No lauka sanāca strādnieki. Balsis čaloja, lopi bļāva — bija kā toreiz...</p>
+             <p>Ganu zēns ar suni stāvēja pie laidara. Smailis draudzējās ar viņiem; viņam gribējās suņu būdu apskatities. Ja, ta bija ta pati senā, tikai jumts jau satrūdējis un vietām ielūzis. Te kādreiz mazs zēns uz ceļiem nometies baroja mazos kucēnus un vēlāk glaudija lielo sarkano mājas sargu. Tas bija sen...</p>
+             <p>Tad viņš gribēja klētī ieiet, kur vasarās tas kā zēns bija gulējis un klausijies, kā pērkonis dimdeja tālu dienvidos un lietus tad bira uz jumta šņākdams. Klētī toreiz smaršoja pēc medus, jo pie sijām plauktā tika šūnas turētas... Tagad nebija ne šūnu, ne medus. Drēgnums bija manāms un pelējušas labibas smaka.</p>
+             <p>Un tad ciemiņš gāja katrā istabā un katrā vietā. Viņš runāja vajadzigo ar mājas ļaudim un lūkojās drīz sienā, drīz logā.</p>
+             <p>Saimnieka istabā vēl bija ta pati grīda no platiem egļu dēļiem, nekrāsota, lielām zaru zīmēm. Ak ši grīda, kad svētkos un svētdienās balta tika izberzta, un kādas vieglas kājas tur pāri gāja! Istaba bij plaša un griesti zemi. Toreiz podos pie logiem auga savādas puķes vaj koki, kļavām līdzigi, ar dzelteni zaļganām lapām. Vienmēr tās pār galvu stāvēja mazajam zēnam.</p>
+             <p>Krāsniņa no rožainiem ķieģeļiem, pie kuras varēja sildities garās ziemās, bija pazudusi. Ta bija iemūrēta sienā dziļi un bija tik zema, zema. Toreiz uz mazajām dzelzs durvtiņam bija redzami četri čuguna zirgi, kuri skrēja auļos, un vadi ja tos grieķis braucējs divriteņa ratos, šķēpu rokā un grožus. Kad uguns ilgāk kurējās, šie zirgi nokarsa sarkani kā ogles un, likās, steidzigak vēl traucās uz priekšu.</p>
+             <p>Ja, ugunskura vairs nebija — kaut kas bija izdzisis ...</p>
+             <pb/>
+             <p>Un tad kalpu istabā viņš velti meklēja lielās gultas, kurā kāds zēns reiz bija gulējis kopā ar lielu kalpa puisi un klausijies līdz vēlai naktij pasakās un aizmidzis drošibā no jodiem un sumpurņiem pie stiprā puiša krūts. Ne, ari tas bija viss prom...</p>
+             <p>Smailis aizgāja uz riju, kura tukša un atstāta likās stāvēja. Dūmu smaka nāca pa vaļējo logu; nokvēpušās ārdis un sijas bija kā melnas siekstas.</p>
+             <p>Tukšums skanēja bez atbalss — bija ka nāves pūtiens pār visu...</p>
+             <p>Varbūt birzē vēl bus kaut kas atlicies, kas sauks viņa vārdu.</p>
+             <p>Viņš pagriezās pa pļavas malu un gar sīkajiem elksnišiem gāja uz lielo birzi. Viņam atmiņā šalca bērzi, un vijigi zari kā zaļas auklas karājās šūpodamies vējā. Vālodzes kliedza un lapu plaukums smaršoja savos pirmajos sveķos... Teika gulēja ēnā.</p>
+             <p>Smailis pacēla acis un skatijās brīnidamies. Vaj tad birze būtu attālinājusies, vaj viņš apmaldijies? Vakars tak vēl bija tik gaišs, tikko saule rietējusi.</p>
+             <p>Un kamēr viņa skats maldijās pa tālumu, viņš paklupa uz pirmā celma...</p>
+             <p>Visapkārt bija tikai celmi un celmi. Visa kalna piegāze bija kā ar mazām kapa kopiņām pilna. Birze bij aizšalkusi, pasakas bija beigtas. Un kādreiz te kāds zēns bija gājis novakarēs un redzēja zvaigznes cauri lokanajiem zariem. Baltie stumburi bija priesteru pulks, kuri klausijās naktī...</p>
+             <p>Smailis nosēdas uz celma un saprata visu.</p>
+             <p>Sarkans mēness paceļas rīta pusē un caur dūmakām un miglu apspīdēja Smaiļa seju.</p>
+             <p>Te bija kāda pils nogrimusi ar visiem brīnumiem, ar karavīriem, bruņu kalpiem, ar karali un viņa mīļāko.</p>
+             <p>Kāds zvans atzvanija visu vēlreiz — ne, ta bija tikai viņa sirds, kura te nakts klusumā kļuva dzirdama — nakts klusumā briestošos laukos un asins</p>
+             <pb/>
+             <p>gaismas pilnā mēnesī, kad nekas vairs neatsaucas.</p>
+             <p>Mājā viss klusēja, kad Smailis atgriezās un uzkāpa savā jumta istabā...</p>
+         </div>
+         <div type="chapter">
+             <head>III</head>
+             <p>Ar savadām klusām domam pamodās Smailis. Pār dvēseli bija tāds smags miers un dziļas skumjas. Bija it kā viņš stāvētu pie melniem, dziļiem ūdeņiem, kur bezdibeņos viņš zaudējis kādu pērli, kaut ko visdārgāko un nekur un nekad vairs ta neatradīs. Mēmi gulēja plūdi un neizdeva reiz iegūto mantu.</p>
+             <p>Vēss miglains rīts gulēja pār dārzu, māju un laukiem. Tas bija agra rudeņa klusums. Saule brida iz miglas un skatijās dzeltenās druvās; izkaptis žvadzēja laukos, un dārzā nokrita pa ābolam ar ātru, mīkstu troksni...</p>
+             <p>Ja, meklētā vairs nebija un viņš bija velti nācis atpakaļ! Pasaule bija pārvērtusies — vecā, nogrimusē — ta bija pilna skaņu, saules, un brīnumiem un sapņu, un asins nemiera; jaunā bija pacēlusies, — ta bija mierīga, praktiska, kaila, bagāta ar ražu un mechaniskiem cilvēkiem — ta bija kā uzgleznota bilde un stāvēja diendienā visur vienadi.</p>
+             <p>Smailis Zimza bija gatavs. Viņš stāvēja ceļā sataisijies pie loga augšā tur un skatijās uz dārzu. Viņš varēja atkal aizbraukt: kapenēs nemēdz ilgi
+             uzturēties...</p>
+             <p>Bezdeligas nodrāzās atkal gar logu un vidžedamas pazuda aiz jumta. Šai kliedzienā bija — ja, tur bija
+             tomēr vēl kas dzīvs no ta laika... Bet ari bezdeligas drīz aizies; bija jau pats pēdējais laiks. Vaj nepaklausities vēl?</p>
+             <p>Un tad notika tas, ka viņš visur sāka ieraudzit kaut ko nemainitu. Viņš gāja vēlreiz pa ceļu gar piekalni un ezera malu, gar baznicu, skolu un gar pelēkajām lauku mājam. Viņam tikās pat otrreiz nocirstajā birzes vietā starp celmiem meklet.</p>
+             <p>Un kad viņš atkal mājās pārnāca, viņš bija atradis</p>
+             <pb/>
+             <p>kādu vecu grāmatu ar saistošiem stāstiem un viņam vajadzēja to izlasit. Viņš šķīra nodzeltējušās lapas un katrā lappusē atrada kādu augstu dziesmu un gremdējās tur aizmirsdams sevi un apkārtni.</p>
+             <p>Tur bija tālas, tālas bērna dienas, kuras aizvizeja kā ezers ar sniegbaltu miglu segts rīta saules dzirkstošā mirdzā; aizskanēja kā klusas dūdas vaj vītola stabules. Tās bija visbrīnišķigakās lappuses, kad viss jau par teiku kļūst, par salu jūras zilajos ūdeņos, par salu, ap kuru viļņi tikko plančko un kuras neviens vairs neatrod un nezina, kas reiz laivu nogrūdis no viņas krasta.</p>
+             <p>Tur bija pasaku ceļi tālāk, kad diena jau iezvanita auga un sirds kļuva lielāka un drošāka. Tur spēkojās ķēniņa dēli un varoņi ar velniem, pūķiem un sumpurņiem, tur zvaigznēm segloti zirgi sita zemi ar dimanta pakaviem, stikla kalns plīsa un viņa, karaļmeita, gāja pa ziedošām pļavām — saule pa labo roku un mēness pa kreiso...</p>
+             <p>Tur bija daudz tēlu, zēni un meitenes. Smaiļa līdzcensoņi un draugi. Viņu smiekli skanēja kā pavasaŗa strauti.</p>
+             <p>Un tad tur bija vietas, kur sāpes bija pielikušas savus pirkstus — tad viņas šo grāmatu sāka līdz rakstit un viņu rokas zīmes bija asiņaini sarkanas.</p>
+             <p>Tad nāca lappuses, kur viņa sirds viena klīda ar saviem sapņiem pa smilšainiem ceļiem un sāpes rakstija bez apstāšanās un visa grāmata bija kā asinim aplieta. Tādu viņš to turēja rokā, kā mīļu atradumu.</p>
+             <p>Un klejodams pa sen pazīstamiem ceļiem un vietām, viņš atšķīra pirmo salasāmo lappusi, kad gāja gar veco skolas namu, kura sarkano ķieģeļu mūri bija apauguši meža vīna stīgām. Smailis lasija pats savu jauno
+             dienu dzīvibas stāstu.</p>
+         </div>
+         <div type="chapter">
+             <head>IV</head>
+             <p>Šis skolas nams pakalna malā no sarkanajiem ķieģeļiem! Cik daudz tur dienu aizgāja un nakšu gaišās</p>
+             <pb/>
+             <p>domās. Smailis redzēja pirmo dienu, kad viņš uzkāpa pa trepēm augšā tur klašu istabās. Viss bija pilns ar ļaudim. Zēni ar jauniem zābakiem, pelēkiem svārkiem un kakla lakatiņiem staigāja viens otru apbrīnodami. Jaunās tēvu dāvinātās cepures tie nesa rokās un skatijās to spožajos širmjos. Dažs labs apbrīnoja savu nazi, vaj spalvu kātu un dažs ķemmēja matus ar jaunajām dzelzs ķemmēm. Meitenes gāja biklas, katūna blūzēs; ikkatrai pār muguru bizite mētājās — dažai dzeltena, dažai melna, pat sarkanas un gluži baltas bija. Dažai tikjnaziņa, ka tikko bantites turējās matos. Tur bija žadzigas, kas pastāvigi smējās, un klusās un bailigās, kas kaktos stāvēja. Bija ari nabadzigi ģērbtas, vīzitem kājās, īsām piedurknitem un vājām, izdēdējušām rociņām. Tās rāvās visiem iz ceļa un daža drebēja no aukstuma un skumjam. Viss bija tik svešs. Svešums dvēsa no augstajiem balinātiem griestiem, no skanigiem koridoriem un no trepēm, pa kurām klabēja mazu kāju soļi. Klasēs logu lielie rāmji un rūtis un skolnieku soļi bija ari sveši katram.</p>
+             <p>Un viņš, Smailis, bija tas, kas noskatijās visu mierigi pie malas novirzijies. Viņam nāca prātā tikai māja ar sarkanām baļķu sienam un vecajiem skapjiem. Bija viegli, skumji un laimigi reizā. Ārā lauki bija klusi un kaili, līņāja lietus un ātri satumsa — visu apņēma miglājs. Varēja tik samanit, kā ezers grima vakara krēslā ik dienas un rītos gulēja kā palss audekls starp birzēm. Bet birzes bija kailas; vārnas tad skrēja gulēt uz eglēm naktīs un rītos atgriezās kliegdamas uz laukiem un pakalniem.</p>
+             <p>Sākās jauna dzīve pulkā. Bija jāaizmirst viss, kas vienam bijis; bija jāredz pasaules uzbūve kopibā.</p>
+             <p>Ja, tur viņš gulēja pirmo nakti uz sava maisiņa, starp citiem daudzajiem bailigs un rūpju pilns. Viņš vilka segu pār acim, viņš gribēja būt viens kā mājā un klusumā. Bāli dega lampa un apspīdēja lielo istabu, kur jaunās dzīvibas saspiestas kopā saldam</p>
+             <pb/>
+             <p>miegam padevās. Bija ari smiekli un troksnis, tika jokots un kliegts, gultas tika apgāztas, raudāja, sūdzējās un plēsās. Dziļi, dziļi Smailis spieda galvu spilvenā un atminējās savas laimigās naktis savā tēva mājā.</p>
+             <p>Bet viņš jau nebija šķirts ne no ka. Kad mieriga un silta saules diena bija, viņš gāja vakaros uz māju — tās trīs verstis bija ātri noejamas. Un tad viņš gulēja savā gultiņā aiz skapjiem, un ozola vaiņags bija galvgalā pie sienas un istabā mala ratiņi, kā runči savu bezgaligo malienu.</p>
+             <p>Kad nāca ziema, visa zeme apgula kā nāvē. Lauki bija balti un ezers balts; birzēs karājās sarma. Saule bija pazudusi, bija uzpūsts mūžigs miegs. Smailis gāja retāk uz māju. Viņš brida dziļās kupenās, kā mazs putnens, un viegli apģērbies ar pelēku mēteliti bija. Mazā sirds strādāja toties' karstaki un izveda viņu cauri piesnigušajām birzēm, aizputinātam ceļam, kamēr viņš ieraudzija uguntiņu mirdzam savas mājas logos. Ziemas svētkos zvanija katra sniega pārsla, kura nolaidās no augšas; katrā uguntiņā bija vesela saule un katrs zvaniņa tinkšķejiens pie ilkss stāstija pasakas.</p>
+             <p>Un kas par brīnišķigiem pavasaŗiem tie bija! Strauti rūca tāli dzirdami; katrs urdziņas troksnis bija vesels stāsts, par ko, tas nav atminams. Skolas klaigas skanēja no skolas pagalma, kur bērni rotaļaja — ak, pat rotaļāties viņš kā bērns neprata — viņam vajadzēja sapņot. Maiga un tāla grūtsirdība bija viņa pavasaris.</p>
+             <p>Vasarās skolas nams bija patukšs. Tad mācijās tikai nedaudzie izredzētie. Viss bija brīvāk. Ik vakarus viņš gāja uz mājam un ik dienvidus peldējās ezerā ar citiem kopā. Ūdens rozes nesa iz dzelmes un no niedram stabules taisija. Un rīta rasā, saulei silstot, viņš nāca uz skolu basām kājām, bez cepures dažreiz un apsēdās arvien zem vītoliem lielceļa malā pie ezera, lai atkārtotu uzdevumu — bet vairak</p>
+             <pb/>
+             <p>viņam bija prātā teikas un dziesmas. Noplūcis pa
+             naktenei vaj rudzu puķei, viņš gāja tālāk klausidamies, kā vālodzes kliedza vaj vējš zuzeja vītolu
+             zaros.</p>
+             <p>Kāda neaizmirstama dzīve ta bija! Lūk, tepat kalna malā vēl tie sarkanie mūri un skolotaja balkons un sētsvidus ar augsto akas vindu. Varbūt ari skolotājs vēl tas pats — skolotajs, kurš Smailim likās tik nevajadzigs pa visu to laiku. Varbūt ari vēl tie zēni un meitenes tur, ar kuriem viņš spēlējās, varbūt ari viņš pats?.. Ak! Zēni, zēni, kur jūs esiet tagad! Šurp visu, šurp; kā bijis lai ir! Svētkus
+             vienu dienu vēl!</p>
+             <p>Un atkal lappuse senejā grāmatā tiek atšķirta un viņš lasa.</p>
+         </div>
+         <div type="chapter">
+             <head>V</head>
+             <p>Ta ir klases istaba rīta pusē. Divas rindas solu ar pultem, trīs gaiši logi un nodilusi sienas tafele. Zēni sēd vienā rindā, meitenes otrā.</p>
+             <p>Pats pirmais klasē sēž Putniņš, mazs zēns, melniem matiem un spodrām acim. Viņš vijigs un ātrs, kā zivs un pastāvigi jautrs. Viņš ir kalpu zēns un nes sev līdzi uz skolu kulitē tikai gabalu maizes un mazu cibiņu biezpiena. Viņam ir adita vilnas cepure un vīzes kājās. Bet viņš mācas labi un visiem ir priekšā. Viņš paceļ roku pastāvigi pie katra jautājuma, ko skolotājs uzdod, un tāpēc ir ticis uz priekšu. Pirms kāds var apķerties, Putniņš jau zina. Viņš ir par klases uzraugu.</p>
+             <p>„Graud un Vinter! nespēlejiet spalvam!" viņš sauc vainigos pie vārda.</p>
+             <p>„Nesmejaties un nerunājiet!" viņš pamāca meitenes.</p>
+             <p>„Vanags man duŗ ar adatu!" sauc kāds mazs zēns no tālākiem soliem. Smiekli. Bet Vanags ieraujas aiz citu mugurām un kliedz:</p>
+             <p>„Ko tu melo! Tu pats man duri ar adatu!"</p>
+             <pb/>
+             <p>Beidzot nāk skolotājs, un tad visi ir pie taisnošanās manigi. Un brīvstundā atkal, kad mācibas beigtas, viss ir aizmirsts un visi ir draugi.</p>
+             <p>Tiek spēlēts uz spalvām. Grauds ir baņķieris, tam pilnas ķešas spalvu un viņš vienmēr citus aplaupa. Vanags ir liels zēns, baltiem matiem, bet drukns un spēcigs. Bagāta tēva dēls, viņš visur iet kā priekšnieks. Un ja kāds pretojas, Vanags to sit, kur citi neredz. Acis tad viņam iedegas kā varmākam. Visvairāk viņš sit kluso zēnu Jasminu. Tas ir tik vārgs un glezns, kā lilijas zieds, un bieži spiežas pie Smaiļa aizsarga meklēdams. Smailis viņu aizsargā — ja, bieži viņš saņem sitienus, kas nolemti Jasminam.</p>
+             <p>„Jāni, nāc šurp," viņš saka un liek zēnu sev aiz muguras.</p>
+             <p>Reiz Vanags viņam kliedza, lai ejot nost, bet viņš stāvēja nekustēdamies. Un Vanags, acim zvērodams, sper viņam ar savu dzelzs pakavu kalto zābaku, sper nezēligi un stipri pa kājām, tā ka visi izbīstas. Ne, Smailis nekust ne no vietas... Asaras sakāpj tam acīs. Tad nāk skolotājs un sitējs aiziet. Skolotājs pienāk un redz Smaiļa mokas, prasa pēc vainigā.</p>
+             <p>„Sūdzi, sūdzi," sauc no visām pusēm. Bet viņš nesaka ne vārda. Viņam nevajaga neviena palīdzibas. Skolotājs tur neka nevar darit. Sāpes nevar atņemt un apvainojumu ari ne. Bet atmaksa Smailim ir Jasmina pateicigais skats ar zilām meitenes acim.</p>
+             <p>Ja, mīļais Jānis Jasmins! Viņš bija no tālienes, kaut kur no pagasta otras malas. Viņu tad aizveda bāla svešāda māte, lakatos ietinusi pret salu. Tādās reizēs Jasmins sirsnigi atvadijās no Zimzas un Zimzam patikās turēt vārgo roku savā un glaudit to.</p>
+             <p>„Vaj tu pirmdien atbrauksi? viņš prasa Jasminam.</p>
+             <p>„Ja, es atbraukšu."</p>
+             <p>„Bet tā ka tu atbrauc, es gaidīšu."</p>
+             <p>Un pirmdienās Smailis iet ārā pastāvigi un raugas,</p>
+             <pb/>
+             <p>vaj Jasmins nebrauc. Nāk viens pēc otra. Nāk un apsveicinās, bet Jasmina nava. Smailis ir domigs un neapmierināts. Drīz sāksies stundas. Un tikai nedaudz minūtes priekš zvanīšanas ienāk Jasmins, vēl drebēdams, nosalis un berzē savas bālās rokas. Smailis to paņem pie sevis un saķērušies ar to ieiet abi klasē un stāsta savus svētdienas piedzīvojumus.</p>
+             <p>Guļamistabā gultas viņiem ir blakus, un vakaros, kad auksti istabā, tie guļ zem vienas segas. Jasmins ir tik silts, kaut gan vienmēr drebuļojas. Viņam ir mīksti balti mati, tik mīksti kā ūdens putas, kā vismīkstākās ezera zāles. Smailis laiž šos matus caur saviem pirkstiem un ilgi viņam patīk tā kavēties. Tad piespiež galvu pie Jasmina galvas un saldi aizmieg. Un naktī, kad vēl no baiga sapņa pamostas, sajuzdams pie sava vaiga šos mīkstos matus, ir drošs un mierigs atkal. Ēdamistabā viņi ēd blakus pie galda un klasē brīvstundās ir kopā.</p>
+             <p>Jasmins ir viņam brālis, vaj vēl kas tuvaks. Tas nelien nekur pulkā, novēršas, kad tiek lamāts un lasa grāmatās brīnišķus stāstus.</p>
+             <p>Un kādā dienā uz pavasara pusi, kad saulite jau sāk sildit, Jasmins neatbrauc no mājam vairs. Viņš neatbrauca nekad vairs; viņš esot nomiris, tā teica citi.</p>
+             <p>Tad Smailis ir vēl vientuligaks.</p>
+             <p>Viņš nekad nepaceļ roku stundā, lai rāditu skolotajam savas zināšanas. Viņš dabū rājienu uz rājiena par to, bet panes visu ar lielu mieru. Uzslava viņu neiepriecina, un rājiens neskumdina. Viņš zina vairāk un labāk kā Putniņš un ar vienu spiedienu būtu ta vietā, bet viņam ir citas domas un prieki.</p>
+             <p>Lūk, pavasaŗa vakars. Ir skriešanās uz sacīksti. Smailis stāv un skatās no malas, kā viss pulks trokšņodams gāžas uz mērķi. Vanags ir pirmais ar saviem garajiem soļiem un plēsoņa acim. Viņš noskrien visus un lieligi smejas.</p>
+             <pb/>
+             <p>Tad tiek izlikta godalga: bieza, balta papira burtnica. To skolotājs novēl tam, kuŗš būs pirmais.</p>
+             <p>„Memmes dēliņ, vaj neiesi līdz?" smejas Vanags un duŗ Smailim ar pirkstu vaigā.</p>
+             <p>Viņš nosarkst kā dzelts un novēršas. Bet tad, kad uz komandu visi sāk skriet, viņā kaut kas iedegas un viņš ir gaŗam visiem un nonāk lielu gabalu priekšā Vanagam pie mērķa. Bet godalgu viņš neņem. Mierigi viņš aiziet klasē un noskatās, kā pūlis dalas laupijumā.</p>
+             <p>Ja, Putniņam ir viegla un gaiša sirds. Viņš priecigs un labs. Un brīnumainas acis viņam ir. Bet visas viņa domas ir tikai pie rēķināšanas un pie uzslavam. Viņa slava jau skan pār visu pagastu un viņam visi pareģo nākotni. Bet ar viņu nevar runāt neka cita, un Smailis skumst viņam blakus un nerunā neka. Reizam pat nepatīkami, cik ātri Putniņš izsit rēķinuma iznākumu galvā — taisni kā mašina.</p>
+             <p>Grauds ari būtu viņa draugs, bet nāk ka Smailis dāvina viņam vecas spalvas un zīmuļu galus. Grauds ir krājējs un ar savām biezajām lūpām un drūmām acim rēķina savu mantu.</p>
+             <p>Un tad ir kalpa zēns Valdis Vainots — tas ir viņa draugs. Tas ir noliesējis un dzeltens, bet dzīvibas pilns un zina daudz brīnumu stāstu. Viņam bieži nava pat pietiekoši maizes, un Smailis viņu pacienā. Viņam patīk Vainota vīrišķiba un dūšiba.</p>
+             <p>Abiem tiem jāiet pusceļa kopā un rītos tie atstāj sniegā iespraustu karodziņu par zīmi, ka viens vaj otrs jau aizgājis. Viņi iedami stāsta viens otram par savu dzīvi un apkārtni. Vainots dzīvo pusmuižā un vienā istabā tur ir divdesmit cilvēku, un cik tie savadi! Vasarā Smailis solās iet uz pusmuižu ciemā pie Vainota.</p>
+             <p>Kādu brīnumu un laimes pilna ir Vainota seja pie ziemas svētku eglites, kad tas dāvanai dabūjis mazu grāmatiņu! Cik kāri acis skatās uz sveču</p>
+             <pb/>
+             <p>gaismu! Pie viņa tur mājas esot tumsa vakaros un tik salti...</p>
+             <p>Bet pavasarī viņiem jāšķiras. Smailis iet skolā ari vasaru, Valdis Vainots ir par ganu saderēts Dūkstēs aiz purva. Tur dzīvo Vanags, un tas viņam pavēlēs, ko gribēs.</p>
+             <p>Un Smailis gaida rudeni, tad būs atkal satikšanās. Satikšanās, satikšanās? — kad ta būs? domā tagad Smailis staigādams pa lielceļu gar ezermalu pa vītolu ēnu. Niedrājs šalc, sudraba lapiņas laižas pār viņu pa retai un Smailis lasa tālāk sendienu grāmatā.</p>
+         </div>
+         <div type="chapter">
+             <head>VI</head>
+             <p>Tur ir liela skolas guļamistaba rīta pusē. Vakaros, kad lūgšana nodziedāta un ugunis apdzisušas, tad tur sākas jauna dzīve.</p>
+             <p>Diena ir kaut kur tāli; nakts apņem visu un naktij ir daudz brīnumu stāstu.</p>
+             <p>Kādas piecdesmit mazas sirdis un nepiebriedušas miesas guļ zem pelēkiem strīpainiem deķiem uz cietiem spilveniem un tinas cietāk drēbēs aiz aukstuma. Logi ir aizsaluši, ledus raksti ir pār visām rūtim. Un ārā ir mēnesnica. Bāls, auksts spīdums krīt uz zemi, zvaigznes mirdzina tālu, kā mazas saltas sniega dzirkstis.</p>
+             <p>Iekšā ir puskrēsla; lampa nogriezta; ēnas šaudās pa kaktiem.</p>
+             <p>Tad atveras pasaku valsts, stāsti par brīnumaino pasauli.</p>
+             <p>Viens ir stāstitajs. Viņš runā kā uzvilkts pulkstenis vienmuļigi tikšķēdams. Bet stāsts aizved visus aizmiegošos gan pilīs, gan jodu zemēs, gan aiz deviņām jūrām. Asinis plūst, krīt pūķi un jodi; tiek dzerts spēka un nespēka dzēriens un saukti palīgā putni un zvēri. Gadi tur paiet kā viens acumirklis, un mūžs kā dvašas vilciens.</p>
+             <pb/>
+             <p>Pasakas ir dažādas un arvien tiek stāstitas brīnišķigakās. Līdz ziemas svētkiem ir izstāstitas jau visas par putniem un zvēriem un par kokiem un akmeņiem.</p>
+             <p>Tad nāk kārta trim brāļiem. Muļķitis ir jau simts reiz uzvarējis un atjautigi smīdinājis visus. Spoku stāsti ari ir galā jau un nu atliek vēl tikai par varoņiem, par milžiem un ķēniņa dēliem, kuri iziet bezgaligos ceļojumos.</p>
+             <p>Labākie stāstitaji ir kalpa zēns Valdis Vainots, kura visa būtne, liekas, pastāv tikai no pasakām, un Krauklis, liels zēns, melniem matiem un dziļām acim. Viņš dzīvojot tālu mežos, kur visas siekstas ir dzīvas, ik katrā purvā ir nogrimusi pils. Viņš zina visvairāk par putniem un zvēriem un par maldu gariem.</p>
+             <p>Stundām skan stāstitaja balss. Mēness jau pārrāpies pār skolas jumtu; istabā klusums paliek lielāks, dzirdama viegla un vienāda elpošana — miegs staigā apkārt un aizver ausis un acis.</p>
+             <p>Un mazā Valda dziestošā balss pārtrauc pasakas ritmu tai vietā, kur linsēklas izsētas zālē un tās līdz rītam jāizlasa.</p>
+             <p>„Vaj dzirdiet vēl!?" viņš sauc.</p>
+             <p>„Ja, ja ja," atbild balsis no dažādām pusēm.</p>
+             <p>Un pēc brīža atkal: „Vaj vēl klausaties?"</p>
+             <p>„Ja, es dzirdu!" sauc vēl viens vaj divi.</p>
+             <p>Un Vainots stāsta vēl pusstundu un tad iesaucās: „Vaj dzirdiet vēl?"</p>
+             <p>Bet atbildes nava. Klusums ir apņēmis visu. Nav neviena, kas atsauktos. Un tad paliek stāstijums uz rītu un Valdis aizmieg saritinājies zem segas. Un tikai sapņi tad staigā ap visiem guletajiem.</p>
+             <p>Rītā skan zvans — irst teiku pasaule, nāk diena ar parasto gaitu un neka pie viņas nava brīnumaina vairs.</p>
+             <pb/>
+             <p>Un vakarā tiek uzņemts nomestais pavediens un pasaka tinas tālāk kā zelta kamols.</p>
+             <p>Smailis ir vienmēr pēdējais, kas atsaucas naktī. Visa viņa sirds ir līdzi tiem jājējiem un varoņiem pasakā, un cik dažreiz viņam atmirdz sapnī dusošās karaļmeitas vaigs ar smaidu, un rītā viņš domā par to starp saviem uzdevumiem.</p>
+             <p>Teikas viņš nes uz mājam un stāsta mātei. Viņš ir redzējis lielu pasaku grāmatu skolotajā skapī un stāsta ari par to. Un tad — nejauši, uz ziemas svētkiem viņam māte dāvina lielo pasaku grāmatu.</p>
+             <p>Ši grāmata runā burvibas vārdus un Smailis ir viņas varā. Viņš noklīst no dzīves un maldas pa brīnumu ceļiem — viņš ir meklētājs un visiem svešs. Ši grāmata viņu ievelk zilgmotā mežā, kur mūžam saules meitas auž un dzeguzes kūko un cilvēka dvēseli satin kā viegli zīda pavedieni un sasien simts cilpās un tad nava atgriešanās pasaulē. Tādā mežā un tīklā ir tagad viņa dzīve.</p>
+             <p>Cik skaisti bija toreiz, kad viņš atrada savā grāmatā visskaistāko pasaku! Sirds to neaizmirst, to mirkli, kad viņš tika apburts.</p>
+             <p>Ir rāms pavasaŗa vakars. Saule laižas un zelts ir uz visām ūdens paltim nolijis no vakarblāzmas. Silts pūtiens ir gaisā un klusums. Melnā sila strīpa tur dienvidos uz leišu pusi ir kā apgulusi ilga. Kliedz skolnieki savās rotaļās skriedami, skanigas balsis tālu pār lauku dzirdamas. Uz ezera guļ ledus atliekas un mākoņtilts pelekidzeltens stiepjas tam pāri.</p>
+             <p>Smailis neskrien citiem līdzi. Viņš sēd klasē pie loga un lasa savā pasaku grāmatā un tad viņš atrod to stāstu. Sirds nodreb... Jaunākais dēls, meklēdams savu apsolito princesi, ir uz vanaga spārniem devies ceļā un jājis trīs gadus caur tumsibu un trīs gadus pār jūrām un tad viņš ir jājis caur uguni. Dubļos viņam vajadzigs apvārtities, lai nesadegtu un</p>
+             <pb/>
+             <p>tad tikai caurizjājis viņš ir atradis apburto meiteni, kā putnu peldam starp niedram ezerā.</p>
+             <p>Ja, caur uguni! To neviens nezina, to neviens vēl nava stāstijis, to viņš tagad visiem stāstīs.</p>
+             <p>Tad viņš aizloka lapu grāmatā un iet meklēt savus draugus, lai dalitos viņiem savā pasakā. Bet tie ir aizņemti, tie kliedz un skrien un viens grib pārspēt otru. Tikai viņš viens stāv ar savām domam, apspīdēts no vakarblāzmas un acis tam skatās uz mākoņtiltu pāri ezeram, liekas, vanags tur brāztos pāri ar jaunāko dēlu uz bezgaligi tālām zemēm meklēt apsolito ķēniņmeitu.</p>
+             <p>Vakarā, kad visi noliekas gulēt, Smailis stāsta savu pasaku. Bet viņu izsmej. Viņš jājis caur uguni! Tas nekad nevarot būt, tas esot izdomāts. Viņš esot melojis un viņa grāmatā esot blēņas. Un tad viņš klusē un domā pats savu teiku viens. Vainota nav skolā, bet otrā dienā Smailis to aizved nomaļus saulē pie skolas sienas un izlasa viņam pasaku.</p>
+             <p>„Tas var gan būt," saka Vainots un ilgi domā. Un Smailis tad runā par to jāšanu caur uguni un
+             skatās Valdim acīs.</p>
+             <p>„Vaj tu ar' jātu?" viņš prasa tam beidzot.</p>
+             <p>Valdis klusē un tad nolaiž acis.</p>
+             <p>„Ko tu domā?" prasa Smailis tālāk.</p>
+             <p>„Šo pavasar mans tēvs ies tālu prom un tad man ari jāiet; es te skolā vairs tad nenākšu."</p>
+             <p>Un viņš nosauc kādu nepazīstamu vietu. Tas laikam ir pavisam tālu leišos.</p>
+             <p>Abi draugi tad ilgi klusē. Par jāšanu caur uguni
+             nav vairs ne vārda.</p>
+             <p>Vainota vaigs ir noliesējis un pilns skumju. Svārki ir skrandaini, rokas vājas. Liekas, ka viņš bēdātos par kaut ko nesasniedzamu.</p>
+             <p>„Bet es jātu," saka Smailis un skatas pāri ezeram un melnajiem mežiem.</p>
+             <pb/>
+             <p>Zvana un viņiem jaiet klasē. Skarbi un patīkami skan zvans...</p>
+         </div>
+         <div type="chapter">
+             <head>VII</head>
+             <p>Toreiz viņš likās skarbs, tagad kā dziedoša teika. Ja reiz vēl tas skanētu un sauktu visus kopā — cik labprāt viņš aizietu un būtu pilns to brīnumu un
+             miera!</p>
+             <p>Atminoties zvanu, Smailis atminas ari vārdus, kuri tagad skan tāpat kā zvana aizmirstās skaņas. Starp daudziem ir viens, kas klusāks un saldāks par citiem. Tas ir tas vārds, kas visilgāk un mīļāk sauca tur tālā dunošā pilsētā: nāc, nāc, — es esmu vēl te!</p>
+             <p>Rūtiņa, Rūtiņa! atskan pie katras žvadzošas skolas zvana skaņas, kā smalki zūzoša sudrabota noskaņa.</p>
+             <p>Rūtiņa, Rūtiņa, — aizlokas vējš pa sudraboto vītolu zariem un, liekas, kāds viņam tuvojas klusiem soļiem, pelēkās, mīkstās drēbēs un liks vieglu roku uz pleca.</p>
+             <p>Smailis atskatas atpakaļ. Nava neka. Saules siltums tik guļ pār ceļu un ezeru; niedrajs lokas lēni tālumā, kā ko sveicinādams un tukšais lielceļš ved gar baznicu, kur tornī klusums atkārto: Rūtiņa, Rūtiņa...</p>
+             <p>Šalkas satveŗ gājeju un viņš drebošiem pirkstiem pašķiŗ jaunu lappusi savā grāmatā un grimst viņas
+             stāstā.</p>
+             <p>Jauni tēli izaug atmiņā. Tur ir tās mazās meitenes, ar kuŗām viņš vienā istabā tik ilgi kopā sēdejis un dzirdejis viņu smieklus un valodas, viņu atbildes un redzejis viņu kautros smaidus.</p>
+             <p>Tur bija mazas un bailigas, ar mazām peļastišu bizitem, vārgas, caurspīdigiem locekļiem gandrīz, un sīkiem, nosalušiem pirkstiņiem.</p>
+             <p>Tur vienai otrai aizveļas rokdarbu kamolitis pa grīdu un viņš to paceļ vaj izrauj no rokam trakuligiem zēniem un atdod atpakaļ.</p>
+             <pb/>
+             <p>Viņam tīk būt vienam šo kluso un vārgo meiteņu tuvumā. Viņš pats jūtas tām tuvs un saprotamāks un viņu reizam citi sauc par meiteni un smejas.</p>
+             <p>Lūk, mazā Ieviņa ar dzeltenām matu šķipsnam, zilām platām acim. Viņa vienmēr steidziga un paklausiga. Kā viņa sarkst izbijusies, kad jaatbild uzdevums, vaj padarits kas nepareizi. Viņa ir bagatu ļaužu meita, viņai kurpes čīkst pastāvigi un priekšautiņš ir rakstits ar dziesmu pantiem.</p>
+             <p>Un tad gleznā Marite — viņš neatmin vairs ģimenes vārdu. Viņa visa kluss smaids un paļāviba. Viņa nesmejas un nejoko, viņa ir lēna un gausa, kā
+             zeltains rīts.</p>
+             <p>Tad mazās māsiņas Anna un Rota no pusmuižas kalpu mājam. Viņas ēd no vienas maizes doniņas, kā zvirbuliši, pelekas un nemanamas. Bet acis dzirkst abām, kā vāveritem, un smieklā balti zobiņi redzami. Viņas guļ zem vienas segas un saltajos ziemas vakaros iet saķērušās uz māju pa dziļo sniegu trīcedamas un slēpdamās no ziemeļa. Bet katram braucējam vaj jājejam iz sniegkupenes skan smalks, skaidrs labdien! ausīs.</p>
+             <p>Viņas prot vest rotaļas un dzied gaišāk un skanigak par visām.</p>
+             <p>Un starp viņām ir Rūtiņa — Biruta Vilnis — tā stāveja ierakstits lielajā klases grāmatā. Viņai ir slimigi dziļas un lielas acis un svešadi bikli raugas visapkārt. Vaj viņa sapņo pastāvigi, ka ir tik klusa? Un tad nejauši iedegas un trokšņo un skrien vaj dzied savas dziesmas. Viņai cieši piegulošas drēbes un brūni tumši mati savēlušies, kā zēnam, starp lentam. Gaŗas rokas un lokanas un izstīdzejuši pirksti.</p>
+             <p>Dievs zin, kāpēc viņai tik daudz draudzeņu. Viņa laikam zina labus vārdus un var smaidit un mīlinat katru, kas nāk pie viņas.</p>
+             <p>Viņas mājas bija dienvidus puse aiz ezera līdzenajos </p>
+             <pb/>
+             <p>laukos un plašās pļavās. Ziemu ta nāca pāri ezeram, bet pavasarī un rudenī apkārt, daudz verstis lielā līkumā.</p>
+             <p>Vaj viņa negāja reiz Smailim blakus? Ja, daudzreiz viņi pa to pašu ceļu te gāja. Klusi un nerunaja neka, bet ceļš bija tik īss. Vaj viņa neiet tagad ari blakus? Ja, viņa vienmēr iet blakus ar vēja pūtienu, ar sila šalku un rudeņa lietus lāses pat vēl ir, kā viņas klusu aizejošie soļi. Un kad pavasarī no baltajiem vītoliem birst dzeltenie ziedu pūpoli — vienalga, kurā zemes malā tas būtu, tad tie kaisas priekš viņas soļiem, lai ta pāri varētu iet. Bet klusi nedzirdama viņa iet vienmēr ar savām mīkstajām, pelēkajām drēbēm un vieglām kājam...</p>
+             <p>Viņa bija visu pulkā un Smailis tās neredzeja. Tikai tad, kad viņš ar savu brīnumu pasaku klejoja — Dievs zina kur un kad ieraudzija biklās Rūtiņas acis. Tad viņš sāka just viņu, kā vēl ko citu ārpus sevis, kā otru pasauli, kura šūpojas līdzi viņa pasaulei, kā elpu, kas elpoja līdzi viņa elpai.</p>
+             <p>Tad viņš to redzēja neskatidamies un zinaja, kur viņa atrodas.</p>
+             <p>Ja, tas bija tas pats rāmais agrā pavasara vakars, kad spožums bija nolijis pār visām ūdens paltim un mākoņu tilts pār ezeru stiepās. Kad viņš pacēla acis no savas grāmatas un palūkojās klasē — Rūtiņa tur sēdeja viena vienigā un kā izbijusies nejauši pacēla acis uz viņu. Blāzmas norieta dzeltenums apspīdēja viņas seju un viņš tur redzēja to pasauli, kuŗa aiz uguns joslam un jūŗam un tumsas bija. Tas bija tas pats sejs, kas visus šos gadus ir viņam smaidijis un smaida tagad, kā vienmēr jauns un agrs pavasaris.</p>
+             <p>Rūtiņa, Rūtiņa ... skan skarbajā skolas zvanā un zvans paliek maigs, kā sanošs zelta bišu pulks pasakā.</p>
+             <p>Smailis apstājas lielceļa vidū un klausas, vaj tiešam neskanēs zvans un vaj nav jasteidzas? Viss ir kluss.</p>
+             <pb/>
+             <p>Nobriedusi vasara guļ zilā miglā un leišu meži slīkst dūmakos, tāpat kā toreiz ... Rūtiņa, Rūtiņa! atsauc no tālienes ...</p>
+             <p>Smailis iet atpakaļ uz skolas namu kalnā un apstājas gluži pretim lielajiem klases logiem. Bet nezvana. Viss ir kluss.</p>
+             <p>Un atgriezies Zvanitajos viņš uzkāpj pa trepem jumta istabiņā un skatās, kā diena grimst uz vakaru. Sirds ir tomēr atspirgusi, kā no sveicinājuma, un kad nāk nakts, viņš pašķir tālāk savu atrasto grāmatu un gaišs zaļums vizmo viņam pretim un pār lappusēm tek zelta raksts. Viņš var lasit cauru nakti bez uguns, jo raksts pats izstaro gaismu un viņa sejs atmirdz no balta neredzama spožuma.</p>
+         </div>
+         <div type="chapter">
+             <head>VIII</head>
+             <p>... Smailis kāpj pa lielajām izdilušām trepem uz klases istabu. Skola ir gandrīz klusa; visi zēni ir laukā un skrien rotaļās. Augstu tagad tur laižas gumijas bumbiņas un ātri steidzas skrējēji. Bet viņam ir kāda tāla neaptveŗama doma. Sirds ir baiga.</p>
+             <p>Viņš kāpj un skaita trepju pakāpienus. Tad drēbes iešvīkstas un soļi nāk pretim. Smailis paceļ acis. Ta ir Rūtiņa. Viņa paiet gaŗam un nokāpj viegli lejā. Viņš pamana tikai viņas seju un gaŗo, vājo bērna roku ar kaulainajiem pirkstiņiem. Ak! kāda plūsma noiet gaŗam. Viņš ir it kā atminejis sevi. Viņam tagad pietiek...</p>
+             <p>Rūtiņa — kaut kur saka kāds nedzirdami. Kāpēc Rūtiņa? viņam vienalga. Sirds ir tik laimiga un, liekas, sit ātrak.</p>
+             <p>Smailis ieiet klasē. Viegls klusums ir ap logiem un soliem un neviena, neviena vairak, tikai viņš. Bet gaisā un klusumā ir kas mīļš, kaut kas otrs. Viņam liekas, ka te kāds dvašotu. Vaj te nebija</p>
+             <pb/>
+             <p>Rūtiņa tikko? Liekas, viņas elpa stāvētu gaisā. Vaj viņa nupat nenāca te pa šo vietu? Vaj te nav vēl viņas soļi dzirdami? Nava, bet viņa ta bija, kas tur aizgāja. Viņa ir tepat tuvumā, lejā vaj pagalmā.</p>
+             <p>Vaj nedzird soļus?</p>
+             <p>Viņš izbīstas un atskatas. Rūtiņa — nošalc klusums.</p>
+             <p>Tad viņš apsēstas pie loga un skatās pāri ezeram, kā vakars nāk. Zēni skrien viens pēc otra, kliedz skaļās balsīs.</p>
+             <p>Pa trepem nāk meitenes un smejas. Tagad viņas ir klasē un Smailis sajūt, ka Rūtiņa ari ir tur.</p>
+             <p>Viņam gribetos paskatities viņas sejā, kuŗa ir tāda svešada, iedzeltena, tumša.</p>
+             <p>Viņš pagriež galvu. Rūtiņa skatās uz viņu — acumirklis tikai un tad viņas acis nava redzamas vairs, bet viņa runā un stāsta un vārdi ir skanigi, kā atsevišķi mazi pulksteniši. Viņš klausās vārdos un nedzird neviena, tikai skaņu viņš dzird.</p>
+             <p>Rūtiņa ir te, Rūtiņa — to viņš tikai dzird.</p>
+             <p>Nāk gaŗas saules spožas dienas. Cauri pavasara ūdeņu čalai skan vēl kas nedzirdets, katrā troksnī ir kas svešs; priecigās baiļu jūtas, kā kad viņš nupat kaut ko atradīs vaj pacels lielu mantu.</p>
+             <p>Brīnumi jaucas ar tiešamibu un viņš paliek vēl klusaks. Kad viss pulks trokšņo klasē vaj priekšnamā, Smailis aizmirstas un ir visiem līdzi. Bet viņa skats maldas šad un tad pa pulku un kaut ka meklē — ta ir Rūtiņa.</p>
+             <p>Kad vakaros viņš iet uz māju, viņa acs skatās pa lielceļu uz priekšu un atpakaļ. Un nejauši viņš pats sev saka: Vaj Rūtiņa jau priekšā?</p>
+             <p>Tad viņš velk Vainotu sev līdz un saka: iesim ātrak.</p>
+             <p>Un tikai tad, kad viņš ierauga sev tuvu priekšā Rūtiņas vieglos soļus un viņas brūno matu riņķus iz pelēkā lakatiņa apakšas, viņš iet lēni.</p>
+             <pb/>
+             <p>Pie tās vietas, kur ceļi šķiras, viņš gaida, vaj Rūtiņa neatskatisies. Un kad viņa atskatas, viņš iet tad viegli, kā kusdams, pret pakalniem, bet kad viņa neatskatas viņš gaida citas dienas.</p>
+             <p>Un kad Rūtiņa nav vēl iznākusi no skolas, viņš apsauc savus draugus: nesteidzaties, mums laika diezgan vēl!</p>
+             <p>No rītiem, kad no laukceļa viņš iznāk uz lielceļu un ierauga ezeru, viņš apstājas un skatās uz to pusi, kur viņai vajaga nākt.</p>
+             <p>Cīruļi dzied un smalka ledus plēnites lūzt zem kājām un kūst saulē. Diena būs silta. Un viņš iet uz skolu un domā par savām teikām un saviem draugiem un vēl par ko, kam nava ne vārda, ne laika, ne vietas.</p>
+             <p>Laimigs viņš ieiet vecajā klasē un nosēstas savā vietā. Acis viņam drīz redz: nava Rūtiņas. Tur viņas sēd visas gandrīz, sarunājas, priecājas vaj klusē, bet klase liekas patumša un Smailis domā, ka viņš kaut ko mājās aizmirsis. Viņam liekas auksti, kaut gan vaigi vēl sārto no agra pavasaŗa saules gaisa.</p>
+             <p>Viņam vajaga ārā. Viņš paklausās cīruļus un paiet pa pagalmu. Viņš ieiet guļamistabā. Tur ir viss vienmuļigi un drūmi.</p>
+             <p>Ķieģeļu klons skan salti viņam pāri ejot. Trepes ir tik tukšas. Viņam ir bailes mazliet. Laikam uzdevuma nezina. Ieiet atkal klasē, nosēstas un atšķiŗ grāmatu. Viņš lasa un neka nesaprot. Putniņš grib ar viņu runat, viņš saka ja un ne un klusē.</p>
+             <p>Drīz zvanīs uz stundam, bet Smailis ir drūms un sarāvies. Un tad priekšnamā viņš redz Rūtiņu, kuŗa smiedamās apsveicinas ar citām un ieiet guļamistabā
+             drēbes nolikt.</p>
+             <p>Smailis paskatas pa logu. Kas par brīnišķigu sauli šodien! Prieks sāk kūset krūtīs un gaiss pilns ar skaņam. Tīkams ir katrs troksnis, katrs vārds, kas</p>
+             <pb/>
+             <p>no tālienes nāk. Sāk zuzet kā viegli vēji; pilnigas gaviles kūsā iz sirds. Ne, viņam nevajaga Rūtiņas redzēt, viņam nevajaga dzirdēt, pietiek, ja viņš zina,
+             ka ta te.</p>
+             <p>Smailis zina, ka viņš redzēs atkal dziļās, tumšās acis, kurās tik daudz nezināmā un neatmanamā, kas viņam tikpat mīļš kā pavasaŗa vēji.</p>
+             <p>Brīvlaikā viņš sēd atkal ar savu pasaku grāmatu pie loga un meklē tur.</p>
+             <p>Rūtiņa ienāk un paskatas uz viņu. Smailis neredz neka, viņš redz tikai sev skatu, viņas vārgo un skaisto seju un pasaka viņam saplūst ar ikdienibu. Tikai kad viņas vairs nava, viņš atmostas un viegli un steidzigi sit sirds.</p>
+             <p>Viņš iet ārā uz lauku un piedalas pie spēlem. Viņš pārspēj visus un katram brīnums par to. Viņš lokans un vijigs — liekas, ka spēka atliktu vēl daudz, briestoša liela spēka, kuŗam krūtīs par šauru tiek.</p>
+             <p>Rūtiņas ari vairs nav — ir svešs un liels prieks, kuŗā viss ietverts.</p>
+             <p>Vakarā viņš stāv pie akas un smeļ ūdeni nolaizdams garo kārti ar spaini dziļi radžu grodos.</p>
+             <p>Visapkārt ir pulks meiteņu un katrai trauciņš: priekš rītdienas mazgašanās jasmeļ ūdens.</p>
+             <p>Un tuvu pie viņa ir gadijusies Rūtiņa. Viņas pelēko mīksto svārku vīles pieskaras Smaiļa apģērbam. Viņam aizmirstas spainis akā un viņš jūt viņas vieglo pieskāršanos. Viņa acis ir vērstas uz tās roku, kuŗā ūdeņa krūze.</p>
+             <p>Un tad pirmoreiz Smailis zina, ka viņa prieks un tas nezināmais ir tur, kur ši roka, kur šīs drēbes — ta ir Rūtiņa.</p>
+             <p>Viņš paceļ galvu un izvelk ūdeni. Un pirmais lejas Rūtiņas krūzē, kamēr ta iet pāri.</p>
+             <p>„Paldies!" viņa saka un klusi pasmaida un bailigi aiztek uz skolu.</p>
+             <p>„Paldies!" skan Smailim ausīs kā zvani... Kapēc</p>
+             <pb/>
+             <p>viņa tā smaidija tik savadi, kā neviens? Ne, viņš neviena cilvēka nebija redzejis smaidot. Rūtiņa bij pirmā.</p>
+             <p>Vaj viņa ta arvienu smaida, vaj tikai vienigi tad, kad viņš to redz?</p>
+             <p>Vakara aizmigdams viņš šūpojas neredzētos sapņos
+             un nedomatās domās.</p>
+             <p>Viņa galva bija tad karsta mazliet. Viņam likās, ka slimiba to pārņem un gribejās būt vēl slimakam, vēl klusakam.</p>
+             <p>Un viņš ir nomoda ilgi, ilgi vēl un dzird visus elpojot dziļā miegā.</p>
+             <p>Viņš atspiežas uz rokas un lūkojas pa logu naktī. Mēnesis ir jauns, kā asināts sirpis. Ārā ir pavasara nakts. Bet pār visu elpo kāda viegla dvaša, no kuŗas pilns viss tuvums un tālums.</p>
+             <p>Plaši viņa acis raugās uz visu un viņš nesaprot
+             neka. Viss ir brīnums ...</p>
+         </div>
+         <div type="chapter">
+             <head>IX</head>
+             <p>Kādas vieglas un steidzigas dienas tad rit viņa sapņos! Mazās meitenes pienes daudz puķu skolā: zilās un baltās un ziedošus pūpolus. Viss ir zilgans jau un ledus brīvs. Līst pavasaŗa lietus un zemes vēži dzied vakaros pļavās. Pēc lietus nāk gāju putni. Meža zosis laižas gaginadamas pāri ezeram no leišu mežiem, no dienvidiem un pazūd aiz kalna ziemeļu pusē. Kādā dienā pat gulbju pulks aizlaižas ar saliektiem kakliem. It kā visiem te būtu viens ceļš — pulkiem un pulkiem visi laižas pār ezeru un skolas pagalmu uz ziemeļiem.</p>
+             <p>Putnu klaigas un puķu krāsas ir kā spēcigs, reibinošs vilnis; Smailis iet kā noguris — no ka gan lai viņš citādi būtu apreibis?</p>
+             <p>Drīz būs skolas laikam beigas. Visi šķirsies un aizies pa lielceļiem, vēl tikai nedaudz dienas.</p>
+             <pb/>
+             <p>Meitenes ir atkal puķes atnesušas. Viņu ir tik
+             daudz.</p>
+             <p>Rūtiņa kārto tās, viņai pilns priekšauts. Zēni ir apkārt. Viņi grābj puķes un ķircinājās; viņi samin ziedus un grib atkal jaunus.</p>
+             <p>Smailis gribetu kaut ko teikt Rūtiņai, bet mēle viņam neklausa. Viņš redz tikai tās garos skropstus, kad ta paskatas viņam acīs. Viņa ir skumja un klusa.</p>
+             <p>Tikai aizejot viņai nokrīt balts zieds uz trepju kāpšliem, un viņa to neredz. Smailis pieliecas un paceļ to. Tad viņa atgriežas, paskatas, pasmaida un aiziet — ne vārda nerunajusi, neapstājusies.</p>
+             <p>Viņš stāv ilgi un tur ziedu pirkstos. Tas ir apvītis. Vaj tas nebija nupat Rūtiņai rokās? Vaj te pie mazā kātiņa nestāvēja viņas pirksti? Vaj tas neguleja viņai klēpī? Bet varbūt viņa nemaz nava ta redzejusi.</p>
+             <p>Un rūpigi viņš aizveŗ roku un kāpj pa trepem augšā klasē. Viņam ir it kā rokā kas kvēlotu, kas dzīvotu. Sirds sit it kā viņš būtu skrējis un piekusis, bet viņš iet tik lēnam.</p>
+             <p>Zieds ir nolikts uz pasaku grāmatas un ilgi Smailis skatas viņā. Rūtiņa! — kāds saka viņam tuvu pie auss un Smailis satrūkstas un atskatas — nav neviena. Bet tumšs sārtums saplūst vaigos un viņš aizveŗ grāmatu ar visu ziedu un noliek to dziļi starp citām.</p>
+             <p>Saule krīt tik balti caur lielajiem logu spraišļiem un ir silta.</p>
+             <p>Bezgaligās gavilēs dzirdamas balsis no pagalma. Ir it kā visas sienas gaviletu un caurskanetu.</p>
+             <p>Kad zeltotos vakaros Smailis neiet uz māju, viņš sēd viens pie savām teikam. Ak, visi viņam ir neuzticīgi palikuši! Putniņš vienmēr ir pirmais ārā un vada spēles.</p>
+             <p>Un Vainots skrien līdzi; vēl viņam ir brīviba; drīz</p>
+             <pb/>
+             <p>tas būs cita kalps. Viņš smejas tik priecigi un ir dzīvs un laimes pilns.</p>
+             <p>Grauds stāv acim mirkšķinādams un skatās kūtri rotaļā un kliedz, kad strīds sākas. Un Vanags pārnāk noguris un neaiztiek neviena.</p>
+             <p>„Smailim ir pasakas," saka Ieviņa, rādidama, citām; „palasisim mēs ari". Un viņa koķeti pasmaida un pakrata savus dzeltenos matus.</p>
+             <p>„Ja, pasakas, pasakas," mazā Rota paceļ actiņas un skatās uz Smaili. „Smaili, dod mums pasakas," viņa saka un nokaunas mazliet.</p>
+             <p>Smailis paceļ galvu. Viņš skatās uz Rūtiņu, bet ta klusē. Un tad viņa paceļ acis un redz, ka Smailis ņem grāmatu un sniedz viņai.</p>
+             <p>„Ņem, Rūtiņ," saka Ieviņa, un Rūtiņa pienāk un
+             paņem...</p>
+             <p>Ta bija Rūtiņas roka, kas paņēma grāmatu. Viņa stāvēja te nupat. Vaj te nebija viņas kurpe nupat pie ši galda? Vaj viņai nebija smalkas matu šķipsnas pār vaigu nokārušās? Kāda viņa gan izskatijās?</p>
+             <p>Bet Rūtiņa ir aizgājusi jau, kad Smailis paceļ acis. Viņa grāmata tiek lasita pulkā citur un klasē nav
+             neviena vairs.</p>
+             <p>Tagad viņa atradīs ta mīļāko un skaistāko pasaku, kur jaunākais dēls jājis caur uguns jūru. Viņa lasīs to pašu vietu ... Bet vaj atradīs? Ja, tur bija viņa zieds, to viņa atradīs.</p>
+             <p>Sārtums sakāpj sejā viņam ... To ziedu vajadzēja viņam izņemt no grāmatas. Vaj Rūtiņa zinās, kam tas likts un kāpēc. Kapēc? Viņš pats ari nezina...</p>
+             <p>Un viņš iet ārā un skatas pār ezeru uz leišu zilganiem siliem. Tur varbūt ir tās jūŗas trīs gadus ko skriet un tad nakts trīs gadus, un tad uguns. Un Smailim jau liekas, ka vanags sit spārnus. Tur tālu ir ta apsolitā ķēniņa meita. Vaj ta nav tāda kā Rūtiņa? Bet kāda tad ir Rūtiņa?</p>
+             <p>Bet vakarā, kad viņš to satiek uz trepēm, viņa paskatās </p>
+             <pb/>
+             <p>tam acis un smaida, kā sen pazīstamam, kā māsa. Bet māsa viņam nesmaida — viņam nav māsas.</p>
+             <p>Rūtiņa, Rūtiņa... kaut kur zvana. Ta bija Rūtiņa, kas tikko smaidija. Ja, neviens cits tak nesmaida viņam, tikai Rūtiņa.</p>
+             <p>Viņa iet tik klusi, viņai ir tik viegli soļi un daudzreiz Smailim liekas, ka viņa ietu garam, kaut gan nava neka.</p>
+             <p>Nakts atkal ir savadi nemieriga un viņa sirds ātraka. Ārā līst pavasaŗa lietus.</p>
+             <p>Kad otrā dienā Rūtiņa Smailim atdod grāmatu, viņš atšķiŗ pasaku — viņa zieda tur vairs nav. Visā grāmatā ta nav ...
+             — — — — — — — — — — — —</p>
+             <p>Smailis aizsit uz mirkli savu atmiņu grāmatu. Viņš nava vairs tas mazais zēns. Bet pasaku grāmata viņam vēl dzīva, tikai zieda nav. Vaj viņš te nenāca viņa meklet pēc tik daudz gadiem? Vaj viņš te nav nokritis ceļmalā? Un vaj viņš pavisam kādreiz ir bijis?</p>
+             <p>Liekas, ka tas degtu viņa pirkstos kā balta uguns ogle. Smailis skatas tumsā uz saviem pirkstiem, bet tur nav neka.</p>
+             <p>Ak ja — tas tak bija viņa atmiņu grāmatā tikai. Pusnomodā viņš šķirsta tās lapas, kā nezinādams vairs, kur tai sākums, kur gals...</p>
+         </div>
+         <div type="chapter">
+             <head>II</head>
+             <p>Kur lielceļi šķiŗas — viens uz kalnu, otrs gar ezermalu lejup — piekalnitē aug kupla sērmukša. Krūmmalā ir liels apsūnojis akmenis un Smailis Zimza sēd uz akmeņa un lasa savā atrastajā grāmatā. Mazas, sadzeltējušas lappusites, bet zeltains raksts tek uz zemes pamata baltā saules mirdzā.</p>
+             <p>Dzirnavas te var dzirdet. Tas klusi klabina. Ezers mirdz dienvidus saulē, ka acim gŗūti skatities. No</p>
+             <pb/>
+             <p>sērmukšas krīt dažas sarkanas ogas, kā mazi asins pilieni.</p>
+             <p>Atkal ir tas pats senais laiks ... </p>
+             <p>... Skolas laikam ir beigas. Zvans nesauks vairs mazos no pagalma uz melnajiem soliem.</p>
+             <p>Liecibas ir jau uzrakstitas; rītu tās dabūs visi. Meitenes ir bijušas mežā pēc meža mētrām un brūklenājiem. Vaiņagi savīti un viss tiek greznots par godu pēdējai dienai. Mazas rožaina un dzeltena papira puķites ir ievītas vaiņagos. Tās taisija mazie pirksti visiem par prieku. Pavasara puķu vaiņadziņi tiks vīti pēdējie, lai nesavīst tik drīz.</p>
+             <p>Pēdējā dienā Smailis iet agri pa saules apspīdeto lielceļu uz skolu. Mazs nemiers viņu dzen — Rūtiņa vairs nestaigās te pa tiem ceļiem.</p>
+             <p>Kad viņš ir pie krustceļiem, taisni tai vietā, kur tagad, viņš dzird gaišas, priecigas balsis un viņu satveŗ liela prieka sajūta. Viņš atskatās. Rūtiņa nāk ar savām draudzenem un tām ir vaiņagi uz rokam.</p>
+             <p>Viņš iet lēnam un viņas to panāk. Vajadzētu atskatities, bet mīļa baisma to liedz. Viņš dzird tikai soļus un valodu — viena skaņa tik pazīstama un patīkama ... Tad visas to panāk un dod viņam brūklenāju vītnes nest. Smailis apstājas, samulst un viņa roka saņem Rūtiņas vaiņagus, bez ka ta teiktu kādu
+             vārdu.</p>
+             <p>Viņa bikli paskatas Smailim acīs un palaiž savas vītnes. Smailis ņem uz rokas tās un jūt siltumu tai vietā, kur viņas elkonis bijis. Viņi iet abi blakus un nevar runāt ne skaņas.</p>
+             <p>Ta ir Rūtiņa, Rūtiņa, kas te tagad iet — sirds silti stāsta. Viņa ir notvīkusi un acīs prieks bija manams. Kādas tak bija viņai acis? Vaj nepaskatities?</p>
+             <p>Ne, viņš to nedrīkst! Bailes un kauns to neļauj. Zēni iznāk ārā viņiem pretim. Smailis tiek smiets. Meitene nākot ar vaiņagiem! Pagalmā Vanags saķeŗ</p>
+             <pb/>
+             <p>aiz viņa vītnēm un pārrauj tās pušu. Daži kliedz un smejas.</p>
+             <p>Smailis paskatās uz drukno zēnu. Dievs zin, kas bija viņa skatā, bet Vanags atraujas, samulst un nolien pie malas.</p>
+             <p>Rūtiņa ir skumja un bailiga. Acis izbijušās, kā vajāti putnēni. Bet Smailis salasa sarautos gabalus un
+             ienes klasē.</p>
+             <p>„Es viņus sasiešu," viņš saka Rūtiņai, un viņa paliek drošaka. Viņa tecina dzeltenu dzīparu no kamoliša un sien vijumus kopā. Viņas pirksti dreb. Smailis ir kā sastindzis, viņš tikko elpo. Viņam vajadzētu paskatities, pacelt acis, bet viņš to nevar. Rūtiņas pirksti pieduŗas pie viņa rokas. Tie nava cietāki kā zilo puķu ziedi. Tādas ir ezera zāles, ko ūdens loka — Smailis domā. Un atminas Jasmina zīžotos matus.</p>
+             <p>Un tad nejauši viņš skatās ilgi Rūtiņas matos un neredz neka cita. Viņš nejūt ne ziedu, ne vaiņagu, ne sevis, ne citu.</p>
+             <p>Viņš atmostas, kad Rūtiņa saka paldies un ir aizgājusi. Klase ir atkal skaniga un tukša.</p>
+             <p>Kad sākas greznošana, Smailis pakāpj pa trepitem vaj soļiem un uzliek vaiņagus. Meitenes sniedz viņam tos un Rūtiņa saka, tur vai citur likt.</p>
+             <p>Ne, viņš nekārtu neviena zaļuma pār logiem un durvim, ja Rūtiņa te nebūtu. Viņš jūt to aiz muguras neskatīdamies; viņš jūt to citā istabā; viņš dzird, ka viņa runā, bet ne vārdus, tikai skaņas, tikai melodiju ...</p>
+             <p>Lūgšana ir nodziedata un liecibas izdotas. Viss sajūk lielā virpulī. Pagalms ir pilns ar zirgiem un ratiem, daudz svešu cilveku; tiek nestas kastes un grāmatas; tiek gultas grūstitas.</p>
+             <p>Putniņš stāv pie savas mātes un ir priecigs kā cīrulitis; viņam ir apsolita nākotne; viņam ir vislabākā
+             lieciba.</p>
+             <p>Smailis atvadas no daudziem. Bet viņš vel staigā</p>
+             <pb/>
+             <p>pa pustukšām istabam, ka kas būtu aizmirsies un nevar un nevar atrast. Viņš klausās meiteņu balsīs un nesadzird neka.</p>
+             <p>Ārā viņu gaida Vainots ar savu mazo maizes kuliti pār pleciem un saburzito liecibu rokā. Viņiem jaiet reizā. Un Smaiļa mīkla paliek neuzmineta. Viņš iziet un iet citiem līdzi. Visi ir priecigi un skaļi sarunajas. Acis smaida, krūtis elpo kā raisitas, — Smailim liekas, ka viņš būtu ko aizmirsis. Viņam gribas jau teikt citiem, ka ir aizmirsis un iet atpakaļ, bet viņš nezina, kas aizmirsies un paliek.</p>
+             <p>Kur ceļi šķiras pie lielās sērmukšas, visi no viņa atvadas un viņš paliek viens. Un tad, kad sarkanā skolas ēka atmirdz no kalna, viņam ienāk prātā kāds savads un viegls vārds — Rūtiņa.</p>
+             <p>Rūtiņa — ta vēl ir tur skolā! Sirds paliek mierigaka. Saule mirdz, ezers zvīļo, dzied cīruļi — ja, bet viņa te nenāks gaŗam. Un Smailim tad nava nekur jāsteidzas, viņš apsēstas uz akmeņa, noliek grāmatas sev blakus un klausās, kā kad zilās debesīs būtu kas dzirdams.</p>
+             <p>Ilgi viņš sēd un skatas, kā pulciņš pēc pulciņa aiziet bērni pa visiem ceļiem, — viņam te viss ir pārredzams. Viņš sajūt, ka ir viens te. Bet vaj tad ka žēl būtu — ne, neviena sevišķi.</p>
+             <p>Tad rit viegli rati viņam gaŗam. Viņš satrūkstas un vaigos kaut kas silts jūtams — Rūtiņa sēd ratos. Viņu ved tēvs — drūms, pasirms un liekas ļauns.</p>
+             <p>Bet Rūtiņa sēd skumji un acis nepaceļ. Viņa varētu to saredzēt, ja paskatitos. Vaj viņa atskatisies, vaj atskatisies?</p>
+             <p>Rati jau ir gaŗam — Rūtiņa neatskatas vairs ... Un tad paliek viss tik kluss un tukšs un baigs. Smailim liekas, ka pūš ziemeļa vējš. Viņš paceļas, paņem savas grāmatas un kāpj kalnā uz mājam.</p>
+             <p>Viņam liekas, ka tas neiet uz mājam, bet uz citu nezinamu malu...</p>
+             <pb/>
+             <p>— — — — — — — — — — — —</p>
+             <p>Te senejā grāmatiņā ir rožainas vietas zem zeltota raksta. Vaj tās nebija agrās, mazās sirds skumjas?</p>
+         </div>
+         <div type="chapter">
+             <head>XI</head>
+             <p>Kas to lai zin, kas tie bija par sapņiem toreiz! Vaj viņš ari tiešam ko sapņoja? Vaj varbūt tās bija tikai tādas plaukšanas sāpes, kā pumpuram, kad saule to sasilda. Viņš ir slims, viņš aug un briest un sāpes jūt — viņam vajaga atsvabinaties! Bet viņš nevar; viņam jagaida, kamēr kāds to raisīs.</p>
+             <p>Saules pirksti tikai to prot.</p>
+             <p>Viņš staigā pa Zvanitaju birzem un klausas kā dzied zemes vēži. Ievas ir pumpuros un zēnam bija toreiz, kā kad tas nupat tikai saprastu, kā ievas var ziedet...</p>
+             <p>Kad Jurģu diena paiet, sākas vasaras skola. Smailim ir četrpadsmitais gads. Tēvs domā, ka viņam jāiet uz lauka darbus mācities. Māte grib, lai viņš ietu skolā.</p>
+             <p>Skolā... Smailis dzird pie loga stāvēdams. Varbūt! .. Pēkšņi viņam sadreb kas krūtīs un viņš aiztur elpu un klausās.</p>
+             <p>Ilgi runā divas balsis, kamēr satumst — kur būs viņa liktenis?!</p>
+             <p>Otrā rītā māte viņam saka:
+             „ ... Un tad tu varēsi iet vasaras skolā, ja tu tā gribi." Viņš piespiežas ar vaigu pie mīļās rokas un skūpsta to.</p>
+             <p>Tur, tur... Varbūt... sirds viņam zvana, un pirmais vārds, kas nāk prātā, ir Rūtiņa. Bet atkal viss sajūk neparastā gaviļu straumē.</p>
+             <p>Viņš iet atkal pa parasto teku gar birzi uz lielceļu un gar kalna malu uz skolu. Priecigi mirdz sarkanie ķieģeļi un lielie logi.</p>
+             <p>Sākas vasaras mācibas.</p>
+             <p>Tur nava daudz to laimigo, bet viņš ir starp tiem.</p>
+             <pb/>
+             <p>Putniņš ir jau priekšā — viņa melnās acis spīd no prieka un viss stāvs tik lokans. Viņš vienmēr skatās grāmatās, it kā ilgodamies pēc tām.</p>
+             <p>Ir ari Grauds — tas kožļā kādu gardumu un truli raugas, kā bezdeligas pie jumta zimses nes vielu perekļiem.</p>
+             <p>Ir vēl daži mazi zēni un visu vajātājs un dresētajs — Vanags. Bet tagad tas laimigi sniedz Smailim roku un uzskata to kā sev līdzigu.</p>
+             <p>Pavisam ir desmit vaj divpadsmit zēni un trīs meitenes. Klusā Marite, kā zeltains rīts ir smaidiga un lēna. Viņas mati gludi sasukāti un balta lenta bizitē. Matu krāšņums viņai ir kā jaunavai. Pirkstiņi kust pie baltā rokdarba.</p>
+             <p>Pie viņas sēd vēl divas mazas meitenes, bet vairak
+             nava...</p>
+             <p>Smailis iziet pagalmā un pastaigājas līdz akai. Viņš skatas ilgi dziļajā atspīdumā un tad uz mākoņiem. Mākoņi jau metas balti un apaļi ar spodrām sudraba malam. Ezers ir pavisam zils un vītolos dzelteni ziedi un mazas zaļganbaltas lapas. Dzīviba kūsā no malu malam; miglas plīvuŗi staipas pa dienvidiem un zem tiem plaša, tāla zeme.</p>
+             <p>Un nāk prātā jājejs pasakā uz vanaga. Viņam vajaga sasniegt to ezeru, kurā peld apsolitā karaļmeita kā balts putns.</p>
+             <p>Un tad diezin kāpēc Smaiļa seja paliek klusa un domiga. Ka viņam žēl, ko viņš aizmirsis? Pār sauli pārvelkas pelēks mākonis; pasaka aizmirsta un acu priekšā skolas nams. Logi liekas akli un sienas saltas...</p>
+             <p>Viņš iet klasē. Skolas galdi ir izvilkti blakus istabā; ir tikai divi zēniem, viens meitenem. Klase skan tukša...</p>
+             <p>Ienāk skolotajs. Sākas stunda. Smailis neka nedzird. Viņš pietrūkstas, kad to sauc, un nosarkst. Ko viņš gan bija domajis? Viņam bija, kā kad kāds nupat</p>
+             <pb/>
+             <p>klusi būtu pagājis gaŗam un kāds teiktu ausīs: Rūtiņa ...</p>
+             <p>Ja, tagad Smailis zina: Rūtiņas nava skolā. Ta bija Rūtiņa, par ko viņš bija domajis.</p>
+             <p>Vakaros viņš nu ikdienas iet uz mājam. Vakari ir gaŗi un silti, un augšas istabiņā viņam tik klusi,
+             tīkami ir mācities.</p>
+             <p>Bet viņš iet ilgi to nelielo attālumu. Viņš domā par daudzām brīnišķigām lietam; apstājas un klausas. Viņš paliek ilgi pie sērmukšas uz akmeņa apsēdies un domā par to, ka Rūtiņa neatskatijās... Viņš raugās pāri ezeram. Dienvidus vakaros saule mirdz uz ūdeņa un viņš neka nevar saredzēt. Tad viņš
+             uztrūkstas un iet tālak.</p>
+             <p>Nedeļa jau ir pagājusi, viņš ir pieradis pie savām domam: Rūtiņas nava.</p>
+             <p>Pirmdienā viņš iet atkal uz skolu. Vītoliem sāk ziedi apbirt, viss lielceļš ir dzeltenraibs.</p>
+             <p>Viņš ieiet klasē. Rūtiņa sēd savā solā... Smailis pagurst. Viņš apstājas un asinis ar šalti sit vaigos. Griesti paceļas, liekas, un logi atveras. Notiek pilniga pārvēršanās. Viņš cīnās un atvelk elpu vienreiz, otrreiz, arvien dziļak un tad viegli kā straume brāžas viņam gaŗam un aiznes to.</p>
+             <p>Viņš stāv kā piekalts. Tad noliek žigli savas grāmatas un noliecas pār galdu zemu, lai neviens viņa sejas neredzetu. Tad viņš, kā negribedams, pret paša spēku, paceļ acis un skatas uz Rūtiņas seju. Viņš skatas ilgi — apkārtnes nava vairs, ir tikai kāds sejs, kādas acis. Viņš neredz, ka Rūtiņa pasmaida, ka pieceļas un aiziet un viņš ir atkal viens.</p>
+             <p>Tad atmodies viņš dodas ārā. Debess plašums ir izplests neredzēti augstu. Gaiss skan kā zvanu pilns. Un akas vindas galā ir bezdeliga nometusies un dzied vidžu, vidžu ... Ai, bezdeliga! Smailis nebija vēl redzējis nevienas bezdeligas šopavasar!</p>
+             <p>Aiz pagalma laukmalā spēlējas daži zēni; Smailis</p>
+             <pb/>
+             <p>aizskrien pie tiem. Dzeltenas pienenes aug visapkārt, cīruļi simtiem lirina augstumos. Kāds pavasaris! Birzē dzeguze atsaucas. Ezers kūp ...</p>
+             <p>Smailis pieteicas pulkā. Viņš trokšņo, smejas un ir tik izveicigs. Un tad pēkšņi apstājas, skatas uz ezeru un paliek kā sastindzis. Viņš ir paspēlējis; viņš ir kaut ko nevajadzigu domājis. Ja, labprāt viņš nes uzvaretā lomu — domas ir bijušas tik labas.</p>
+             <p>Klasē viņš neskatas ne pa labi, ne pa kreisi. Viņš kaut ko zina un ir apmierinats. Visa uzmaniba ir piegriezta skolotajam. Viņš atbild labak kā Putniņš; viņš tagad grib būt pāraks par citiem, viņam ir jabūt
+             tādam.</p>
+             <p>Klases gaiss ir pieelpots no kāda liela prieka. Smailis dvašo un aizveŗ acis klusi. Te, te kaut kur tuvumā, tepat ir pavasaris, tepat ir mājas, — ārā nava tagad neka.</p>
+             <p>Kad pēdejā stunda priekš pusdienas ir beigta, Smailis paskatas uz Rūtiņu. Tad viņš ierauga tikai, ka viņai ir baltas drēbes, gluži balts vasaras uzvalks un viņa izskatas lielaka un priecigaka.</p>
+             <p>Viņš iziet no klases klausidamies kādā pazīstamā vārdā. Un domas viņam šūpojas tik viegli svešas apkārt un nes visu kā šalkdama straume.</p>
+             <p>Aiziedams vakaros uz māju un rītos nākdams, viņš jūt vieglus soļus un baltas drēbes sev līdzās.</p>
+         </div>
+         <div type="chapter">
+             <head>XII</head>
+             <p>Dienas aiziet šūpodamās vieglas un nesamanamas. Dažas reizes Smailim ir ceļa biedrs — ta ir Rūtiņa. Viņi iet kopā līdz krustceļiem. Viņi iet klusi un bikli, tikai rets vārds tiek runats.</p>
+             <p>... Ir vēls un spožs pēcpusdienas laiks. Negaiss tikko ir pārgājis un Smailis stāv ar grāmatām padusē skolas pagalmā. Viņa vaigā atmirdz saules dzeltenais spožums un ūdeņu atspulga no pielijušām paltim.</p>
+             <pb/>
+             <p>Kad viņš grib iet, dzirdami soļi aiz viņa un kads sauc: „Pagaid, Smaili, iesim reizā!"</p>
+             <p>Smailis atskatas. Ta ir Rūtiņa, gatava uz iešanu. Smailis pielīst ar klusu reibumu; prieks un bailes viņu apņem — Rūtiņa sauca viņa vārdu!</p>
+             <p>Un viņi iet reizā. Lielceļš ir starpā, katris iet savā malā.</p>
+             <p>„Man bailes no negaisa," saka Rūtiņa un paskatas viņam acīs. Smailis redz dziļas biklas acu raudiņas un matu šķipsnas pār pieri:</p>
+             <p>„Vaj tev tālu jaiet?"</p>
+             <p>„Aiz ezera, vēl tālu," viņa saka un apstājas. Viņa skatas pāri kūpošai ezera virspusei un izstiepj roku.</p>
+             <p>„Skaties tur, taisni pretim līdzenuma malā. Trīs mājas un par vidu ta mana." Viņa paceļas uz pirkstugaliem un rāda tālumā.</p>
+             <p>Smailis tagad stāv viņai blakus un skatās uz vakara pusi.</p>
+             <p>„Vaj tu redzi?" pasmaida Rūtiņa, pieturēdama savu lakatiņu uz galvas.</p>
+             <p>„Ja, es redzu." Bet saule atviz uz ezera ūdeņa viņam acīs un viņš neka nevar samanit.</p>
+             <p>„Tur ir balts skurstenis, skaties! Un salmu jumts mājai."</p>
+             <p>Viņa stāv kā aizmirsusies un liekas skumja.</p>
+             <p>Tad viņi iet tālāk. Viņa pietura savu gaišo svārku malu, lai nesamirkst: soļi ir nedzirdami uz valgās, pielijušās zemes.</p>
+             <p>„Es domaju, ka tu nenāksi pa vasaru skolā," saka Smailis. Viņam gribas izteikt kaut ko labu, mierinošu.</p>
+             <p>„Pirmajā nedeļā tevis nebija..." un tad viņš samulst un sārtums apklāj seju. Ko gan viņš ir izteicis?</p>
+             <p>„Ja, es lūdzos... Man mājās ir tik bēdigi. Es esmu viena vien. Māsiņa nomira. Skolā man ir labak. Un tev?"</p>
+             <p>„Es mājās lasu pasakas. Es lasu ari naktī. Uzdevumi ir tik viegli. Un man nava daudz ko mācities."</p>
+             <pb/>
+             <p>„Man nava pasaku, man nava nevienas grāmatas vairāk, kā tikai priekš skolas. Tev tad ir labi."</p>
+             <p>Un tad Smailis sāk stāstit. Rūtiņa paskatas uz viņu reizam un acis tai tiek dziļakas un domigakas.</p>
+             <p>„Tur ir brīnišķigas teikas. Es naktis neguļu un domaju reizam par to. Kapēc tad nava tagad neviena vairs, kas caur uguni jātu, kā senos laikos?"</p>
+             <p>„Caur uguni?" Rūtiņa brīnas un apstājas. Viņas acis ir cieši pret Smaiļa seju.</p>
+             <p>„Ja, caur uguni! Vaj tu nezini to teiku? Vaj tu neatradi?"</p>
+             <p>Viņa nava atradusi; viņa nezina. Un Smailis sāk stāstit. Rūtiņa elpo dziļi kā aizgūdamās. Viņa skatas Smaiļa sejā un brīnumi to apņem.</p>
+             <p>Bet tad viņi ir pienākuši, kur ceļi šķiŗas un Smailis apstājas. Viņš nava vēl ne labi iesācis stāstit. Bet grāmata tak viņam ir līdz. Viņš lapo un meklē un atšķiŗ zinamo vietu.</p>
+             <p>„Un tad?" prasa Rūtiņa. „Un tālak?"</p>
+             <p>Lietus lāses vel pil no sermukšas un saule tik spoži dedzina viņās kā mazas uguntiņas.</p>
+             <p>„Pagaidi, es izlasišu," viņš saka un stāv pie akmeņa.</p>
+             <p>Rūtiņa ir tuvu klāt un plaši skatas viņa sejā. Viņas nāsis cilājas no elpas un vaigos ir sārtums no iešanas un pavasara gaisa.</p>
+             <p>Smailis sēd jau uz sūnota akmeņa, muguru pret sauli pagriezis. Grāmata ir ēnā. Un tad Rūtiņa nosēstas viņam blakus viegli un nemanot. Saule spīd viņai sejā un lakatiņš ir atslīdējis uz pakauša. Pār vaigu stiepjas brūnas, spīdošas stīdziņas no viņas matiem. Viņa klausas, viņai zūd apkārtne, viņai viss ir kā sapnis. Cauri ugunij! Viņš, tas jaunakais dēls, ir apvārtijies dubļos, lai nesadegtu. Un kad viņš ir cauri, vanags nolaižas uz ezera krasta, kur peld apsolitā ķēniņmeita kā balts putns starp ūdens zālem. Tad jaunākais dēls saka zināmus burvju vārdus un</p>
+             <pb/>
+             <p>viņa to pazīst; viņa pārvēršas par cilveku un tad sākas bēgšana ...</p>
+             <p>Rūtiņa ir ka pamirusi. Viņas lūpas pavērtas, sārtas; viņa elpo caur muti...</p>
+             <p>Klusums ir gaisā, ka kad lūgšana tiktu skaitita visā zemē. Mākoņi ar negaisu ir aizgājuši uz rīta pusi un paliek arvien spožāki. Iz zemes kūp siltums viegliem tvaikiem. Zilgme kā atjaunota veŗ pāri viņiem savu bezgaligo dziļumu... Tikai dzirnavas klabina klusi un vienmuļigi, kā iemigdamas. Kā atlaista liela līksts slaidā līkumā guļ melnie leišu meži, tikko saredzami. Tumši zilas naktenes zied ap viņu kājām un no sērmukšas rit pa pilei lietus lāses, kā dzintara spožas pērslas ...</p>
+             <p>Smailis ir beidzis un aizveŗ grāmatu. Klusums pārvelkas pār abiem, kā liels smags zīdauts.</p>
+             <p>Rūtiņas ceļi ir piespiedušies nemanot pie Smaiļa kājām. Viņš jūt vieglu siltumu no viņas vijigās miesas. Viņš paceļ acis. Sejā vēl mirdz sajūsma no brīnumainā stāsta. Un pretim viņa skatam saules mirdzumā ir Rūtiņas vaigs un acis tai negrozami kavejas pie viņa lūpam, it kā klausidamās un gaididamas.</p>
+             <p>Tad viņa atjēdzās.</p>
+             <p>„Ja, ta ir skaista teika. Tas ir brīnišķigi," viņa saka. Cauri ugunij viņš ir jājis.</p>
+             <p>Un tad viņa grib redzet grāmatā to vietu. Smailis atšķir, noliecas tuvak. Un Rūtiņas galva ir gluži klāt viņa sejai. Viņas dvaša ir tik silta un aizplūst gar zēna lūpam un acim. Melnie skropsti nolaisti — viņa
+             lasa...</p>
+             <p>„Ja, tas ir brinišķigi," viņa saka un atlaižas no grāmatas.</p>
+             <p>Un Smailis liek grāmatu viņai rokās, tik viegli un ar tādu paļaušanos, kā kad tas atdotu savu dārgumu, savus sapņus, savas naktis un dienas, un viņa to saņem ar saviem smalkajiem pirkstiem un nezina, ko darit
+             ar to.</p>
+             <pb/>
+             <p>„Ņem... Tu viņu vari nest uz mājam," viņš saka drebēdams mazliet un skatas zālē, kuŗa vēl pilna rasas. Viņu spiež kāda smaga un tīkama nasta un viņš ir mazs zem tās palicis. Viņa sejs vēl ir silts no Rūtiņas dvašas... Viņš skatas, ka viņas pirksti maldas ap grāmatu, kā mekledami.</p>
+             <p>Kādi viņai ir pirksti un kāda roka! Ta ir mazliet brūna no pavasara vēja un gara; cieti ieslēgta gaišajā piedurknē. Kādas gan viņai bija acis? Vaj nepaskatīties? Ne, tumšas bailes un prieks to sasien; viņš nevar pacelt acu ...</p>
+             <p>Viņš skatās uz zemi, kur viņas kurpes ir starp ziediem un asniem. Vaj viņa ceļgals nav sasilis no viņas tuvuma. Lūk, tepat ir drēbes vīle vaj ta nepieskārsies vēl?..</p>
+             <p>Dziļš klusums ir visapkārt. Iz augstumiem tikai cīruļi trilina. Viņš sapinas bezgala domās un sapņos...</p>
+             <p>Vit, vit, vuit! bezdeligas aizšaujas viņiem gar galvu un Smailis paskatās uz Rūtiņu. Viņa smaida tam pretim ar dziļām tumšām acim. Tad viegli sāk sārtoties viņas vaigi; tikko manāma rožaina tvīksme plešas un izdziest. Viņa nolaiž melnos skropstus un paceļas.</p>
+             <p>„Es iešu," klusi saka kaut kur un Smailis redz, ka viņa, saules apspīdēta, sniedz viņam roku. Viņa grib ardievas teikt, bet viņa sniedz tikai roku.</p>
+             <p>Viņa sejā jūtams maigums, kā no viegla ziedu pulka, kuru tas satvēris. Viņš sajūt siltu, lēnu un bailigu trīcejienu — acis viņš atkal vairs nedrīkst pacelt.</p>
+             <p>Vēsma pārskrien par sermukšu, birst saulē degdamas ūdens lāses ...</p>
+             <p>Kad Smailis paceļas, viņš ir viens.</p>
+             <p>Tikai degdamas nokrīt agra pavasara lietus lāses.</p>
+             <p>Augstu par galvu rīta puse ir varavīksne; viņa dzer ezera izteka niedrās ūdeni.</p>
+             <pb/>
+         </div>
+         <div type="chapter">
+             <head>XIII</head>
+             <p>Smailis Zimza paceļ galvu. Viņš aizver mazo sadzeltējušo grāmatu par tām dienam — sen nešķirstītas lapas ar vieglu vijolišu smaršu un daudz neizstāstāmiem brīnumiem starp rindiņām.</p>
+             <p>Klusums ir ari tagad te, kaut gan divdesmit gadi ir pāri gājuši ar lietu un sniegu. Bet tagad te ir piebriedušas vasaras klusums.</p>
+             <p>Lietus lāses nekrīt no koka, tikai daži sārti pilieni, dažas ogas ir nobirušas.</p>
+             <p>Bet tagad viņš tās nemana. Acis viņam mirdz. Viņa sejā deg atsārtums. Steidzigs prieks ir pārņēmis visu miesu un garu — tāds prieks, kāda viņš nava jutis no tās reizes.</p>
+             <p>Lūk, te, — viņš aptausta akmeni, uz kura aug sūnas. Te bija Rūtiņa, te gāja viņas soļi. Te sirds runāja un modās un nevarēja atmosties un uzziedējusi noreiba pati no saviem ziediem.</p>
+             <p>Un tur, pāri aiz ezera ir trīs mājas un vidējai ir balts skurstenis, tikko saredzams caur zilgano saules tvanu, ari tur ir viena lappuse zelta rakstā — maza, sadzeltējusi, nevienam nevajadziga, bet viņam vien dārga.</p>
+             <p>Vaj tad tik nieciga ir cilvēka laime?</p>
+             <p>Ja, dīvaina ir zemes dēla dvēsele ar savu dārgumu! Viņš glabā šo dārgumu, kā bērns savu rotaļu lietu, un aizmirst visu viņā skatīdamies.</p>
+             <p>Viņš iziet starp ļaudim kā ciets un ass zobenis; viņš šķeļ sev ceļu, viņam nava miera nekur. Izmisuma un baiļu un ilgus nemiera gadus viņš pavada cīņās. Asinīs viņš mirkst un nāve iet tam gaŗam — ne, tikai uz priekšu, uz priekšu — pasaule vēl ir plaša!</p>
+             <p>Un tad, pēc gadu gadiem viņš ir uzvarētājs un varonis. Viņš iet pilsētās kā uzvarētājs; apģērbs viņam zeltā un pērlēs vizuļo, viņa galvā ir lauru vaiņags.</p>
+             <pb/>
+             <p>Karogi plīvo tam pretim, logi veras, birst rozes, vicina lakatiņus, gaviles atskan no visām pusēm. Tūkstoši klausa viņa acu pametienam un mēmām zīmēm — visas ilgošanās ir piepilditas.</p>
+             <p>Bet tad — kad ir klusa stunda — nakts vaj agrs rīts vaj vakars vēls un viņš ir viens, tad sabrūk visu uzvarošais varonis, un apsedz seju rokam. Viss ir velti bijis, viss ir māņi.</p>
+             <p>Veŗas sapņu valsts un viņa priekšā atmirdz kāds brīdis, kāds mazs tēls, kā vizošs gredzentiņš, vaj kā brīnuma zieds pretim izplaukst viņam. Un asarās viņš noliecas pie mazā, mazā nieka un lūpas saka kā lūgšanā:</p>
+             <p>Tu, tu esi tas, kam mana sirds pretim sit — tu esi, kam mana elpa kvēlo!..</p>
+             <p>Bet sapnis tikai tas ir, kad viņš savos pirkstos tura šo bāli-spīdigo ziedu, ap kuru nekad nava nakts — viņš zaudē visu atkal ar dienu. Nekas nava vairs atgriežams un meklēdams mazo brīnummirkli viņš iet atkal tālāk briesmās; aizslēdzies, nesaprasts un tumšs, kā nakts — nevienam nava jāredz tas, ko viņš redzejis.</p>
+             <p>Lūk, tur aizklīst ubags pa dubļiem un ielam gar ļaužu mājokļiem. Vaj viņam nava acis izbālejušas un asarotas, kā raudošā klints? Vaj viņam nava skrandas uz miesas un tarba kaklā ar sacietējušu maizes donu? Vaj viņš zina, kur viņam tēvija un tēva nams un kur nākošā nakts un rītdiena?</p>
+             <p>Kas viņu dzen? Vaj varbūt viņš tic, ka ar katru dienu pieaugs viņa spēki, sirmās matu šķiedras kļūs dzelten-zeltainas un sirds ātrāk sitīs?</p>
+             <p>Ak, to ne!</p>
+             <p>Viņam ir viens mirklis, viens mazs dārgums, ko tas līdzi nes.</p>
+             <p>Tumšā istabā, kur viņš nakti guļ uz netīras gultas vaj uz zemes, viņš reiz reizam sapņo brīnumainās parādibas. Ap viņa dusas vietu riežas bāls spožums —</p>
+             <pb/>
+             <p>zaļgans, kā pavasara rīts un ir dzirdami tādi savadi vārdi. Izplaukst lilijas zieds ar uguntiņu vidū — zvaigznes līst un zvana, zvana nesaturama līgsme
+             iz tālienes.</p>
+             <p>Ubags ņem ar drebošiem pirkstiem lilijas ziedu un runā ar to; ir tikai mirklis, tikai mazs laika sprīdis, bet tas ir dievigās laimes pilns.</p>
+             <p>Un ja pie viņa pieietu kāds bagāts karalis un solitu tam visu zemes godibu un varu par to mazo ziedu viņa pirkstos — vaj viņš to atdotu?</p>
+             <p>„Ak, karal," viņš teiktu — „ko tev līdzēs mans brīnums, ja tev nava pašam sava?</p>
+             <p>Pārdot un pirkt mēs viņa nevaram, tāpat ka savu
+             dzīvibu.</p>
+             <p>Un prasiet bālās sievas kapu malā un noziedzniekus dzelzīs un katru būtni, kam cilvēka sirds — par viņas laimi? Neka jūs vārdos nedzirdēsiet, neka jūs nezināsiet par to mazo uguntiņu, pie kuras sildās
+             miesa un dvēsele.</p>
+             <p>Tik nieciga ir cilvēka laime ...</p>
+             <p>Tik nieciga un tik nepieciešama.</p>
+             <p>Luk te, — Smaiļa rokas jūt salto akmeni un sūnas
+             virs ta...</p>
+             <p>Kur tad viņš ir bijis visu šo laiku un ko viņš ir darijis? Ta bija dzīve plaša pilna cīņu un ciešanu, bet visa ta bija lieka un bez nozīmes. Tikai šis mazais niecigais mirklis, ši vēja zūza te un saules gaiss un tāla, tāla sena diena — ta nebija lieka.</p>
+             <p>Viņš ir ilgus gadus meklejis apsolito līgavu pasakām ticēdams, kā viņu varonis. Un nu viņš ir atradis to vietu. Ezerā peld kā balts putns viņas gars — tas ir apburts. Vajaga tikai saukt burvibas vārdus un viņa pārvērtisies par cilvēku.</p>
+             <p>Bet šo burvibas vardu nava un nekad nebūs — viss tas ir tikai pasaka.</p>
+             <p>Un viņš staigā ilgi zem vītoliem pa lielceļu gaŗam baznicai, gaŗam pakalniem, dzirnavam, niedrajam.</p>
+             <pb/>
+             <p>Viņa sirds ir kā saule pati un viņš kā ezers pilns ūdensrožu, un niedru skumjās šalkas, un dvēselē, kā melnos ūdeņos peld balts putu zieds.</p>
+             <p>Viņa lūpas klusi izruna kadu vardu — —</p>
+         </div>
+         <div type="chapter">
+             <head>XIV</head>
+             <p>Sena vasara atkal apņem viņu, kā ar baltu vieglu roku, no kuras sirds gavilē. Ta vasara, kuŗa tik vienvieniga viņam bija.</p>
+             <p>Kādas naktis bija un kādas dienas... Viņš iet mājās gar ziedošiem kokiem, kad savu pasaku grāmatu ir atdāvinājis. Vaj viņš guleja? Ne, sapņu pilns ir viss. Viņa kājas gurst zaļā maurā dārzā zem ābelēm, kurām pumpuri raisas; viņa rokas sāp no tīksmes un laimes ziedus plūcot.</p>
+             <p>Viņš sapņo vakara sārtumā lūkodamies.</p>
+             <p>Viņš pamostas naktī no viegla un prieka pilna miega. Pa logu krīt mēnesnica uz baltās grīdas un šalkas aptveŗ viņu ar saldu baismu. Vaj te kaut kur nenoplīvoja Rūtiņas baltās drēbes? Vaj viņa nestāv tuvumā?</p>
+             <p>Ne, viņas nava, bet rītā atkal viņš to redzēs. Rītā jau; tik drīzi tas būs, tik drīzi!</p>
+             <p>Tagad viņa varbūt lasa pasaku grāmatu. Tagad tās pirksti šķiŗ lapas vienu pēc otras — ja, tagad viņai ir jādomā par Smaili, cik viņa ieskatas grāmatā. Ir kāds noslēpums starp viņiem; ta neviens nezina un nezinās — ta ir viņa grāmata un mazais brīdis zem sērmukšas.</p>
+             <p>Spēcigs rīts modina viņu augšā. Saule, saule, kā bezgaligi plūdi pār laukiem un mājam! Viņš saliek savas grāmatas, paņem pusplaukušos ābeļziedus un iet uz skolu. Lejā viņa acis raugās pa lielceļu. Ne,
+             tur neviena nava ...</p>
+             <p>Bet skolā viņš redz, ka Rūtiņa stāv pagalmā un viņam domas samulst. Viņš iet kā noreibis un sveicina</p>
+             <pb/>
+             <p>to ar laburītu. Viņa smaida un pamāj ar galvu. Viņa liekas lielāka izaugusi šai naktī — acis bija tik spodras, domā Smailis, kāpdams pa trepēm uz klases istabu.</p>
+             <p>Diena iesākas — kas par pilnigu un skanigu dienu! Smailis ir tik pilns spēka. Viņam tik daudz gribas zināt un mācities. Viņš klusi nopriecājas pie sevis, ka pārspēs visus. Atstāstot uzdoto viņa balss ir skaniga un droša. Klusums ir klasē, visi viņu apbrīno. Putniņš pat stostās ar savu uzdevumu — viņam tā neveicas.</p>
+             <p>Smailis klausas savā valodā pats un sajūt prieku. Viņam liekas, ka nava vairāk neviena, kam par prieku tas runātu un daritu visu, kā tikai Rūtiņa. Ta dzirdēs katru vārdu, ta redzēs katru viņa darbu. Viņam liekas, ka ta būtu tik tuvu tam visur klātu, ka dvaša tam sejā jūtama no viņas.</p>
+             <p>Vajaga tikai pagriezties mazliet, lai redzētu viņas gaišās drēbes un tumšos, skaistos matus un — ne, viņas seju tas redz ari neskatidamies, pat acis aizvērdams.</p>
+             <p>Ar augsto saules gaismu nāk istabā kāds skanigs plūds un pilns nedzirdētu vārdu un skaņu tas ir. Smailis tiek nests kā no lielas straumes. Ir klusas bailes un prieks. Viņam tīkas arvien tālāk un tālāk ... lai nes, lai nes! Rūtiņa, Rūtiņa! šalc vizojošā straume un viņš tad zina, kurp nes viņu gaišā diena.</p>
+             <p>Pusdienas laikā viņš ienāk viens klasē. Viņš paņem ziedus no ābeļu pumpuriem, noplūc bālganās lapiņas pa vienai un met uz grīdas un uz sliekšņa un uz trepēm. Viņš zina, ka Rūtiņa nāks un varbūt viņas kāja piedursies pie ziediem ... Varbūt viņa prasīs, kas tos ziedus te nometis.</p>
+             <p>Tad viņš dzird Rūtiņas balsi istabā un paliek stāvot. Kādas skanigas melodijas tās ir! Neviens putns tā nedzied!</p>
+             <p>Smailis ir pilns vārdu, ko viņai teikt, bet viņš nedrīkst. </p>
+             <pb/>
+             <p>Tos nevar izteikt, tos var tikai domāt. Viņš gaida vakaru, varbūt Rūtiņa ies viņam blakus.</p>
+             <p>Ja, viņa pamet tam ar galvu pēc beigtām stundām
+             un saka:</p>
+             <p>„Es iešu šovakar ari uz māju."</p>
+             <p>Viņi iet kopā. Rūtiņa ir tik droša, tik brīva.</p>
+             <p>„Man ir tavas teikas mājās, es iešu tās lasit," viņa saka un slepus paskatas. „Un vaj zini, Smaili, man ir baigi... Man liekas, ka mani apburs kas."</p>
+             <p>„Tagad neviena vairs neapbuŗ," Smailis domā. </p>
+             <p>„Tagad pasakas ir beigtas."</p>
+             <p>„Zini, man gribētos, lai viss būtu tāpat kā teikās. Es gribētu redzēt, kā viņš caur uguni jāj ar vanaga spārniem."</p>
+             <p>„To tu gribetu redzet?"</p>
+             <p>„Ja, tas būtu tik droši un tik lieliski."</p>
+             <p>„Rūtiņ, tad es — — „viņš stomas" ... Tad es ari
+             caur liesmu dotos."</p>
+             <p>Viņa brīnas. Viņas acis ir baiļu pilnas.</p>
+             <p>„Tu, Smaili? Vaj tu esi tik stiprs? Kāpēc tad tev tas vajadzigs?"</p>
+             <p>„Ja tu... ja tu būtu ta apsolitā un apburtā meitene ..." Viņi abi klusē tad. Viņam elpa cilā krūtis. Viņš gaida kaut ka, kāda vārda.</p>
+             <p>„Ja, bet es ta neesmu."</p>
+             <p>„Ja, tu ta neesi. Bet tu esi te. Un es nekur nesteigšos tad."</p>
+             <p>„Protams. Tās tikai iedomas. Kā gan es varētu būt apburta?" Un viņa smejas gaiši, nepiespiesti, atmet matus no acim un skatās Smailim acīs. „Ne, es negribetu būt apburta, jo tad cilveks laikam ir tāli, tāli prom."</p>
+             <p>Un viņi soļo blakus zem vītoliem un pāri slīd ēnas un šalc vējš.</p>
+             <p>Pie akmeņa, kur ceļi šķiras, viņi atkal apstājas. Sērmukša smaršo. Viņiem būtu kas jārunā, bet viņi ir klusi.</p>
+             <pb/>
+             <p>„Ardievu, Smaili!"</p>
+             <p>„Ardievu, Rūtiņ!"</p>
+             <p>Viņiem ir vēl jāpaskatās vienam uz otra, kā apmulsušiem, kā nezināšanā, un tad viņi izšķiŗas.</p>
+             <p>Smailis kāp kalnā un atskatidamies redz ezera sudraboto mirdzumu un saules miglu tālumos. Viņa sirds ir bagata. Viņš kaut ko zina, kaut ko ir atradis un domās šūpodamies viņš kāp gar birzi uz mājam.</p>
+             <p>No rīta agri viņš sēd uz akmeņa un gaida... Tagad viņš zina, kas jagaida. Viņa steidzas tik žigli, it kā ko gūdama.</p>
+             <p>Viņa ir aizkususi un nosārkusi un apjūk Smaili redzedama.</p>
+             <p>„Labrīt!" viņš sveicina pieceldamies.</p>
+             <p>„Labrīt," viņa saka klusam un sārtums tumšaks paliek sejā.</p>
+             <p>„Es domaju, ka esmu nokavejusies."</p>
+             <p>„Vēl ir agri," Smailis saka.</p>
+             <p>Ari viņa zina tad, ka ir agri, bet viņai tomēr ir bijis jasteidzas.</p>
+             <p>Viņi stāv viens pret otru kā brīnumā, kā ko atminējuši. Viņi ir klusi un nezina ko teikt.</p>
+             <p>Tad Smailis sniedz smago un rūgti saldo sērmukšas ziedu ķekaru viņai un redz, ka roka sniedzas pretim. Viņa to paņem un liek pie acim kā mierinadama.</p>
+             <p>Un klusi caur vītolu rindām viņi iet talak. Gŗāvjmalas ir baltas vēl ar rasu un ezers kūp.</p>
+             <p>Skolā ir vēl klusu. Ir tikai divas mazas meitenites un pāris zēnu.</p>
+             <p>Smailis nosēstas klasē un jūt sev aiz pleca Rūtiņas skatu. Viņam vajaga tad skatities tās sejā. Tas ir tik pazīstams un tik labs. Un viņa atsmaida un klusi pamet ar galvu un atkal skatās savā grāmatā. Apaužas klusums kā tīkls, kā saule auž ārā zilajā gaisā. Mazs zelta zirneklitis tekā ar stīdziņu starp diviem bērniem un auž kaut ko nesaprotamu un neredzetu.</p>
+             <pb/>
+             <p>Tad viņš apkūst un pats sapinas savās stīgās un klusums ir atkal apņēmis tos.</p>
+             <p>Smailis kavejas pie Rūtiņas sejas ar savām domam. Vaj viņš drīkstetu vēl paskatities tur?..</p>
+             <p>Un tad sirds viņam pamostas kā iztraucēts cīrulis un kaut kur sāk zvanit gaviles. Gaišs lauks atveŗas, kliedz putni...</p>
+             <p>Viņa ziedu ķekars bija Rūtiņas matos ...</p>
+         </div>
+         <div type="chapter">
+             <head>XV</head>
+             <p>Līst maija lietus. Zelta rats ir apstājies griezties un iemircis miglājā. Lejas ir pilnas ar mitrumu, no ziedošiem kokiem rit straumēm ūdens.</p>
+             <p>Vakara debess dārdēja no pērkoņa, bet rītā līst
+             klusi un viss ir vēss.</p>
+             <p>Smailis agri stāv zem lielās sērmukšas pie akmeņa un gaida...</p>
+             <p>Paiet stunda — neviena nava. Viņa kājas ir slapjas; mazais lietus sargs samircis un vēsa rasa krīt cauri. Viņa miesa sāk drebēt no aukstuma.</p>
+             <p>Vēl tikai brīdi — nupat viņa nāks, tad jau saule spīdēs, tad siltums velsies, kā milzigs vilnis.</p>
+             <p>Bet viņas nava.</p>
+             <p>Viņš aiziet skolā un salst. Viņam ir mazs tējas rožu zieds rokā un tas vīst un sagurst, kā bez dzīvibas.</p>
+             <p>Smailis aiziet mājās un mētajas nemierigi pa gultu. Viņam ir drudzis. Viņš sapņo par Rūtiņu, ka ta pārvērsta par niedru ezerā.</p>
+             <p>Un rītā viņš atkal stāv zem koka un gaida. Milzigie mākoņblāķi veļas no ziemeļiem, saule paspīd tiem cauri un ir salta un bāla.</p>
+             <p>Viņš stāv ilgi un skatās uz ceļu — viss ir tukšs.</p>
+             <p>Kad viņš nonāk skolā, stundas ir sākušās un viņam vajaga atvainoties par nokavešanos.</p>
+             <p>Viņš it kluss kā mākonis un domā savas neizdomajamās</p>
+             <pb/>
+             <p>teikas. Viņš nava pat mācijies ka nākas — kas par to — vienā dienā viņš to var iegūt...</p>
+             <p>Vakarā ir gaiša saule, bet viņš tās nemana. Gurdi kāpj kalnā un salst savās domās.</p>
+             <p>Tad trešā dienā Rūtiņa pasmaida viņam savā solā un mazais smaids tiek atkal apslēpts.</p>
+             <p>Bet pēc pusdienas viņš iet kā ko gaididams un viņa nāk ātri un strauji elpodama.</p>
+             <p>„Redz, Smaili, ari es," viņa grib smaidit.</p>
+             <p>Ir atkal viss pilns brīnišķigas tveices un spožuma.</p>
+             <p>„Es nevarēju iet negaisā; man vajadzeja istabā sēdet. Un tu Smaili?"</p>
+             <p>„Es lasiju jaunas teikas. Es tev tās gribeju stāstit. Bet tās ir tik bēdigas."</p>
+             <p>„Kapēc bēdigas? Stāsti."</p>
+             <p>„Ne, tās nava priekš tevis, tās tu nesaproti, — zini, tās ir par kādu ķēniņa dēlu," viņš iesāk.</p>
+             <p>Viņi iet lēnam, kā apkusuši.</p>
+             <p>„Viņš grib kāzas svinēt un ir sūtijis uz dzelteno rožu zemi sūtņus pēc savas ķēniņmeitas. Viņa ir sūtijusi tam ik trīs gadus pa zelta gredzenam un tad viņš sarīko kāzas. Viņa pils ir pie jūras un viņa kuģi ir sudraba mastiem un zīda buŗam greznoti — tūkstoš kuģu viņam ir. Un viņš liek tiem iet jūŗā pretim līgavai un sēd pats pils augstākā tornī un skatās pār ūdeņiem. Viņa kuģi nonāk pie dzelteno rožu zemes un sveicina ķēniņmeitu, bet viņa nenāk. Un tad tie griežas atpakaļ un pavēsta to savam valdniekam. Bet viņš tos sūta vēl reiz un sēd pats savā augstākā tornī un gaida.</p>
+             <p>Un otrreiz viņa kuģi atgriežas un paziņo to pašu.</p>
+             <p>Un trešo reiz viņš liek peldēt saviem tūkstoš kuģiem un liek aizvest savu dimanta gredzenu savai ķēniņmeitai.</p>
+             <p>Un trešo reiz kuģi atgriežas un paziņo, ka ķēniņmeita nenāk. Viņai labāk ir stikla pilī un pie rozēm.</p>
+             <pb/>
+             <p>Bet līdz dzelteno rožu zemei trīs gadus kuģiem ceļot ik reizes vajadzejis.</p>
+             <p>Tad ķēniņdēls liek nogremdēt savus tūkstoš sudrabmastu kuģus un burvim liek apburt sevi akmenī visaugstākā tornī.</p>
+             <p>Un neviens nevar viņu atburt, kā vienigi dzelteno rožu zemes princese, bet viņa nenāk..."</p>
+             <p>„Viņa nenāk?" Rūtiņa brīnās.</p>
+             <p>„Viņa nenāk."</p>
+             <p>„Un ķēniņdēls ir par akmeni?"</p>
+             <p>„Ja, ta ir bēdiga teika," saka Rūtiņa. „Un kāpēc viņa nenāk?"</p>
+             <p>„Viņa nemaz nezina, ka ķēniņdēls to ir gaidijis savā tornī deviņus gadus."</p>
+             <p>Rūtiņa domā ilgi par to un viņi ir klusi.</p>
+             <p>Un tad ir vēl kāda cita pasaka par to gaidišanu.</p>
+             <p>Jaunakais dēls ir atradis ķēniņmeitu un teicis burvibas vārdus un viņa ir par cilvēku pārvērtusies. Viņš to aizved uz savu zemi un iedod tai mazu zelta atslēgu.</p>
+             <p>„Ta ir priekš manis, ja es tiktu noburts."</p>
+             <p>Un no kara mājās nākdams viņš no sveša burvja tiek noburts. Viņš paliek par melnu akmeņa pili ceļa malā ar dzelzs vārtiem un mazu zelta aizkaramo. Viņš ir aizslēgts un neviens viņa nepazīst.</p>
+             <p>Tikai ķēniņmeita ar savu zelta atslēdziņu var to pestit un pārvērst par cilveku.</p>
+             <p>Bet viņa nenāk.</p>
+             <p>Paiet simts gadi un viņa nenāk. Viņa to ir aizmirsusi. Viņa ir mirusi, un viņš stāv ceļa malā kā melna pils. Atslēgas vieta ir aizrūsejusi un neviena nava, kas to atslēgtu ...</p>
+             <p>„Kapēc viņa nenāca?" jautā Rūtiņa un viņas seja ir skumja.</p>
+             <p>„Viņa to bija aizmirsusi."</p>
+             <p>„Kā var aizmirst ...?"</p>
+             <pb/>
+             <p>Viņš palūkojas Rūtiņai acīs un redz, ka tās ir atkal baiļu pilnas.</p>
+             <p>Viņi apstājas. Ir ceļu šķiršanās.</p>
+             <p>Viņš domā uz zemi lūkodamies un tad prasa, tikko drebedams, klusi:</p>
+             <p>„Vaj tu nāktu?"</p>
+             <p>Viņas seja pārklājas ar sārtumu, acis atmirdz, kā valgi ezeri pilni saules. Ir atkal zudis viss, kas apkārt, un debesīs dziļš klusums.</p>
+             <p>Viņš gaida atbildi. Bet Rūtiņa sniedz tam savu mazo smailo roku kā toreiz. Ta šūpojas acumirkli Smaiļa delnā un tur ir atbilde: es nāktu.</p>
+             <p>Viņš paceļ acis ... Sapņi ir zuduši un viņš ir
+             atkal viens.</p>
+             <p>Gaviledams viņš kāpj kalna gar elksneju. </p>
+             <p>„Es nāktu ..."</p>
+         </div>
+         <div type="chapter">
+             <head>XVI</head>
+             <p>No rīta uz skolu iedams Smailis redz baltu tēlu uz akmeņa sēdot. Ta ir Rūtiņa. Vaj viņa to ir gaidijusi?</p>
+             <p>„Es piekusu nākdama," viņa saka, „es steidzos."</p>
+             <p>Bet Smailim sirds ir atkal kā salda medus pilna. Viņa ir tomēr gaidijusi; viņai gan bija atvērta grāmata uz klēpja, viņa kaut ko domaja un klusi šūpoja galvu.</p>
+             <p>Viņi iet tālak pa smago vasaras rītu.</p>
+             <p>Rudzu lauki viļņo pakalnēs, kliedz vālodzes bērzu birzēs.</p>
+             <p>Diena rit kā saule pati pilna līgsmibas un laimes.</p>
+             <p>Kad vasara ir vispilnigakā spēkā, priekš Jāņdienas, pļavas sāk krāsoties sarkanas no mazām neļķēm un dzeltenas no gundegām. Sarkanais dābols ir saplaucis un kamenes dun caurām dienam tur.</p>
+             <p>No rītiem viņi dzird šo zumzešanu kopa un abiem pāri vējš pārnes medus saldu pūtienu no lauka.</p>
+             <p>Šai zimzešanā Smailis dzird Rūtiņas valodu un vējā viņas dvašu.</p>
+             <pb/>
+             <p>Ezerā ir sākušas ziedēt ūdensrozes iz tumša dziļuma starp lapām un ziediem.</p>
+             <p>Dienvidū peldēdamies Smailis saplūc pilnas saujas un nes tās uz skolu. Visas tās guļ Rūtiņai priekšā un viņa smaida par to pretim ūdensrožu drošajam zvejniekam. Tad viņš stāv gluži tuvu viņai klāt un stāsta par ziediem, kādi viņai varētu patikt.</p>
+             <p>Viņas plaksti ir nolaisti, viņa strādā ar pirkstiem kādu darbu; mierigi elpo krūts, mierigi dus visa viņas būte.</p>
+             <p>Mazakās meitenes ir katra savā pusē Rūtiņai un viņas skatas uz Smaili un klausas uz viņa brīnumu teikam kā mazi putneni. Bet viņš zina, kam viņa vārdi un stāsti lemti. Un kad viņas skropsti tiek pacelti, viņam liekas, viņš atkal būtu ezera dziļumos ielaidies, kur kluss un baigs ir dzelmē.</p>
+             <p>Klusi un baigi viņam tiek pašam. Viņš mana vaigos ietrīsamies kādas mīļas sāpes.</p>
+             <p>Viņš apklust uz pusvārda un veŗas neredzetos brīnumos. Gaviles plēš viņa būtni un nespēcigs un samulsis viņš aiziet.</p>
+             <p>Ko viņa teica, Rūtiņa, tagad? Viņas mute nekustējās, bet kas tad kaut ko teica?</p>
+             <p>Zelta tīkls ir izstiepts pār visām tām dienam un naktim un viņš sapinas mazajās stīdziņās un ik stīdziņa ir kā Rūtiņas roka, kas to tur — roka ar smalkiem pirkstiem un ziedošiem nagu galiņiem.</p>
+             <p>Kad Rūtiņa ir viena, viņa klusi dzied; melodija liecas kā zils tvans ap viņa galvu.</p>
+             <p>Viņa klusi dzied pat no rītiem uz akmeņa gaididama un viņš tad stāsta pavisam citādas teikas.</p>
+             <p>Viņš toreiz nepareizi esot stāstijis — vecā pils esot sen atslēgta un ķēniņmeita atbraukusi ar sudraba kuģiem ...</p>
+             <p>Priekš Jāņdienas skolas laiks beidzas — tad būs brīvdienas. Viņi iet pēdejo reiz abi kopā pa ceļu. Visas malas ir ziedos noslīkušas un augšā mākoņi</p>
+             <pb/>
+             <p>tik balti, kā vizošas ūdens putas. Smailis pat saka, ka tie ir visi apburti ķēniņdēli, kuŗi simtgadus meklē savas līgavas.</p>
+             <p>„Tagad būs vasara; kur tu paliksi?" prasa viņš Rūtiņai.</p>
+             <p>„Es nezinu. Man gan būs audekli jabalina, tagad ... Man ir tik daudz audeklu jaunu."</p>
+             <p>„Tu līgo Jāņdienā?"</p>
+             <p>„Es klausos tikai kā līgo. Man nava kur iet." Un viņa domā kaut ko priekš sevis, klusi.</p>
+             <p>„Tad tev ir janāk pie manis līgot," viņš saka priecigi kā ko atminejis. „Uz Zvanitajiem. Redzi, tur kur lielā birze ar baltajiem bērziem. Man ir puķes priekš tevis. Vaj tu nāksi?"</p>
+             <p>„Uz Zvanitajiem? Ja!" viņa saka klusāk  „es
+             iešu."</p>
+             <p>„Man ir dārzā rozes bālas un sarkanas. Tu vari izmekleties, kādas tev patīk. Ap lieveni ir magones, — meitas lauž ik svētdienas. Daudz sarkanu magoņu ar zeltotiem puteklišiem lapās .. . Man ir lazdu krēsls uz lieveņa — to es tev došu priekš sēdešanas. Es apvīšu ar vīnstīgām; mums ir vīnstīgas ap lieveni. Var ari apiņus — tie ir smaršigaki."</p>
+             <p>„Un ja tu nāc, tad es tev parādišu visbrīnišķigako. Tas ir dievkociņa krūms, kas aug pie dienvidus loga un tur krūmā dzīvo zelta māriņa. Ja, viņa spīd kā skaidrs zelts. Rītos viņa uzkāpj virsotnē, kā maza lāsite un grozās tur saulē un vakaros viņa nokāpj zemē un guļ pa nakti zālē."</p>
+             <p>Viņš stāsta visdīvainakās lietas un Rūtiņa klausas. Viņš zina, ka tagad viņa aizies; drēbes aizplīvos, matu stīdziņas nebūs vairs redzamas un elpa nedvašos.</p>
+             <p>Viņš stāsta un skatas viņas sejā un viņam ir, kā kad pats tas tur savus brīnuma stāstus lasitu.</p>
+             <p>„Un pie mums dedzinās Jāņugunis," viņa saka. „Tur aiz ezera tu redzi veco pilskalniņu; tur būs ugunis naktī. Tad tev ir janāk."</p>
+             <pb/>
+             <p>„Ja," viņš saka, „tad es nākšu." Bet vārdi ir paši no sevis nākuši, viņš nezina, ko ir teicis. Viņam likās atkal, ka tas ir dzelmēs šūpojies.</p>
+             <p>„Ardievu!" viņa saka. „Tur naktī būs ugunis."</p>
+             <p>Ugunis, ugunis ... viņam kaut kas klusu runa ausīs un tad viņš iet kalnā.</p>
+             <p>Kādas klusas sāpes un nemiers sirdi apņem — un ilgi viņš ta nesaprot.</p>
+             <p>Rīt vairs viņas nebūs, to beidzot viņš ir atminējis. Tas ir, kas nāk viņam līdzi pie rokas pieķēries kā ceļa biedrs. Viņam ir baigi no ta ceļa biedra, viņš skumst ...</p>
+             <p>Bet naktī viņš šūpojas sapņos un pamozdamies jūt, ka uz viņa spilvena kas blakus dusētu; elpa bija dzirdama un kāds runāja ... Plaksti bija nolaisti, viņš redzēja tak garos skropstus ... Skats tikko
+             vērās un neatvērās ...</p>
+             <p>Sirds sit aiz liela prieka, kā verdošs avots. Rūtiņa, Rūtiņa ... viņam atzvana ausīs un viņš plašām acim raugās mēnesnicā caur logu.</p>
+             <p>Zaļgana gaisma ir līdzās mēnesnicai. Rudzu laukā aiz dārza griež grieza ...</p>
+             <p>Viņam ir baigi no kāda vārda un viņš aizveŗ acis. Bet bailem pretim ir viņas smaids.</p>
+             <p>Rūtiņa ... Rūtiņa ... nāk jauns sapnis un zvana. Tā zvana senā vasara pusnaktī.</p>
+         </div>
+         <div type="chapter">
+             <head>XVII</head>
+             <p>Pēc četrām dienam ir Jāņu vakars. Debess mala ir piekvēpusi, vakarblāzma ir pārkūsejusi kā rožainas putas pār mākoņiem.</p>
+             <p>Zāles un vaiņagi vīst pie durvim un uz galda. Sirdi žņaudz smags prieks, kuram nav ne sākuma, ne beigu.</p>
+             <p>Smailis pašķiŗ jaunu lappusi savā senajā grāmatā. Karsts vilnis apņem visu. Kas ta ir par nakti!</p>
+             <pb/>
+             <p>Viņam liekas, ka tas sēd uz ezera krasta vaj uz bezgaligas jūŗas smilšu kāpam. Kaut kur tālumā zvana. Balts miglājs stiepjas kā mazās dūmu strūklas pār ūdeņiem un tālumā pamirdz uguntiņa, viena, divas desmit, — pulks uguntiņu! Tur kaut kas kustas, kas peld.</p>
+             <p>Ta ir kāda sala — peldoša zaļa sala. Apkārt ir nakts un aizkvēpuši mākoņi vakaros saules rietā.</p>
+             <p>Ugunis nāk tuvak — ja, ta ir peldoša sala. Zaļi ozoli aug uz viņas krastiem, meža vīnstīgas staipas, šalc niedras. Zem kokiem deg ugunis; dziesmas dzirdamas, šalkoņa aug no tām kā no meža. Peldošā sala nāk klāt, viņa ir klusa un vienās ugunīs, viņa deg, liesmas lodā ap zaļiem vaiņagiem, rožu ziedi kūp sarkanās oglēs, zimz stīgu skaņas un visapkārt ir apjozta pusnakts blāzma. Līgo!</p>
+             <p>Degošā sala aizpeld, dzirkstis nobirst — no dziesmām nāk atskaņas; liekas, vēl kāda roka sniegtos ar vaiņadziņu pēc viņa uz krasta pusi, daži mīļi klusi vārdi bija dzirdami; aicinoša dziesma, — baltas
+             drēbes tumsā manamas ...</p>
+             <p>Viņa aizpeld, nakts paliek tumša; viļņi atkal skumji sit pie krasta un viņš ir viens. Kā parādiba aina ir aizpeldējusi — ūdeņos ir tukšums.</p>
+             <p>Viņš pārvelk ar roku pār acim — kas tas bija? Vaj ezers dega, vaj viņš sapņoja?</p>
+             <p>Ne, viņš nesapņoja — ta bija senā Jāņu nakts ... Vaj viņš nebija līdzi uz tās salas?</p>
+             <p>Ja, lūk te ir rakstits kas par to — ja gan — — — </p>
+             <p>... Viņš saņem kalpa puisi aiz rokas un saka: iesim! Viņam ir atļauts nakti līdzi līgotajiem iet.</p>
+             <p>„Kur tad?" prasa kalpa puisis un raugās Smailim
+             acīs.</p>
+             <p>„Skaties tur, aiz ezera, kur ugunis spīdes. Tur — — "</p>
+             <p>Un viņi iet. Viņš šūpojas savos sapņos. Ozola
+             zars ir rokā.</p>
+             <p>Viņi iet gar svešām sētam. Dziesmas skan, vakars</p>
+             <pb/>
+             <p>ir kvelmains un silts. Ugunis pamirdz un nodziest un tad atkal iedegas. Trīs četri spožumi ir augsti gaisā. Dzirkstis birst un skaņas balsis kliedz.</p>
+             <p>Tur dejo un trokšņo, tur līgo; muzikā ir tumšs un degošs prieks.</p>
+             <p>Smailim baisma ir visos locekļos. Elpot grūti. „Tur naktī būs ugunis," viņš dzird Rūtiņas balsi.</p>
+             <p>Viņš sēd uz sola zem bērziem. Viņa skats ir aplūkojis visus — Rūtiņas nava.</p>
+             <p>Viņam liekas, ka tas svešumā būtu; vajadzetu atkal uz mājam. Viņš ir lepns un viens.</p>
+             <p>Klusi smiekli viņu atmodina.</p>
+             <p>Rūtiņa stāv tam priekšā.</p>
+             <p>Vaiņags viņai ir uz galvas no baltiem ziediem un skaistas, jaunas drēbes.</p>
+             <p>Viņa grib tam nākt klāt, tad kā apmulsdama apgriežas un aizskrien smiedamās. Viegli bēgdama, slēpdamās. Zaļš zariņš tikai nokrīt un paliek pie viņa kājām.</p>
+             <p>Smailis paceļas un staigā starp dejotajiem. Viņam vairs neka nevajaga. Ugunis deg tik gaiši; sirds ir prieka pilna, — Rūtiņa ir te ...</p>
+             <p>Tad viņa nāk un sniedz savu roku tam un ir klusa un padeviga.</p>
+             <p>Viņi iet caur bērziem, un lokanie nokārušies zari glāsta viņu galvas. Rūtiņa pašķiŗ zaru vītnes un izlaiž Smaili cauri.</p>
+             <p>„Nac šurp, te ir mana māja, te es dzīvoju," viņa saka un rāda uz dārzu ezera malā.</p>
+             <p>Bet viņiem nava nekur ejams un atpakaļ pie ugunim tie aiziet.</p>
+             <p>No augsti uzceltām ugunim līst dzirkstis un viņi stāv klusedami. Rūtiņa ir viņam tik tuvu klāt, ka viņš nevar kusteties, lai ta neaizietu.</p>
+             <p>„Te ir pilskalniņš." Rūtiņa ved to uz maza pakalna tālāk laukā. Viņi iet klusam un klausās viens uz otra nakts krēslā.</p>
+             <pb/>
+             <p>„Te es nāku lasit tavas teikas vakaros, kad dienas darbi ir pabeigti. Es drīz pabeigšu visu un atdošu tavu grāmatu. Tad man būs vakari gaŗaki."</p>
+             <p>„Ak, ne; to tu vari paturet sev, to grāmatu; man vēl ir tik daudz stāstu mājās," viņš saka.</p>
+             <p>„Skriesim lejā," viņa pasmaida un nejauši Smaiļa roka ir viņas saujā un viņi skrien abi arvien ātrāk no kalniņa. Lejā viņi ir piekusuši un Rūtiņas vaiņags krīt no matiem. Viņš ņem to un ar saviem pirkstiem liek atpakaļ. Viņa smejas un elpo tik ātri; acīs ir tāds prieks un dvaša tik silta. Viņam pirksti dreb un sapinas viņas matos un tad viņa pati ieliek balto vaiņagu savos matos.</p>
+             <p>Viņš mēmi skatas viņas sejā kā brīnumu apņemts un aizmirst apkārtni. Tik labi ir un gribētos kaut ko teikt, bet tam nava vārda, tas ir tik dziļi kaut kur, tas ir vēl neatminēts vārds. Viņam gribetos padarit kaut ko Rūtiņai, darit viņai prieku vaj sāpes, bet ko tādu no sevis, ko vēl nebijušu.</p>
+             <p>Bet viņa pasmaida un iet tālak.</p>
+             <p>„Nāc, es tev parādišu laivu ezermalā," viņa saka un iet pa priekšu. Viņas drēbju maliņa ir mazliet slapja no rasas.</p>
+             <p>Viņi stāv pie ezera. Pie šķelpsnam uz melnā ūdeņa guļ laiva. Airi nomesti uz krasta.</p>
+             <p>Rūtiņa iekāpj laivā un šūpo to lēni. Ūdens viļņo un sitas pie laivas apakšas ar plīstošu troksni.</p>
+             <p>„Tur ir ūdensrozes," viņa rāda ezerā, tur aiz stiebriem, kur dzelme sākas. Liekas kā balti putni un visa dzelmes mala balta. Naktī tās skaistākas kā dienu ..."</p>
+             <p>„Es noplūkšu," Smailis kāpj laivā.</p>
+             <p>Viņa smejas, izkāpj no laivas un iemet airus laivas galā, viegli sakustas ūdens, viņa ielec iekšā un laiva peld.</p>
+             <p>Smailis maz ir bijis laivā, bet viņš vada aiŗus stipri ar savām jaunajām rokam ...</p>
+             <pb/>
+             <p>„Tur ne, tur ne," viņa rāda ar pirkstiņu tam aiz muguras un viņš pagriež laivu.</p>
+             <p>Maza miglas svītra aizsedz krastu. Iz ūdens dveš dienas siltums kā silta dvaša.</p>
+             <p>Rūtiņas roka ir iemērkta ūdeni gar laivas malu un viņa saka klusi: </p>
+             <p>„Silts."</p>
+             <p>Pār ūdeņiem ir klusums; krastā mirdz ugunis un trokšņo dejotāji.</p>
+             <p>Niedrājs nošvīkst gar laivas maļam un tad nāk kluss ūdens ...</p>
+             <p>Rūtiņa sēd uz soliņa viņam pretim ...</p>
+             <p>„Skaties, skaties, kur ūdensrozes!" viņa rāda.</p>
+             <p>Ap laivu, kā baltu putnu pulks, saredzami ziedi. Tumša, stipra zāļu smarša ir visapkārt.</p>
+             <p>Tad viņu apņem baiļu sajūta, un viņš ieliek aiŗus laivā. Viņa seja ir bāla un viņš brīnumaini skatās Rūtiņas sejā. Elpa aizraujas ... Viņa miesa nodreb no lielām, nekad nejustām bailēm.</p>
+             <p>Vaj ta ir Rūtiņa, vaj tas nava sapnis?</p>
+             <p>Viņš grib runāt, lūpas viņam dreb.</p>
+             <p>„Smaili?" viņa prasa kā nesaprazdama un skatās viņa sejā.</p>
+             <p>Klusums apņem visu pasauli.</p>
+             <p>„Smaili..."</p>
+             <p>Un tad smaids iešaujas viņa sejā, un viņa nolaiž skropstas. Viņa rokas cieši aptvertas ap laivas malam. Iz ūdeņa skatās ziedi ...</p>
+             <p>Tad viņš atdabū spēkus. Prieks līst kā sanošas straumes ap viņu. Viņš noliecas un meklē ziedus pa silto ūdeni.</p>
+             <p>Viņš izceļ tos gleznus, gaŗiem kātiem, no kuŗiem rit ūdens un liek Rūtiņai klēpī. Viņš ir jau pieplūcis veselu sauju, bet ņem vēl vienmēr jaunus un ik reizes, nolikdams ziedus, viņš var aiztikt Rūtiņas pirkstus un redzet viņas seju.</p>
+             <pb/>
+             <p>Vesela nasta ir izvilkta no ūdens. Viņas klēpis ir pilns; ūdens rit pa ziedu kātiem uz viņas kājām.</p>
+             <p>„Nu ir diezgan, Smaili, nu ir diezgan," viņa saka un ieliek rokas baltajās puķēs ...</p>
+             <p>Visapkārt viņiem ir augstie zaļie ūdens stiebri un zāļu tvans. Salti gŗūta ūdensrožu smarša kāpj gaisā ...</p>
+             <p>„Dalisimies," saka Rūtiņa un sāk salikt rozes pušķī.</p>
+             <p>„Ne, tās ir tavas."</p>
+             <p>„Ņem vien. Tās ir vakarā plūktas, tās ir svētas," saka viņa un sniedz Smailim pilnu sauju.</p>
+             <p>„Rūtiņ ..."</p>
+             <p>„Nu?"</p>
+             <p>„Kad mēs iesim atkal skolā?"</p>
+             <p>„Skolā?" viņa domā un tad saka klusak: „es skolā vairs neiešu."</p>
+             <p>„Tu neiesi?" Viņš nolaiž rokas un paliek kluss.</p>
+             <p>„Man ... mani sūtīs uz pilsētu skolā," viņa nosaka klusi. „Es nezinu, kā tur būs."</p>
+             <p>„Tad tu būsi tāli? Un nekad vairs nenāksi?"</p>
+             <p>„Es nezinu."</p>
+             <p>Klusums ... liekas nakts būtu tumšaka tikusi un svešaka. Smailis ir pats tumšs kā ezers.</p>
+             <p>„Bet ja tevi, — ja tevi gaidīs?"</p>
+             <p>Viņa paceļ acis.</p>
+             <p>„Gaidīs? Kas mani gaidīs?"</p>
+             <p>„Ja es — — tevis gaidišu?"</p>
+             <p>Ir kaut kas nomests, kas bija tumšs un smags. Viņš atelpo un skatās klusi uz viņas rokam. Viņš gaida ... </p>
+             <p>„Tu?"</p>
+             <p>Viņas acis ir lielas, dziļas, ka izbijušas. Viņa, liekas, nesaprot neka.</p>
+             <p>„Ja, tu ... Es zinu, kur tu būsi ..."</p>
+             <p>Un tad viņi abi sēd un skatās ūdenī, kur nekas nava saredzams. Stiebri ir noliekušies kā melnas,
+             lielas adatas ...</p>
+             <pb/>
+             <p>Tad Smailis saceļas. Viņa acīs ir lepnums un miers. Kādas savādas dzirkstis deg acu dziļumos. Viņš pieceļas vingri kājās un klusē.</p>
+             <p>„Smaili!" Viņa ir teikusi tikai klusi to vardu.</p>
+             <p>Viņš domā savas domas.</p>
+             <p>„Nekas."</p>
+             <p>Viņš pasmaida un apsēstas.</p>
+             <p>„Es gribeju tikai kādu teiku tev stāstit. Es vairak neka negribeju teikt. Ta ir brīnišķiga teika par aizmirsto ķēniņa dēlu."</p>
+             <p>Viņš paskatas Rūtiņai sejā.</p>
+             <p>„Par aizmirsto?" Skumji viņa skatās savās puķēs un ar balto vaiņadziņu ir līdziga pusnakts ziedam.</p>
+             <p>„Tad stāsti, es gribu dzirdet. Bet tev jasēd te," — viņa rāda sev blakus.</p>
+             <p>Viņš nosēstas.</p>
+             <p>„Ne, es labāk nestāstišu. Ta ir bēdiga teika."</p>
+             <p>Bet Rūtiņas galva viņam ir gandrīz klāt un tad viņam ir jāsaka.</p>
+             <p>Ķēniņdēls ir sūtijis savu gredzenu balto rožu ķēniņmeitai un aicinājis to viesos. Ta ir viņam apsolita jau šūpulī un viņš to gaida.</p>
+             <p>Viņš liek savu pili greznot. Vārti ir ar baltām rozēm apvīti un simts kāŗavīru baltās drēbēs ar sudraba šķēpiem stāv pie pils. Viņš ir sūtijis kuģi ar simts gulbjiem, un zelta tauvām tie vilks kuģi pār jūŗu ar ķēniņa meitu.</p>
+             <p>Un viņš ir licis sēdekli taisit viņai godvietā un uz galdiem likt sudraba kausus un medu un sarkano
+             vīnu.</p>
+             <p>Un ik naktis viņš liek pie vārtiem dedzināt lāpas no dzintara un gaida.</p>
+             <p>Ķēniņa kronis nolikts viņas vietā un pērles — tās viņa dabūs kā dāvanu.</p>
+             <p>Trīssimts koklētāji mēģina dziesmas dienu un nakti un augstākā tornī plivinās karogs ar zeltotu vārdu Rūtiņa ...</p>
+             <pb/>
+             <p>„Rūtiņa?" viņa iesaucas un elpo viņam sejā.</p>
+             <p>„Ja, tur ir viņas vārds karogā." Ne, tas nava viņas vārds. Viņai ir cits vārds ...</p>
+             <p>Un viņš gaida.</p>
+             <p>Bet balto rožu zemes ķēniņmeita nenāk.</p>
+             <p>Viņš gaida trīs gadus un dedzina lāpas, bet viņa nenāk. Un viņa kuģis ar gulbjiem atgriežas un pavēsta, ka viņa to ir aizmirsusi un sūta atpakaļ viņa gredzenu.</p>
+             <p>Viņš ir aizmirsts.</p>
+             <p>Un redz, tad viņš liek nodzēst lāpas un aizdzen sargus un izdzen koklētājus no savas pils. Un tad viņš liek nolaist karogu no troņa un nes to savā istabā.</p>
+             <p>Tad viņš met pērles un gredzenu pa logu ļaužu pūlī, lai ubagi tos salasa, un met kausus, lai dzērāji tos pa ielām aiznes. Un ķēniņa kroni viņš nomet skrandainai ubadzei par balvu.</p>
+             <p>Viņš aizslēdz tad visus vārtus un durvis; cieti aizkrīt atslēgas un neviens vairs nevar tās atvērt. Viņš aizver logus un tad — — — — tad viņš sadedzina balto karogu ar zelta vārdu ...</p>
+             <p>Rūtiņa nodreb. Viņas plecs ir piespiedies pie Smaiļa un trīs. Viņas sejā ir izbailes. Puķes raisās
+             no rokam un krīt laivā ...</p>
+             <p>„Smaili... ak!"</p>
+             <p>„Un tad — — tad viņš aizdedzina pats savu pili, — viņš ir liesmās, neviens to nevar glābt. Viņš sadedzina pats sevi, — neviens — — —"</p>
+             <p>„Smaili, Smaili!" viņa dveš bailēs un satveŗ viņa roku. Viņa turas cieti, kā glābiņa mekledama.</p>
+             <p>„Ne, ne!" viņa sauc. „Vaj tad viņam tiešam jasadeg?"</p>
+             <p>„Ja, viņš sadeg. Ir tikai pelni, kur viņa pils bijusi..."</p>
+             <p>„Tikai pelni?" Rūtiņa tur cieti viņa roku un acis tai ir valgas.</p>
+             <p>Ilgi viņi sēd viens pie otra starp stiebriem miglajā. Viņu kājas ir ar puķem apsegtas ...</p>
+             <pb/>
+             <p>Un tad Rūtiņa paceļ acis un tur ir kluss smaids. Viņas ir tik tuvu pie Smaiļa sejas, kā vēl nekad. Viņas meklē kaut ka Smaiļa acīs un klusi gavilē.</p>
+             <p>Viņas seja paliek rožaina. Vaj tas nava no vakara blāzmas, no sarkanās norieta maliņas? Vaj viņa ko teica, jeb tikai šalka pārgāja pār zālēm un ezeru?</p>
+             <p>Viņas roka lēni ceļas un nolaižas Smaiļa matos. Viņa glāsta tam seju un viņš mulst kā sapņos. Viņš nezina, kas notiek. Tās bija Rūtiņas rokas? Ta bija viņa? Ne, tas ir tik sen, tik sen, ka viņš vairs neizšķiŗ sapņus no patiesibas.</p>
+             <p>Viņš tikai zina, ka viņas pirksti ir ko glāstijuši. Tie laikam bija puķu gleznie ziedi ar tumšu dzelmes smaršu. Viņas pirkstos bija vēl kas vieglāks, kā smalkas stīdziņas. Vaj tās nebija mazas ūdenspilites? Viņam pat liekas, ka tie būtu bijuši Rūtiņas
+             mati ...</p>
+             <p>Tad viņu sauc:</p>
+             <p>„Rūta, Rūta! Uhu! Rūta!"</p>
+             <p>Viņi piestumj laivu krastā; balta ziedu nasta guļ
+             laivas dibenā ...</p>
+             <p>„Nu man ir jaiet," viņa saka un stāv krastā. „Un zini, es iešu tur — ja tu man nestāstisi vairs tik bēdigas teikas."</p>
+             <p>Viņa sniedz tam savu mazo roku.</p>
+             <p>„Ardievu!"</p>
+             <p>Un viņa bikli aiztek pa rasoto pļavas malu. </p>
+             <p>„Rūta, Rūta!" — sauc skaniga balss ...</p>
+             <p>Viņš maldas ap uguni, kur līst dzirkstis; ļaudis dejo un smejas.</p>
+             <p>Viņš jūt glāstu uz vaiga. Rokā vīst viens vienigs
+             zieds no ezera.</p>
+             <p>Pa zaļo blāzmu viņš iet mājās. Saule lec un viņš guļ vaļejām acim vēl savā gultā.</p>
+             <p>Viņam liekas, ka viņš šūpotos kā lielā laivā uz</p>
+             <pb/>
+             <p>bezgaligiem ūdeņiem. Līst uguns dzirkstis un balti ziedi. Kaut kur dzied. Dziesmā ir viņas vārds ...</p>
+             <p>Ak, viņš bija uz ugunigās salas toreiz. Uz peldošās liesmu salas!..</p>
+         </div>
+         <div type="chapter">
+             <head>XVIII</head>
+             <p>Kad saule ir griezusies uz rudeņa pusi un Smailis atkal iet skolā, Rūtiņas tur vairs nava — — —</p>
+             <p>Un tad ir daži gadi, kuŗus viņš viens ir pavadijis; tie ir pilni bezgaligu sapņu...</p>
+             <p>Bet kāds pavadonis viņam līdzi ir bijis visur. Ta ir Rūtiņa.</p>
+             <p>Dienā viņas soļi ir tam blakus gājuši un naktīs ta ir gulējusi viņam tuvu klāt uz spilvena un viņas roka reizam ir vaigu tam glāstijusi.</p>
+             <p>Dievs zin, kā šie sapņi ir bijuši tik skaisti, kā patiesiba to nekad nava redzējusi.</p>
+             <p>Laiks paiet ātri... Diena dienai priekšā aizsteidzas un naktis dzenas pret rītiem ar kupli piepūstām sapņu buram. Kā ūdens čalas gar ātrskrejošu laivu, kā žvadzoši burbuliši ir aizskrējušas dienas.</p>
+             <p>Rīt, rīt, viņa nāks! ir balsis dzirdētas. Ziemā viņa ir klauvējusi pie logu slēģiem ar ziemeļa vēju un rudenī ar lietus lāsēm, no kurām visa zeme piemirkusi. Un pavasara rīta agrumā viņa cīruļus ir sviedusi gaisā ar savu slaido, mīļo bērna roku un bezdeligas ir izskatijušās tā, it kā nupat tās viņu būtu ceļā satikušas jau.</p>
+             <p>Ja, dienas un gadi iet drīz priekš gaiditaja. Smailis tad ir jau liels un viņa sapņi ir lieli. Viņš ir atstājis skolu un savus mazos draugus. Viņš ir kā jauns ozols, kas salapojis mierigi stāv savā pakalnē un saule ik dienas staigā pa viņa zariem un putni nāk un iet no dienvidiem un ziemeļiem — tās ir viņa domas.</p>
+             <p>Viņa ir kaut kur tālu bijusi — Rūtiņa, bet tad kādā dienā viņa ir pārnākusi.</p>
+             <pb/>
+             <p>Ir pavasaris, un viņa tiks iesvētita. Baznica jau ir izpušķota — to viņš ir dzirdejis.</p>
+             <p>Sirds viņam runā senas, senas teikas dienu un nakti. Ak, tās jau ir noglabātas pie Rūtiņas līdz ar viņa pasaku grāmatu.</p>
+             <p>Viņam liekas, ka tas tikai vakar butu bijis, kad viņa ta matus glāstija. Viņa ir atkal klāt.</p>
+             <p>No vītoliem uz lielceļa gar ezera malu atkal birst dzeltenu ziedu vārpiņas. Viss ceļš ir nokaisits ar viņām, kā ar dzeltenu sēklu.</p>
+             <p>Vecie bērzi ap baznicu lipigām lapām viz vējā.</p>
+             <p>Viņš ieiet baznicā, kur vēsums un klusums. Kā ārprāts smacē galvu; viņš var saskaitit savas sirds sitienus. Rūtiņas vaigs tēlojas kā parādiba ... Baisma apņem prātus, kā reiz, kad ta tik tuvu bija.</p>
+             <p>Tur stāv pulks baltu meiteņu ar zaļiem vaiņagiem. Neviena seja no tām nav redzama. Silts tvans plūsmo ap viesiem; no augstajiem logiem krīt saules krusti uz cilvēku galvām. Ērģeles dzied klusi, kā šalkoņa birzē.</p>
+             <p>Vaj pasakas nava atkal dzīvas kļuvušas?</p>
+             <p>Kad ļaudis spiežas no baznicas ārā, Smailis stāv pie vārtiem pie akmeņa sētas. Viņš ir aiz citiem, viņš tikai grib redzēt Rūtiņas seju.</p>
+             <p>— — — Viņas roka guļ atkal Smaiļa saujā ar mazo balto cimdu. Viņas acis ir gaišas un skatās viņa vaigā. Salds prieks ir smaidos.</p>
+             <p>„Redzi nu, es atkal esmu te," viņa saka un apraujas. Vaj viņa kaut ko atminas? Viņai sārtojas vaigi...</p>
+             <p>„Tu neesi aizmirsis?.. Ja, ja, tās bija skaistas dienas!" viņa saka. „Bet tagad es nekur vairs neiešu, nu es būšu pavisam mājās."</p>
+             <p>Vainadziņš viņai ir tumši zaļš no jaunām mirtem un saule apstiepj to ar zelta plīvuri.</p>
+             <p>Viņi iet abi runadami cauri ļaudim.</p>
+             <p>Cik dīvaini tas bija! Viņš ir spēcigs un nobriedis;</p>
+             <pb/>
+             <p>viņam ir sastrādatas rokas un lieli zābaki kājā. Un Rūtiņa ir smalka, kā jauns bērzs. Bet laime šalc abiem pāri. Viss cits ir aizmirsts.</p>
+             <p>„Un tagad tu nāksi mani apciemot?"</p>
+             <p>„Ak ja, protams; tagad ja," viņa saka nedroši un atskatās. Acis ir prieka pilnas.</p>
+             <p>Tur jau ir viņas rati. Viņu gaida. Un Smailis pastiepj savu roku — viņa atspiežas uz tās un iekāpj
+             sēdeklī.</p>
+             <p>Ratos ir divi cilvēki; tie skatās izbrīnijušies uz Smaili. Vienam ir resns cigars mutē. Smailis noņem cepuri.</p>
+             <p>„Ardievu!" saka klusa, mīļa balss un rati aizripo.</p>
+             <p>Gaisi san pavasara saulē. Ezers mirdz atkal kā izliets sudrabs. Teikas ir atgriezušās.</p>
+             <p>Ta ir mīlestiba, ko viņš aiznes mājās. Liels zieds, no kuŗa apdvašoti lauki un birzes.</p>
+             <p>Bet viņas nekad nava — viņa vienmēr tikai ir bijusi.</p>
+         </div>
+         <div type="chapter">
+             <head>XIX</head>
+             <p>Viņa nāks, viņa nāks!</p>
+             <p>Viņš iemieg vakaros ar šo brīnuma vardu un rītos pamostas.</p>
+             <p>Tagad viņš ir, kā tas varonis pasakā, kuŗš izdzēris kausu spēka dzēriena — to pasniedza tam Rūtiņas roka.</p>
+             <p>Dienas paiet dunēdamas un tvīkdamas. Vaj nava vienalga, kad viņa nāks? Vaj par to vēl ir jāšaubas?</p>
+             <p>Smailis iet agri no rīta laukā — viņam ir jadvašo un jastrādā un jasapņo.</p>
+             <p>Tēvs skatas viņa soļos un smaida. Kāds spēks tur ir, kāds prieks!</p>
+             <p>Lauki tiek paplašinati, atmatas uzartas. Visur vajaga līgoties labibas druvam.</p>
+             <p>Dienvidū, kad kalpi iet atdusā, Smailis guļ birzes malā un klausās vējos un putnu kliedzienos. Viņam nava miega, viņam sapņi nāk saules gaismā.</p>
+             <pb/>
+             <p>Vakara blāzmas gaismā viņš apstaigā vēl laukus, noglauda kumeļus birzes malā un stāv pagalmā, kaut
+             ko domadams.</p>
+             <p>Ja, tas ir savāds nostāsts par kādu tēva dēlu, kurš zina, ka viņa nāks, ta Rūtiņa ar mīļo skatu.</p>
+             <p>Šis savadais zēns atminas savu teiku par to, ka viņš ir aizsūtijis sūtņus un gaida savu ķēniņmeitu no dzelteno rožu zemes.</p>
+             <p>Ja, un nu viņam vajaga saņemt to!</p>
+             <p>Viņš apskatas — viņa istaba ir veca, logi ir zemi.</p>
+             <p>Un viņš liek izlauzt jaunus logus un laist sauli istabās. Te viņa staigās pa šīm istabam, lai tad ta neteiktu, ka te ir tik tumšs, un lai viņas vaigā ēnas nedusetu, kā no mākoņiem, kas sauli sedz.</p>
+             <p>Tas ir grūts darbs un tik daudz vaļas brīžu tur ir atstāts. Bet tas ir viegli padarits un mājā mirdz gaišak, kā uz svētkiem kādreiz.</p>
+             <p>Viņš izcērt klētī logu uz dārzu, lai labibas apcirkņos graudi zeltoti izskatas, kad viņa nāks.</p>
+             <p>Un dienvidos staigadams pa dārzu viņš kaut ko mēro ar soļiem un skatas un mēro atkal. Cauri veco ābeļu rindam ir jaizvelk ceļš.</p>
+             <p>Un gaiditajs rok zāli sen sazēlušo pa vakariem un dienvidiem un lietus laikā. Viņš viens pats to dara, jo kam gan vēl to lai atļauj?</p>
+             <p>Reizam tas atspiežas uz lāpstas un skatas zālē uz dzelteniem ziediem un baltā dābola galviņam. Lūk, kur iet Rūtiņas kājas... ta ir Rūtiņa... drēbes aizšalc...</p>
+             <p>Acīs viņam dziļi iemirdzas dzidrums.</p>
+             <p>Celiņš ir izrakts un nobērts ar baltu granti un maziem zvirgzdiem. Tas izskatās kā izklāts linu audums zaļajā zālē — tas ir viņai izklāts. No ābeļu zariem ir krusta ēnas uz ceļa un tās šaudās vējā. Pa šām krusta ēnam ies viegli soļi un caur ābeļu zariem klīdīs vārdi — kāda melodija</p>
+             <p>Bet ziedu — ziedu tak viņai vajaga daudz. Un</p>
+             <pb/>
+             <p>dienvidus pusē dārza piegāzē šis zēns uzmet puķu leteci un apliek to ar radžu platem. Tās ir atvestas no tālienes priekš rožu dārza.</p>
+             <p>Radzes tiek nokrāsotas baltas un viss riņķis mirdz saulē, kā sniegs, apstulbinoši balts zaļajā maurā. Pavasarī tiks atvestas rozes un ziedēt te viņām vajaga drīz ...</p>
+             <p>Visa rīta puse mājai tiek apstādita ar jaunām vīnstīgām, lai zaļa, dzīva siena smietos pretim saulei.</p>
+             <p>Un cik bagatigi katrs darbs tiek sapņiem veltits. Ik zāle, ik smilga, ik pumpurs ir pilns ar vēl neizplaukušiem ziediem, kurus raisīs viņas pirksti tai
+             dienā.</p>
+             <p>Viņa būs vienigā valdniece te par visu. Neviens nedrīkstēs cits te staigāt. Ja, te visapkārt dārzam ir vajadziga sēta no lauka akmeņiem — tāda ar stabiem, ka baznicas dārzam — te būs svētnica uz priekšu.</p>
+             <p>Vasara paiet dziedadama, kā brīnumu pilna teika, kuŗai katra nodaļa iesākas ar vārdiem: viņa nāks!..</p>
+             <p>Gar iebraucamā ceļa abām malam ir jasastāda apses... ja, priecigās meža apses! Kad viņa nāks, apses sāks trīsēt un skandināt savas mirdzošās lapas un palocīs galotnes viņai pretim. No vienas uz otru ies šīs priecigās trīsas un visa mazā aleja drebēs un
+             skanēs.</p>
+             <p>Un rudenī tās klās zem viņas kājām savus zelta vaiņagus.</p>
+             <p>Tad viņš staigā pa savām istabām un domā par to, ka Rūtiņai te patiks?</p>
+             <p>Kur viņa sēdēs un kur viņa varēs atdusēt? Viņš atminas gaiditaju savā pasakā un tad, kad rudenī lauku bagatiba ir pārdota, viņš atved mājā sudraba dzeŗamo trauku; dārgu naudu par to viņš ir samaksājis, viņš pats to par savu naudu pircis.</p>
+             <p>Kam tas vajadzigs? viņam jautā.</p>
+             <p>Viņš smaida pie sevis. Nevienam to nevajaga zinat. Kad viņas roka to cels pie lūpām, tad viņi zinās...</p>
+             <pb/>
+             <p>Viņš apskatas vecos sēdekļus no sentēvu laikiem un kaut kas nāk prātā. Tur trūkst viena krēsla. Un tad pēc laika tas tiek pārvests no tālienes, no pilsētas. Tas ir smags, kā mazs tronis, no dzeltena kļavas koka un koklei līdzigu atzveltni; viss tas ir izgriezts puķēs un dīvainām pūķu galvām. Tas ir par spīti visiem pūķiem — viņa tur sēdēs, kad svētki būs un klausisies teikas, kā senāk.</p>
+             <p>Daudz brīnumainas grāmatas gaiditajs zēns ir atvedis. Tās stāv viņa istabā, plauktā aiz glāžu durvim. Tur ir dziesmas, mazas, kā tumšzilas naktenites; tur ir uguns un smaršas pilnas dziesmas, kā ziedošas sērmukšas ķekari; tur ir tautas dainas, ikkatra no viņām mazs dzintara gabaliņš mirdzošs, maza teika, kuru lasot istaba pielīst saules un sirmas senatnes.</p>
+             <p>Mīļi stāsti tur ir, kuŗos var aizmaldities kā šalcošās birzēs, kā melnos silos.</p>
+             <p>Ziemas vakaros viņš ir lasijis kādu senu stāstu par kādu varoni, kas četrdesmit gadus ceļojis pa jūŗam un zemem uz māju, kur gaida viņa vismīļā. Jūŗā un ugunī viņš bijis un gūstniecibā pie daiļām būtnem, bet viens sauciens stiprāks ir bijis par visu — tās sauciens, kura viņu gaida.</p>
+             <p>Četrdesmit gadus! Un tad tas ir pārnācis beidzot...</p>
+             <p>Šo stāstu zēns aizsūta Rūtiņai. Varbūt ta zinas, kas tas ir, kuŗš četrdesmit gadus ilgojies un gaidijis.</p>
+             <p>Un katru rīt mozdamies viņš dzer spēka dzērienu, kuŗu pasniedz Rūtiņas roka.</p>
+             <p>Naktīs ta dus ar savu vieglo elpu pie viņa tuvu klāt un tās pirksti staigā pa zēna matiem.</p>
+             <p>Viņš runā ar to, tiklīdz klusums ir apkārt un aizmirstas skanigi mīļās vārdu skaņās, kuŗas vienmēr ir tādas, kā priekš gadiem.</p>
+             <p>Un brīnums viņš ir priekš visiem un pats priekš sevis, tāpat kā lielā gaidišana ...
+             — — — — — — — — — — — — — — — — —</p>
+             <p>Smailis satrūkstas. Gaidišana? Vaj viņš sagaidija?</p>
+             <pb/>
+             <p>Kas tas bija? Viņš staigā tagad kā viesis pa veco dārzu. Ak, ir agrs rudenis gaisā jūtams! Lapas tā savadi čab pāri lielajām nātram zem ābelēm. Smailis skatās, kur bija viņa rožu dārzs. Reti radžu akmeņi ir izsvaiditi un zālem apauguši. Cūkas tos ir izrakušas. Viens vienigs liels, ass, dzeloņains krūms ir palicis, bez ziediem, tikai ar šķēpiem vien...</p>
+             <p>Viņa brīnumainā senā grāmatā ir izbeidzies zelta raksts. Sarkani plankumi, kā no saspiestiem tumšiem rožu ziediem tur ir palikuši. Viss tālāk ir rakstits
+             no svešas rokas.</p>
+             <p>No skumju rokas ...</p>
+         </div>
+         <div type="chapter">
+             <head>XX</head>
+             <p>Viņš to bija gaidijis ilgi, karsti, nedomadams neko citu.</p>
+             <p>Un tad viņam bija tik lielas ilgas redzēt to. Viņš gājis bija visur, kur domājis viņu satikt.</p>
+             <p>Viņš ir priecigos ļaudīs, kur dun muzika un dejo, viņš ir dzīrās un kāzās, viņš meklē ar ātrskrejošu skatu kādu seju ar dziļām, tumšām, biklām acim, kādu seju, gar kuru tumšas kvelmainas matu stīdziņas, kā apbūbejis zelts vizmotu, kādu lokanu stāvu, kādas vārigas garas rokas, kā balto ezerrožu kātus, mīļi kas pretim tam stieptos.</p>
+             <p>Bet tad viņas nava nekur ...</p>
+             <p>Nāk pavasaris un viņa skumjas aug un moca viņu lielā nezinašanā.</p>
+             <p>Un tad viņš zina ko nesaprotamu: Rūtiņa tiks aizvesta uz leišu mežiem, viņa būs sieva savam bagātajam krusttēvam un dzīvos lielā muižā. Tas ir tālu, tālu — neviens par to vietu neka nezina.</p>
+             <p>Tas ir viss kā teika. Elpa viņam metas krūtīs — ne, Rūtiņa, Rūtiņa ir te, viņa tikko vēl kopā ar to gāja pa sudrabainiem vītoliem gar ezera malu, kopā ar tām daudzām mīļām bērna dienam.</p>
+             <p>Viņš sapņo tukšus sapņus. Diena viņam liekas</p>
+             <pb/>
+             <p>ka saplīsis zvans, kas vairs nezumzina un neskan. Viss ir kails.</p>
+             <p>Un tad ir kāda karsta pavasara diena, kad atkal sērmukšas zied un vaŗavīksne ir gaisā, tad viņš atkal iet gar ezera krastu — viņam vajaga redzet Rūtiņas acis. Viņš ir kā miegā, kā mēnešsērdzigs, nezina, kur viņam jaiet.</p>
+             <p>Tur ir birze, kurā jāņugunis dedza, tur ir ābeļdārzi; laiva guļ ezermalā kā melna ēna, kā baids. Ir dienvidus klusums visapkārt; soļi nedzirdami grimst zīžotā zālē.</p>
+             <p>Viņš iet un meklē kaut ka. Ja, viņam liekas, ka te ta ir. Pagalmā smiltī rušinajas divi mazi bērni un klusi dzied. Suņi guļ saules tveicē un nemana viņa.</p>
+             <p>Ir kluss dārzs, klusas durvis ar nobālušu senu krāsu.</p>
+             <p>Vaj viņš gaidijis ir pie durvim? Vaj viņš ir pieklauvejis? Sirds viņam ir tumšas laimes un trīsu pilna. Bet neviens neaicina atvērt un ieiet.</p>
+             <p>Viņš atveŗ durvis. Ir liela gaiša istaba un Rūtiņa sēd krēslā. Viņas mati ir izjukuši un aizsedz seju. Viņa ir noliekusies pie audeklu baķiem un domā kaut ko. Rokās ir mirdzošas šķēres.</p>
+             <p>Viņa paceļ acis un izbailes tur ir vispirms. Tad viņa sārtojas un nobāl un paliek lūkodamās Smaiļa sejā. </p>
+             <p>„Rūtiņ..."</p>
+             <p>Vaj viņa rokas kur sapinās? Vaj tie nebija viņas mati? Viņa rokas turēja kaut ko cieti, kā klusu baltu putnu, kuŗam sirds tik stipri trīs. Viņa saujā sita ātri dreboši pulsi.</p>
+             <p>„Rutiņ, es atnācu."</p>
+             <p>Klusums ir visapkārt. Viņa nevar pakustēties no brīnumiem. Ap viņiem caur logu uz grīdas zib saules rakstojumi caur lapām dārzā.</p>
+             <p>Laiks ir apstājies. Spožais saules rats guļ mūžigā mierā. Tā nekad nava bijis un nebūs.</p>
+             <pb/>
+             <p>Kaut kas aiziet lēni, tad it kā uz pirkstu galiem, un viņa vairs nava — tas ir bijis viņa sapnis.</p>
+             <p>Rūtiņas rokas noslīd uz leju un viņas skropsti guļ pār acim. Seja ir salta un klusa tad.</p>
+             <p>„Man būs kāzas," viņa saka cieti un dzirdami. „Un es dzīvošu lielā muižā." Viņa ir līgsma.</p>
+             <p>Nokrīt kāds zeltains pavediens viņam pie kājām. Viņam liekas, ka spīdošās šķēres ir to nogriezušas — viņš tak dzirdēja aso nāviga grieziena skaņu. Ja, zelta pavediens vairs netek; viņš guļ zem kājam samīts, un baltie linu audekli ir kā vēsi palagi, kuŗi kaut ko apsedz.</p>
+             <p>Viņš paceļ acis un redz Rūtiņu samulsušu un nelaimigu.</p>
+             <p>Kā viņš ir varejis te nākt, kas viņu ir dzinis? Viss te ir tik svešs, tik tukšs, tik nevajadzīgs. Un Rūtiņa ir ietīta kādā pelēkā šķidrautā — viņa ir apburta un viņš tās vairs nepazīst.</p>
+             <p>Viņam ir aizkārta kāda dzelžota atslēga un viņš ir kluss — viņš zina, ka neviena nava, kas to atslēgtu — Rūtiņas rokas ir tukšas un nedzīvas.</p>
+             <p>Viņš klīst atkal pa gaišo saules lauku un viņam liekas, ka kas zvana dziļi kā iz nogrimušas pils.</p>
+             <p>Vaj tas nava tikai sapnis bijis? Vaj viņš tiešam ir bijis pie Rūtiņas un to redzējis?</p>
+             <p>Kas to lai zina, vaj ta bija Rūtiņa, kuru viņš ir meklējis?</p>
+             <p>Viss ir tik sen tas bijis.</p>
+         </div>
+         <div type="chapter">
+             <head>XXI</head>
+             <p>Zvani vecajā baznicā zem bērziem un kļavām ir aizzvanijuši kaut ko un klusē. Uz lielceļa ir nobiruši no vītoliem dzelteni ziedi, kā kaisīdamies ceļā kaut kam. Sērmukša ir noziedējusi. Rūtiņa ir aizvesta ... Leišu meži guļ zilos lokos un ir mēmi un nekustoši, kā pasakās.</p>
+             <p>Viss ir tad atkal kā bijis.</p>
+             <pb/>
+             <p>Saule iet savu ceļu, naktis nāk ar zvaigznēm un mēnesi, lapas raisās un plaukst, un laiks iet savu mūžigo gaitu ...</p>
+             <p>Tikai kāds zēns tad ir citads kļuvis.</p>
+             <p>Viņam nava vairs ko gaidit.</p>
+             <p>Kad viņš iet agrā vasaras rītā pār lauku, viņam liekas, ka salna ir bijusi un viss ir nosalis. Koku lapas karājas apvītušas un melnas; nava vēja šalkoņas viņās ar brīnumainiem stāstiem. Mākoņi ir salti viņam; kā lieli sniega kalni tie staigā augstumos un no viņiem dveš vēsums.</p>
+             <p>Viņš liek kāju uz apsētas druvas un liekas, viņš dzirdējis ir kādu žēlu putna čiepstienu. Viņš izbijies apstājas un paskatās uz zemi — ja, viņš ir saminis cīruli, un gaiss ir viss kluss tad.</p>
+             <p>Ne, viņš nava to saminis, cīrulis ir nosalis no kādas nakts salta vēja un nedzied vairs — visi putni ir nosaluši. Birze ir sarāvusies un skumji kustas vijigie zari kā raudādami un locidamies, kā kam
+             ardievas teikdami.</p>
+             <p>Zēnam ir vienalga, vaj lauki zeļ vaj stāv tukši, viņa rokas strādā, sēj un, pļauj un tomēr ir tik nevajadzigas un liekas.</p>
+             <p>Viņš vienaldzigi noskatās, ka viņa jaunie draugi strādā un kļūst bagati. Sacensties nenāk ne prātā. Vaj nebūs tad ari viss tāpat kā tagad? Viņam varētu būt mantas kā Krezam, akmeņa nami un klētis pilnas ar labibu, pērļu atvilktnes pilnas un reti dārgumi skapjos ieslēgti — tas nava nekas. Viņš nekad tos ari neatslēgtu un neskatītos.</p>
+             <p>Zēnam tad ir jādomā par bijušām dienam un par teikam — ari par to, vaj viss tas tik nava teika bijusi.</p>
+             <p>Daudzreiz viņš gribējis ir atmosties, kā no sapņa — ne, viss ir patiesiba, no kuŗas nevar atmosties.</p>
+             <p>Dienas un naktis nak ka asinis iemirkušas; viņas aizkaŗ visu ar savām rokam un liek izklāt sēru</p>
+             <pb/>
+             <p>samtu pa visiem ceļiem. Zvaigznes ir miglājā un saule pelēkā plīvurī.</p>
+             <p>Bet pasaule tad ir atmaskota priekš ta zēna. Viss ir redzams kails patiesibā, kā rudeņa lauks. Dzīve ir nometusi līgavas vaiņagu un novilkusi princeses drēbes — tagad ta ir skrandaina ubadze, kura nīst sapņotajus.</p>
+             <p>Tad Smailis paliek par sapņotaju. Viņam tīkas aizmigt senos laikos un runāt ar saviem tēliem. Ap viņu ir savada, klusa roka, ap viņu tādas skumjas, kā sarkans magoņziedu vaiņags.</p>
+             <p>Klusajam zēnam tad ir, ka viņu kāds mīlētu atkal, bet ar sāpju un sapņu pilno mīlestibu, ar skūpstiem, pēc kuŗiem sirds nīkst no nesajusta sāpju prieka.</p>
+             <p>Ja, viņš tad ir atkal iemīlejies. Viņam ir klusa un skaista līgava. Vakaru norietos, kad klusums apņem zemi, viņa nāk... Viņa pamirdzina ar zvaigžņu uguntiņām kā sveicinādama. Naktīs klusumā, pie lampas gaismas, viņa sēd tam līdzās — ta ir tāda viegla, kristālskaidra, kā mēnesnica un tumši reibinoša, kā rožu saldakais zieds.</p>
+             <p>Ši jaunā līgava mīl teikas un pasakas un mazas klusas dziesmas; visu brīnumainu un neesošu viņa mīl; viņa aizmaldina savu mīļo zēnu tur, kur cilvēku kājas nestaigā — viņai ir brīnuma spēks, burviba pirkstos, un kam ta acis aizkaŗ, tas redz brīnumus, kā burvibas apdzirdits.</p>
+             <p>Puķes tad runā zēnam un ir dzīvas; viņas ir visas apburtas ķēniņmeitas un saule ir viņu staltais bruņinieks, atpestitajs — viņas visas skatas uz to un atveras. Lauku akmeņos ir dvaša un dvēsele un katrā zāles stiebra augšanā salda muzika.</p>
+             <p>Cilveki — kādas lielas dievu kokles stīgas un viņu sāpes un prieki — zimzešana ... Un viņu acīs liek zēnam ta līgava redzet zvaigžņu atmirdzumu; tās ir laikam apmaldijušās te kur zemes lejā.</p>
+             <p>Toreiz mīļais zens atdevās tai, kas viņu iemīleja</p>
+             <pb/>
+             <p>un atdevās viss. Viņam netikās dzīve, bet tikai teikas un mazas dziesmas. Iz tām smaidija viņas seja.</p>
+             <p>Kas viņa bija, ta salda aicinātajā un kas viņa ir? Neviens to nava atminejis un neatminēs.</p>
+             <p>Smailis Zimza atminas, kas tas bija par savadu zēnu toreiz te Zvanitajos.</p>
+             <p>Tad zēns baidijās no cilvēkiem un bija viens savās mājās. Kad viņš bija pie citiem līgsmās un dzīrās vaj svētkos, viņa seja nesmaidija kā citiem. Meitenes aicinaja viņu uz deju; viņas tam smaidija labvēligi, viņām gribejās būt ta tuvumā. Bet zēns to neredzēja un nezināja, viņš labāk palika viens. Viņam nebija ar ko sacensties, viņam nebija ne greizsirdibas, ne ienaida, ne labvēlibas — viņam bija tikai lepnums, vientuliba un sapņi. Par viņu čukstēja kā par neprātigu — viņam bija vienalga ...</p>
+             <p>Druva aizmirsās un kļuva kaila. Viņš priecājās tikai par miglu, rasu un sauli; zelta graudi viņam vairs nepatika. Viņš veda arvien vairāk grāmatas no pilsētas, brīnumu pilnas, bet nevienam citam tās nebija vajadzigas, kā tikai klusajam zēnam.</p>
+             <p>Balta nezinamā roka noveda viņu no visu ceļa uz asas rožainas tekas ...</p>
+             <p>Viņš gāja ar tēvu kopā pa laukiem un klausijās viņa vārdos un padomos un atraidoši kratija galvu.</p>
+             <p>Projam vajadzeja viņam, prom! Likās, ka aiz mežiem un pasaules plašumiem gaida viņu Rūtiņa, un viņš to atradīs. Tikai vienu vārdu dzirdēt, tikai mazu, klusu smaidu redzet un pasaule būs pilniga.</p>
+             <p>Rūtiņa un ta nezinamā mīļā roka, kas viņu glāstija — viss bija viens. Sapņi zuzeja ap viņu, kā zelta bites ar nebauditu saldumu, un viņš padevās. Dzīve nokrita, kā nonesata drēbe — sapņi veda to — viņš nevarēja atmosties vairs ...</p>
+             <p>Gadi bija gājuši nu — un vaj viņš bija atmodies? Ak, apburtie atmostas tikai par simts gadiem reizi. Vaj viņš tagad bija atmodies?</p>
+             <pb/>
+             <p>Gadi, daudz gadu ...</p>
+             <p>Smailis Zimza aizvēra savu atmiņa grāmatu, — pēdejā lappuse bija izlasita un nu viņš te sēdeja. Rokas bija pilnas, kā ar ziediem, kā magoņu lapam, kuŗu tik daudz toreiz dārzā bija. Ar tiem viņš varēja apbērt savu atmiņu grāmatu, ar zelta rakstu un rasas pērļotām lappusēm rakstito.</p>
+             <p>Lai dus, lai dus!</p>
+             <p>Sauciens bija izskanejis; atmodies, ka pasaku tēls no burvibas, un nu varēja atkal nodoties sapņu varā.
+             — — — — — — — — — — — — — — — —</p>
+             <p>Vēss vakars gulās pār laukiem un ezeru. Iesaucās zvans, kā tas parasts sestdienas vakarā ap saules rietu. Viņš atzvanija un aizzvanija reizā visu. Liels kluss miers pildija sirdi.</p>
+             <p>Smailis Zimza sēdeja logā un lūkojās lejā no pakalna. Cik dzīvs bija viss! Tāpat kā sen, sen atpakaļ. Zilie leišu meži gulēja kā nekustināms valnis, pilni tāluma ilgu un teiku; pakalni un mājas snauda kā gadusimtus snauduši.</p>
+             <p>Un viņam, mūžigajam sapņotajam, bija, kā kad tas pie stikla šķirsta stāvetu. Bija viņš nupat kā dzirdējis un redzējis brīnumu. Jaunibas diena kā mīļa meitene bija atelpojusi — vienu vienigu dvašas vilcienu; rožu kvēls sejā bija iededzies smaids, pārlaidies pār seju, kā saules atmirdza pār laukiem pārskrien; bija dzirdams salds vārds bijis un viss atkal dusēja netraucēts skaistā kristāla dusā, netrūdošs, slēptas dzīvibas pilns.</p>
+             <p>Lai dus, lai dus!</p>
+             <p>Viņš bija te nolicis dažas dienas, kā baltus un bālgansārtus ziedus.</p>
+             <p>Rītā viņš atgriezisies uz dimdošu pilsētu, kur viņa ikdienas dvaša dveš, kur dzīve cīnās ar sapņiem
+             un īstenibu.</p>
+             <p>Tikai naktī viņu sakampa skumjas, kā nesaraujams tīkls — jo nāca atkal šķiršanās.</p>
+             <pb/>
+         </div>
+         <div type="chapter">
+             <head>XXII</head>
+             <p>Viņš pamodās spoža rīta sveikts. Ta bija saules diena ar lielu briestošu spēku. Pilniba kvēloja no gaisa
+             un zemes.</p>
+             <p>Viņš nu vareja iet, jo skumjas sāka mākt viņu atkal. Gŗūtsirdigu darija satveicetais vējš ābeļu zaros un mieriga leišu mežu zilešana pie dienvidus apvāršņa debess malas. Tāluma ilgas sauca tik nedzirdēti mīļi un tādās reizās bija arvien skumji gŗūtsirdiba.</p>
+             <p>Kad atvadijies viņš sniedzis roku bija svešajiem ļaudim, viņam kļuva vieglāk un mierigak. Savu mazo somu nesdams viņš gāja atkal pa lauka celiņu un tad gar birzitem uz lielceļu ezera malā. Pie sērmukšas viņš apstājās un ietīstija mutautiņā sarkanu ogu ķekaru...</p>
+             <p>... Skolas nams klusi sildijās vēlas vasaras saulē kvēlodams ar sārto jumtu. Ap viņu bija kā mīksts sudrabots plīvuris.</p>
+             <p>Smailis sajuta kādu vēlešanos un nogriezās atkal no lielceļa kāpdams uz pakalni pie skolas nama. Pie pagalma vārtiņiem viņš apstājās un klausijās. Likās, balsis čalotu pa istabam...</p>
+             <p>Tad viņš atvēra vārtus un iegāja pagalmā. Bija kluss — neka, neka nebija no tās dienas. Bezdeligas sēdēja uz akas vindas un vidžinaja...</p>
+             <p>Smailis nogrima savās domās. Un pēkšņi pamostoties bija, kā kad viegli soļi pieietu un vieglas meitenes roka tam uz pleca nogultos. Viņš sadrebeja un pacēla galvu. Tā tad tiešam tas reiz ir bijis...</p>
+             <p>Tad viņš iegāja skolas mājā. Viņam nāca pretim skolotajs. Tas bija pavisam svešs, un brīnidamies skatijās uz ceļinieku.</p>
+             <p>„Es gribetu redzet klases istabas. Atļaujiet man palūkoties," teica Smailis.</p>
+             <p>„Lūdzu," brīnidamies teica svešais skolotajs. Viņi abi kāpa pa trepem un skolotajs kaut ko stāstija.</p>
+             <pb/>
+             <p>Smailis pastāveja brītiņu vienā, otrā istabā, palūkojās uz logiem.</p>
+             <p>Viņam bija kā kapsētā, kur apmeklē gadiem neredzētas kapu kopas. Reiz tas ir bijis, ja gan, pasaule reiz ir ziedejusi; viņš nava sapņojis tikai.</p>
+             <p>Kapsētā ilgi nepaliek un viņš griezās iet atpakaļ.</p>
+             <p>„Pateicos," viņš teica skolotajam un kāpa pa trepem lejā. Tukšās telpas skaitija viņa soļus...</p>
+             <p>Diena kvēloja karsta, kad Smailis pa lielceļu soļoja tālak. Sudrabotie vītoli muldeja vējā. Atkal nāca gŗūtsirdiba, jaukta ar dziļu dzīvibas prieku un saldumu. Vaj nevaretu notikt augšāmcelšanās brīnums tiešamibā, bez sapņiem... Vaj tas jau nava noticis? Ne, ne, — ezers tikai zvīguļoja un niedras klanijās katrai vēsmai bezgala nemierā krustodamas savas šķēpu lapas.</p>
+             <p>Pie baznicas bija piebraukts pulks zirgu. Gaŗam ejot Smailis dzirdeja, ka dūc ērģeles... Lokanie bērzu zari māja, kā zaļās vijigas rokas, un stipra vara viņu aicināja apstāties.</p>
+             <p>Viņš iegāja pa pusapdrupušiem akmeņa vārtu mūriem. Durvis bija pusatvērtas. Seno koraļu spēks duneja iekšā, un viņš iegāja...</p>
+             <p>Viņš sēdēja ilgi solā blakus mierigiem cilvēkiem un klausijās nenozīmigos mācitaja vārdus, kuŗi monotoni zvanija balti klusā baznicā. Viņam tikās līdz galam noskatities lēnā dievkalpošanas gaitā un dzirdet dziesmas un ērģeļu dūkšanu. Saule spiedās caur logu rāmju krustiem un baltā mirdzumā krita uz baznicenu muguram un galvam un veco grāmatu lappusem. Uz altaŗa mirdzinaja divas dzeltenas sveču liesmiņas un tumša bilde raudzijās pretim lūdzējiem.</p>
+             <p>...Tad atkal uz viņa pleca nolaidās kāda viegla jauna roka un bija viss tik pilnigi, kā patiesibā, un Smailis zināja, ka tie nava tikai sapņi bijuši toreiz. Skumjas palika par lielu prieku un viņš atdevās tām, kā baltam vilnim... Atkal reiz aizpeldeja gaŗam</p>
+             <pb/>
+             <p>ugunigā sala, mirdzoša, karsta, mūžigi zaļos vaiņagos... ērģeles dūca kā svētās orģijās... Apskaidrots viņš gāja atkal cauri mīļām kapu kopām, kuŗās pasakas dusēja līdz ar zaļi dzelteniem rītiem un pavasaŗiem.</p>
+             <p>Kad lūgšanas bija galā, viņš nostājās pagalmā zem kļavas un skatijās cilvēku pūlī, kas te bija sanākuši savu svētdienu svētit.</p>
+             <p>Viens otrs vaigs savāds likās. Vaj tad?.. Ja, patiesi, viņš pazina tos. Tur bija Putniņš, mazais melnmatainais zēns ar melnām acim, kā dārgakmeņiem. Nu viņa vietā bija resns vīrs ar uztūkušu, labi koptu seju un ūdeņainām acim. Viņa rokas, mīkstas un resnas, kavējās ap zelta pulksteņa ķēdi pār krūtim. Viņš laikam bija tirgotājs, viņš bija savu mērķi
+             sasniedzis.</p>
+             <p>Viņš varbūt dienam un naktim rēķinaja savus ieņēmumus. Smalkas drēbes bija viņam mugurā un gaiša
+             cepure...</p>
+             <p>Un tad pagāja gaŗam Vanags — visi to sveicinaja — viņš droši vien bij varas vīrs.</p>
+             <p>Ja un tad — tas bija kalpa zēns Valdis Vaiņots, pasaku stāstitajs toreiz. Viņam ir pelēki svārki mugurā un apputējuši veci zābaki. Brūni nodegusi seja tam ir un sastrādatas rokas un acis tik nopietnas un pazemigas. Divi bērni tam iet līdzās ar vecām kurpitem. Kur nu ir teiku zemes?</p>
+             <p>Un vēl viens un vēl viens nāk — sievas un meitas un visiem ir sejā kāda maza atspulga no tāliem laikiem.</p>
+             <p>Smailim gribētos saukt: kur esiet, mīļie zēni un meitenes, atmostaties! Bet atmošanās nava. Visiem ir gaŗam aizpeldejusi ugunigā sala un visi ir to aizmirsuši. Dzīve-ragana ir teikusi savus burvekļa vārdus un pārvērtusi, un sakropļojusi visus. Ikkatrs no viņiem ir aizslēgta sabrukusi pils, kur reiz sapņi dziedaja un karogi plivoja, un zelta atslēga ir noglabata, lai neviens tās vairs neatveŗ.</p>
+             <p>Melni kraukļi tikai perinajas mūŗu plaisās un torņu</p>
+             <pb/>
+             <p>zālēs — — neviens vairs ari negaida ķēniņmeitas,
+             kuŗa atmodinatu. Vaj viņa pavisam ari ir kur, vaj viņa ir bijusi pavisam?</p>
+             <p>Ko viņš te bija meklejis? Viņam vajadzēja kaut vienas mazas daļiņas no ta, kas reiz bijis, viņš bija nācis atdzerties, kā izslāpis pie kāda aizmirsta skaidra avota koku ēnā, kuŗam visapkārt mazas pavasaŗa puķes. Un viņš bija dažās dienās izsapņojis savu brīnumaino dzīves teiku — bet kas tad bija no patiesības viņa rokās bijis? It neka!</p>
+             <p>Varbūt, ka tomēr atgriežas ari īsteniba, ja zinātu
+             atburšanas vārdus.</p>
+             <p>Viņam vajadzēja aiztikt kaut ko taustamu ar savu roku.</p>
+             <p>Un tagad, kad viņš skatijās Vaiņota sejā, viņš zināja kaut ko. Viņš piegāja pie drūmā vīra, noņēma savu cepuri un sveicinaja to, cieti satverdams viņa cieto roku. Ta bija viņa jauniba; viņš skatijās kā spogulī, vaj kas pretim neatsmaidīs.</p>
+             <p>Bet vīrs skatijās Smaiļa sejā un pakratija galvu. „Nevaru lāga atmineties."</p>
+             <p>Tikai kad Smailis tam bija kaut ko teicis, tas pasmaidīja manami.</p>
+             <p>„Ja. Tie laiki ir tālu, un es ari maz atminos. Laikam tā būs, kā jūs teicāt."</p>
+             <p>Un tad viņš teica pāris vārdus par savu dzīvi un prasija par to ari Smailim, bet tur nebija neka no ta, kas bija vajadzigs. Viņa vārds bija pareizs — viņš bija vaiņots no raganas-dzīves par aizslēgtu apburtu pili, kur reiz... kur reiz...</p>
+             <p>Tad tas vīrs sniedza viņam roku un runāja par nevaļu un steigšanos, par darbu un māju.</p>
+             <p>Viņa cietā roka šķīrās un neka vairak nebija. Tas bija viss taustamais no Smaiļa sapņiem. Cieta darba vīra roka, mūžigai darba kustibai radita.</p>
+             <p>Vaj iet vēl un satvert citu rokas? Vaj skatities varas vīra vaj tirgotajā acīs? Vaj tās rokas būs</p>
+             <pb/>
+             <p>labakas? Ak ne, tas būtu veltigi un par daudz skumji. Tas būtu tikpat daudz, kā glāstit nobālušus krustus kapsētā un jautat viņiem par to, kā reiz vējš zūzoja ozolu vaj priežu zaros un kā lietus lāsoja no lapām spožām dzirkstim.</p>
+             <p>Tie vārti bija aizkrituši uz teiku zemi un ikdiena rūsēja ap cieti slēgtām dzelzim.</p>
+             <p>Smailis stāveja zem šalcošā koka un juta, ka sēras uzdveš līdz ar vieglo vasaras vēju.</p>
+             <p>Kas tas bija, ko viņš te mekleja? Vaj dzīvibai un pasaulei kas kaiteja? Vaj ta nebija pilniga?</p>
+             <p>Saule ritēja spoža, tāpat kā priekš gadiem, un tūkstošas dzīvibas sauca viņai pretim. Vaj zemē nebrieda pumpuri, vaj rozes neziedēja un ezeros neauga baltas ūdensrozes ikkatru vasaru, ikkatru gadu no jauna? Zibenis blāzmoja naktīs tāpat un rudens naktīs debess vizēja no zvaigznēm, kā ar plīvuri pārvilkta, kuŗam pati mūžiba cauri lūkojās. Zvaigznes zimzeja iedamas tāpat kā priekšlaikos; visa telpa bija saskaņās, kā Dieva kokle, un Viņa pirksti zināja simfoniju meklet, kurai vēl nevienas disonances nava bijis... Ka viņš vēl mekleja?</p>
+             <p>Un te — vaj te nestaigaja tāpat cilveki, vaj bērnu balsis nekliedza un nesmējās? Vaj sirdis neuzziedeja ar brīnumainiem uguns ziediem un roka roku neskāva ar dziļu mīlu un trīsam?</p>
+             <p>Ka viņš mekleja?</p>
+             <p>Ne, ne, nemūžam vairs puķes tā neziedēs un nekad saule nevizēs. Un bērni un sapņi un mīlestiba nekad nebūs vairs tādi, kā toreiz. Ta bija pasaule, kas aizpeldējusi un nodzirkstejusi un izbeigusies. Vaj tad viņas nekur nevar atrast neviens? Vaj tas, kas bijis, bez pēdām var pazust kā dvaša? Vaj tikai par teiku pārvēršas?</p>
+             <p>Nu viņš mekleja tikai teikas, jo viss tas par teiku bija palicis. Viņš mekleja te ta augstakā brīža, kuŗā ikkatrs pasaku zemē ir bijis, viņš mekleja</p>
+             <pb/>
+             <p>kādas priekšdzīves aiz šo dienu un telpas robežam — ja, ta bija kāda cita, agraku mūžu dzīve — tik tāla un neapjaušami skaista ta bija. Kas viņai vairs ticeja? Tas, kas teikam un sapņiem tic.</p>
+             <p>Visi ir atraisījušies no tās dzīves, viņš viens vēl tur bija. Viņš viens bija meklējis ķēniņmeitu... bija gaidijis gadu gadiem un bija caur tumsu un cauri jūŗam gadiem skrējis uz savu sapņu spārniem un bija caur uguni traucies — pēc kādas apsolitas līgavas rokas.</p>
+             <p>Viņš bija sadedzinats un izplēnejis, viņš bija lieks starp visiem, bet viņam pastāvigi skaneja ausīs klusi aicinoši vārdi — turp uz to zemi...</p>
+             <p>Viņam nebija ne mājas, ne ieguvumu, ne cīņu te, kur katrs tveŗ rokam savu daļu. Viņam bija mazas dziesmas un mazas teikas tikai...</p>
+             <p>Smailis pacēla galvu kad visi jau bija prom.</p>
+             <p>Zvans tornī bija jau nozvanijis, durvis aizslēgtas. Klusi tikai vēji vēdināja bērzu lokanos zarus un vēlas vasaras diena kā salda dziesma dunēja pār zemi.</p>
+             <p>Apkārt baznicai tikai gulēja sirmu akmeņu valnis, apsūnojis kā kapeņu sēta.</p>
+             <p>Aiz ezera, kā liela gleznotajā vilkta linija, kā izšauta loka līksts, slaidā līkumā dusēja leišu meži...</p>
+             <p>Ne, nekas nava pasaka. Tā tiešam reiz ir bijis, kā zuz mīļie vārdi...</p>
+             <p>Pār sirdi lija prieks kā zelta lietus. Viņš visu bija atradis...</p>
+             <p>Tad viņš aizvēra aiz sevis mazos vārtiņus un klusi aizgāja, kā nācis, pa balto lielceļu. Roku rokā viņš staigaja un runaja mīļus vārdus ar savu tālo, mekleto līgavu.</p>
+             <p>Viņi runaja par kādu priekšlaiku dzīvi uz ugunigās salas vaiņagu zaļumā.</p>
+             <p>*** </p>
+             <p>Vaj tad tik nieciga ir cilveka laime?</p>
+             <p>Ja, dīvaina ir zemes dēla dvēsele ar savu dārgumu.</p>
+             <pb/>
+             <p>Un ja pie viņa pieietu kāds bagāts karalis un solitu tam visu zemes godibu un varu par to mazo ziedu viņa pirkstos — vaj viņš to atdotu?</p>
+             <p>„Ak, karal," viņš teiktu — „ko tev līdzēs mans brīnums, ja tev nava pašam sava?"</p>
+             <p>Jo pārdot un pirkt mēs viņu nevaram, tāpat kā savu dzīvibu.</p>
+             <p>1911.</p>
+ 	</div>
+     </body>
+ </text>        
+</TEI>  
+  
