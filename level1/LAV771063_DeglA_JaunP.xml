@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lv" xml:id="LVA771063_DeglA_JaunP">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lv" xml:id="LAV771063_DeglA_JaunP">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -14,15 +14,7 @@
         <measure unit="pages">700</measure>
       </extent>
       <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <date when="2022-04-22"/>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/"> Licenced under CC-BY 4.0 </licence>
-        </availability>
-        <ref type="doi" target="http://dom.lndb.lv/data/obj/771057"/>
-	<ref type="doi" target="http://dom.lndb.lv/data/obj/771059"/>
-        <ref type="doi" target="http://dom.lndb.lv/data/obj/771061"/>
-        <ref type="doi" target="http://dom.lndb.lv/data/obj/771063"/>
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -55,9 +47,9 @@
       </profileDesc>
     <revisionDesc>
       <change when="2022-04-22">Automātiski pārveidots ELTeC formātā</change>
+      <change when="2022-04-23">Izlabotas kļūdas galvenē</change>
     </revisionDesc>
   </teiHeader>
-
   <text>
      <body>
          <div type="group">

@@ -1,5 +1,5 @@
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lv" xml:id="LVA949290_Zemza_KrusU">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lv" xml:id="LAV949290_Zemza_KrusU">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,12 +15,7 @@
         <measure unit="pages">112</measure>
       </extent>
       <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <date when="2022-04-22"/>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/"> Licenced under CC-BY 4.0 </licence>
-        </availability>
-        <ref type="doi" target="http://dom.lndb.lv/data/obj/949290"/>
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -43,8 +38,9 @@
         </textDesc>
       </profileDesc>
     <revisionDesc>
-      <change when="2022-04-22">Automātiski pārveidots ELTeC formātā</change>
       <change when="2021-12-08">Modernizēta ortogrāfija (Pārveidots mūsdienu ortogrāfijā)</change>
+      <change when="2022-04-22">Automātiski pārveidots ELTeC formātā</change>
+      <change when="2022-04-23">Izlabotas kļūdas galvenē</change>
     </revisionDesc>
   </teiHeader> 
   <text>
