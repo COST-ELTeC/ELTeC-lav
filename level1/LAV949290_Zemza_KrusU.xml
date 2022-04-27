@@ -37,7 +37,7 @@
     </revisionDesc>
   </teiHeader> 
   <text>
-      <body>
+      <body><div type="chapter">
           <p>Uz galda dega vienkārša petrolejas lampa,
           apgaismodama nelielu istabiņu un tās diezgan nabadzigo
           iekārtojumu. Visapkārt pa gultu, krēsliem un
@@ -10663,6 +10663,6 @@
           mirdzošām malam, paceldamies arvien augstak un
           augstak, līdz nezin kur — pavisam nozuda...</p>
           <p>Iestājas melna tumsa — —</p>
-      </body>
+    </div>  </body>
   </text>
 </TEI>

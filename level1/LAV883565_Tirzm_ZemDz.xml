@@ -37,7 +37,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-     <body>
+     <body><div type="chapter">
          <p>Viņa bija norūpejusies un raižu nospiesta, 
          kad viņa to teica : „Mēs varam ari
          šķirties.“</p>
@@ -2663,7 +2663,7 @@
          ka viņš aprok savas svētās sāpes, lai ar
          jauniem ziediem rotatos un savas sirds tuksnesī,
          kas asaram laistits, jaunas ceribas sēj...</p>
-         <pb/>—<p> „Vaj būs nāceja, vaj ne?“ —
+         <pb/><p> „Vaj būs nāceja, vaj ne?“ —
          Vizbuls domā mājas priekšā uz sola sēdedams 
          un gŗūtsirdigi sūc savu īso kalķiti.</p>
          <p>Bet viņam aizejot Eda karstu roku noglauda 
@@ -3883,6 +3883,6 @@
          tuvumu dzimtenes dabas svētajā elpā?</p>
          <p>Eda ticeja, ka viņi atgriezisies kādu reiz
          un sapratīs mātes un dzimtenes mīlestibu.</p>
-     </body>
+    </div> </body>
  </text>
 </TEI>
