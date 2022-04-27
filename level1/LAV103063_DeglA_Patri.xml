@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lv" xml:id="LAV103063_DeglA_Patri">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lv" xml:id="LAV103063">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-      <title>Patrioti</title>
-      <author>Deglavs, Augusts, 1862–1922</author>
+      <title>Patrioti : ELTeC izdevums</title>
+      <author>Deglavs,  Augusts (1862-1922)</author>
       <respStmt>
         <resp>editor</resp>
         <name>Artis Ozols</name>
@@ -31,19 +31,13 @@
         </bibl>
       </sourceDesc>
     </fileDesc>
-      <profileDesc
-          xmlns:e="http://distantreading.net/eltec/ns">
-        <langUsage>
+      <encodingDesc n="eltec-1"><p/></encodingDesc><profileDesc>
+        <langUsage xmlns:e="http://distantreading.net/eltec/ns">
       <language ident="lv" usage="100"/>
         </langUsage>
-        <textDesc>
-          <e:authorGender key="M"/>
-          <e:canonicity key="low"/>
-          <e:size key="long"/>
-          <e:timeSlot key="T4"/>
-        </textDesc>
+        <textDesc xmlns:e="http://distantreading.net/eltec/ns"><e:authorGender key="M"/><e:size key="long"/><e:reprintCount key="low"/><e:timeSlot key="T4"/></textDesc>
       </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2022-04-27">LB tidied with lavTidy script</change>
       <change when="2022-04-22">Automātiski pārveidots ELTeC formātā</change>
       <change when="2022-04-23">Izlabotas kļūdas galvenē</change>
     </revisionDesc>
@@ -6600,5 +6594,4 @@
          </div>
      </body>
  </text>
-</TEI>  
-  
+</TEI>

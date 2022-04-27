@@ -33,7 +33,7 @@
 <textDesc> 
 <e:authorGender key="M"/>
 <e:size key="medium"/>
-<e:canonicity key="low"/>
+<e:reprintCount key="low"/>
 <e:timeSlot key="T4"/>
 </textDesc>
 </profileDesc>

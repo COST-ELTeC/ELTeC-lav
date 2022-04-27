@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lv" xml:id="LAV413085_KaudR_MernL">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lv" xml:id="LAV413085">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-      <title>Mērnieku laiki</title>
-      <author>Kaudzīte, Reinis, 1839–1920; Kaudzīte, Matīss, 1848–1926 </author>
+      <title>Mērnieku laiki : ELTeC izdevums</title>
+      <author>Kaudzīte,  Reinis (1839-1920)?; Kaudzīte, Matīss, 1848–1926 ?</author>
       <respStmt>
         <resp>editor</resp>
         <name>Artis Ozols</name>
@@ -31,19 +31,13 @@
         </bibl>
       </sourceDesc>
     </fileDesc>
-      <profileDesc
-          xmlns:e="http://distantreading.net/eltec/ns">
-        <langUsage>
+      <encodingDesc n="eltec-1"><p/></encodingDesc><profileDesc>
+        <langUsage xmlns:e="http://distantreading.net/eltec/ns">
       <language ident="lv" usage="100"/>
         </langUsage>
-        <textDesc>
-          <e:authorGender key="M"/>
-          <e:canonicity key="high"/>
-          <e:size key="long"/>
-          <e:timeSlot key="T2"/>
-        </textDesc>
+        <textDesc xmlns:e="http://distantreading.net/eltec/ns"><e:authorGender key="M"/><e:size key="long"/><e:reprintCount key="high"/><e:timeSlot key="T2"/></textDesc>
       </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2022-04-27">LB tidied with lavTidy script</change>
       <change when="2022-04-22">Automātiski pārveidots ELTeC formātā</change>
       <change when="2022-04-23">Izlabotas kļūdas galvenē</change>
     </revisionDesc>
@@ -3393,5 +3387,4 @@
          </div>
      </body>
  </text>
-</TEI>  
-  
+</TEI>
