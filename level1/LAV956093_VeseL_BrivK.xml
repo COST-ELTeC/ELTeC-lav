@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
       <title>Starp Sibiriju un Indiju, jeb, Tuksnešu varoņi  : ELTeC izdevums</title>
-      <author>?Vesers, Leons (?-?)?</author>
+      <author>Vesers, Leons (?-?)</author>
       <respStmt>
         <resp>editor</resp>
         <name>Artis Ozols</name>
@@ -21,7 +21,7 @@
           <ref target="https://dom.lndb.lv/data/obj/956089">Vesers, Leons, Starp Sibiriju un Indiju, jeb, Tuksnešu varoņi 
           </ref>
           <publisher>National Library of Latvia</publisher>
-        </bibl>
+        </bibl><bibl type="firstEdition"><date>1909</date> </bibl>
       </sourceDesc>
     </fileDesc>
       <encodingDesc n="eltec-1"><p/></encodingDesc><profileDesc>

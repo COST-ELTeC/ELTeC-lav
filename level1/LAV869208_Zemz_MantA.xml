@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Mantu, asinis, dzīvību uz Tēvijas altāra : ELTeC izdevums</title>
-                <author>?Zemzarītis (?-?)?</author>
+                <author>Zemzarītis (?-?)</author>
                 <respStmt>
                     <resp>editor</resp>
                     <name>Artis Ozols</name>
@@ -20,7 +20,7 @@
                 <bibl type="digitalSource">
                     <ref target="http://dom.lndb.lv/data/obj/869208">Zemzarītis, Mantu, asinis, dzīvību uz Tēvijas altāra</ref>
                     <publisher>National Library of Latvia</publisher>
-                </bibl>
+                </bibl><bibl type="firstEdition"><date>1904</date> </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1"><p/></encodingDesc><profileDesc>

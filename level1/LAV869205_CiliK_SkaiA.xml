@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-      <title>Skaistā Adelīna, jeb: Mīlestība un briesmas: Jaunlaiku oriģinalromans iz Rigas sadzīves : ELTeC izdevums</title>
+      <title>Skaistā Adelīna, jeb Mīlestība un briesmas. Jaunlaiku oriģinalromans iz Rigas sadzīves : ELTeC izdevums</title>
       <author>Cilinskis,  Kārlis (1845-1912)</author>
       <respStmt>
         <resp>editor</resp>
@@ -21,7 +21,7 @@
           <ref target="http://dom.lndb.lv/data/obj/869205">Cilinskis, Kārlis, 1845–1912, Skaistā Adelīna, jeb: Mīlestība un briesmas: Jaunlaiku oriģinalromans iz Rigas sadzīves
           </ref>
           <publisher>National Library of Latvia</publisher>
-        </bibl>
+        </bibl><bibl type="firstEdition"><date>1904</date></bibl>
       </sourceDesc>
     </fileDesc>
       <encodingDesc n="eltec-1"><p/></encodingDesc><profileDesc>

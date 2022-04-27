@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
       <title>Zem dzimtenes debesīm : ELTeC izdevums</title>
-      <author>?Tirzmaliete, 1876–1942?</author>
+      <author>Tirzmaliete (1876-1942)</author>
       <respStmt>
         <resp>editor</resp>
         <name>Artis Ozols</name>
@@ -21,7 +21,7 @@
           <ref target="http://dom.lndb.lv/data/obj/883565">Tirzmaliete, 1876–1942, Zem dzimtenes debesīm
           </ref>
           <publisher>National Library of Latvia</publisher>
-        </bibl>
+        </bibl><bibl type="firstEdition"><date>1911</date> </bibl>
       </sourceDesc>
     </fileDesc>
       <encodingDesc n="eltec-1"><p/></encodingDesc><profileDesc>

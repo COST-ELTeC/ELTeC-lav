@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
       <title>Zem saules : ELTeC izdevums</title>
-      <author>?Skuju Frīdis, 1887–1942?</author>
+      <author>Skuju Frīdis (1887–1942)</author>
       <respStmt>
         <resp>editor</resp>
         <name>Artis Ozols</name>
@@ -21,7 +21,7 @@
           <ref target="https://dom.lndb.lv/data/obj/1040964">Skuju Frīdis, 1887–1942, Zem saules
           </ref>
           <publisher>National Library of Latvia</publisher>
-        </bibl>
+        </bibl><bibl type="firstEdition"><date>1912</date> </bibl>
       </sourceDesc>
     </fileDesc>
       <encodingDesc n="eltec-1"><p/></encodingDesc><profileDesc>

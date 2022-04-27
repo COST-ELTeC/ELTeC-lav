@@ -23,7 +23,7 @@
 
 </sourceDesc>
 </fileDesc>
-<encodingDesc n="eltec-0">
+<encodingDesc n="eltec-1">
 <p/>
 </encodingDesc>
 <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
@@ -32,7 +32,7 @@
 </langUsage> 
 <textDesc> 
 <e:authorGender key="M"/>
-<e:size key="medium"/>
+<e:size key="short"/>
 <e:reprintCount key="low"/>
 <e:timeSlot key="T4"/>
 </textDesc>

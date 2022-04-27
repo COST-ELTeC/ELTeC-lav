@@ -2,8 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-      <title>Indriķis, jeb Greizsirdības upuri : oriģinalromans iz Baltijas zemnieku sadzīves jaunākiem laikiem : ELTeC izdevums</title>
-      <author>?Kaukazietis (1865-1932)?</author>
+      <title>Indriķis, jeb Greizsirdības upuri. Oriģinalromans iz Baltijas zemnieku sadzīves jaunākiem laikiem : ELTeC izdevums</title>
+      <author>Kaukazietis (1865-1932)</author>
       <respStmt>
         <resp>editor</resp>
         <name>Artis Ozols</name>
@@ -21,7 +21,7 @@
           <ref target="https://dom.lndb.lv/data/obj/1040959">Kaukazietis, Indriķis, jeb Greizsirdības upuri : oriģinalromans iz Baltijas zemnieku sadzīves jaunākiem laikiem
           </ref>
           <publisher>National Library of Latvia</publisher>
-        </bibl>
+       </bibl><bibl type="firstEdition"><date>1891</date> </bibl>
       </sourceDesc>
     </fileDesc>
       <encodingDesc n="eltec-1"><p/></encodingDesc><profileDesc>
