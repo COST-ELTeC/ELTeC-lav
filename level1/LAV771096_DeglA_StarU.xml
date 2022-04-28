@@ -23,6 +23,13 @@
           <ref target="https://dom.lndb.lv/data/obj/771098">Deglavs, Augusts, 1862–1922, Starp divām ugunīm : romāns. 3.daļa</ref>
           <publisher>National Library of Latvia</publisher>
         </bibl>
+	<bibl type="firstEdition">
+          <title>Starp divām ugunīm</title>
+          <author>Deglavs, Augusts, 1862–1922</author>
+          <publisher>Rīga: F. Gēliņš</publisher>
+          <pubPlace>Rīga</pubPlace>
+          <date>1891</date>
+        </bibl>
       </sourceDesc>
     </fileDesc>
       <encodingDesc n="eltec-1"><p/></encodingDesc><profileDesc>

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-      <title>Starp Sibiriju un Indiju, jeb, Tuksnešu varoņi  : ELTeC izdevums</title>
+      <title>Brīvības karotāji pie Sarkanās upes  : ELTeC izdevums</title>
       <author>Vesers, Leons (?-?)</author>
       <respStmt>
         <resp>editor</resp>
@@ -10,18 +10,18 @@
       </respStmt>
       </titleStmt>
       <extent>
-        <measure unit="words">39355</measure>
-        <measure unit="pages">196</measure>
+        <measure unit="words">28337</measure>
+        <measure unit="pages">152</measure>
       </extent>
       <publicationStmt>
         <p/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <ref target="https://dom.lndb.lv/data/obj/956089">Vesers, Leons, Starp Sibiriju un Indiju, jeb, Tuksnešu varoņi 
+          <ref target="https://dom.lndb.lv/data/obj/956093">Vesers, Leons, Brīvības karotāji pie Sarkanās upes
           </ref>
           <publisher>National Library of Latvia</publisher>
-        </bibl><bibl type="firstEdition"><date>1909</date> </bibl>
+        </bibl><bibl type="firstEdition"><date>1910</date> </bibl>
       </sourceDesc>
     </fileDesc>
       <encodingDesc n="eltec-1"><p/></encodingDesc><profileDesc>
@@ -30,10 +30,12 @@
         </langUsage>
         <textDesc xmlns:e="http://distantreading.net/eltec/ns"><e:authorGender key="M"/><e:size key="short"/><e:reprintCount key="low"/><e:timeSlot key="T4"/></textDesc>
       </profileDesc>
-    <revisionDesc><change when="2022-04-27">LB tidied with lavTidy script</change>
-      <change when="2022-01-06">Modernizēta ortogrāfija (Pārveidots mūsdienu ortogrāfijā)</change>
-      <change when="2022-04-22">Automātiski pārveidots ELTeC formātā</change>
+    <revisionDesc>
+      <change when="2022-04-28">Izlabotas kļūdas galvenē</change>
+      <change when="2022-04-27">LB tidied with lavTidy script</change>
       <change when="2022-04-23">Izlabotas kļūdas galvenē</change>
+      <change when="2022-04-22">Automātiski pārveidots ELTeC formātā</change>
+      <change when="2022-01-06">Modernizēta ortogrāfija (Pārveidots mūsdienu ortogrāfijā)</change>
     </revisionDesc>
   </teiHeader> 
   <text>
