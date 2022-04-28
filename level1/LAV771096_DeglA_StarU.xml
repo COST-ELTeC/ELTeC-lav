@@ -38,10 +38,12 @@
         </langUsage>
         <textDesc xmlns:e="http://distantreading.net/eltec/ns"><e:authorGender key="M"/><e:size key="long"/><e:reprintCount key="low"/><e:timeSlot key="T3"/></textDesc>
       </profileDesc>
-    <revisionDesc><change when="2022-04-27">LB tidied with lavTidy script</change>
-      <change when="2022-02-10">Modernizēta ortogrāfija (Pārveidots mūsdienu ortogrāfijā)</change>
-      <change when="2022-04-22">Automātiski pārveidots ELTeC formātā</change>
+    <revisionDesc>
+      <change when="2022-04-28">Pievienota firstEdition sadaļa</change>
+      <change when="2022-04-27">LB tidied with lavTidy script</change>
       <change when="2022-04-23">Izlabotas kļūdas galvenē</change>
+      <change when="2022-04-22">Automātiski pārveidots ELTeC formātā</change>
+      <change when="2022-02-10">Modernizēta ortogrāfija (Pārveidots mūsdienu ortogrāfijā)</change>
     </revisionDesc>
   </teiHeader>
   <text>
